@@ -1,2 +1,2 @@
 # arafirsyah.github.io
-my repo
+Berikut merupakan API Wilayah Indonesia, yang masih perlu banyak pengembangan
