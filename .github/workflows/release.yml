@@ -2,49 +2,38 @@ name: Release & Deploy to GitHub Pages
 
 on:
   push:
-    branches: [master]
+    branches:
+      - master
   workflow_dispatch:
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 jobs:
-  release:
-    name: Build, Release, Deploy
+  build-release-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: 20
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install changelogithub
+        run: npm install -g changelogithub
 
-    - name: Bump & Tag
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git tag v$(date +'%Y%m%d%H%M%S')
-        git push origin --tags
+      - name: Generate Release with changelog
+        run: changelogithub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Generate changelog and release
-      run: changelogithub
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
 
-    - name: Build static files
-      run: |
-        mkdir dist
-        echo "API Wilayah Selindo" > dist/index.html
+      - name: Upload build to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public # Ganti jika folder build kamu bukan `public`
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GH_TOKEN }}
-        publish_dir: ./
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
