@@ -2,24 +2,46 @@ async function loadData(url, targetId, childId = null) {
     const select = document.getElementById(targetId);
     const childSelect = childId ? document.getElementById(childId) : null;
 
-    // Reset current and child dropdown
-    select.innerHTML = '<option value="">Pilih</option>';
-    if (childSelect) childSelect.innerHTML = '<option value="">Pilih</option>';
+    // Reset dropdown yang dipilih dan dropdown turunannya
+    select.innerHTML = '<option value="">Silakan Pilih</option>';
+    if (childSelect) childSelect.innerHTML = '<option value="">Silakan Pilih</option>';
 
     try {
-        // Construct the full path from public directory
+        // Membangun path lengkap dari direktori public
         const fullPath = `/api-wilayah-selindo/static/api/${url}`;
         const res = await fetch(fullPath);
         if (!res.ok) {
-            throw new Error(`HTTP error! status: ${res.status}`);
+            throw new Error(`Error HTTP! status: ${res.status}`);
         }
         const data = await res.json();
 
         if (!Array.isArray(data)) {
-            console.error("Gagal load:", data);
+            console.error("Gagal memuat data:", data);
             return;
         }
 
+        // Pastikan data adalah array dan memiliki properti name
+        if (!Array.isArray(data)) {
+            console.error('Data yang diterima bukan array:', data);
+            return;
+        }
+
+        // Debug: Tampilkan data sebelum diurutkan
+        console.log('Data sebelum diurutkan:', data.map(item => item.name));
+
+        // Mengurutkan data berdasarkan nama secara ascending (A-Z)
+        data.sort((a, b) => {
+            if (!a.name || !b.name) {
+                console.error('Data tidak valid:', { a, b });
+                return 0;
+            }
+            return a.name.localeCompare(b.name, 'id');
+        });
+        
+        // Debug: Tampilkan data setelah diurutkan
+        console.log('Data setelah diurutkan:', data.map(item => item.name));
+        
+        // Mengisi dropdown dengan data yang sudah diurutkan
         data.forEach(item => {
             const opt = document.createElement('option');
             opt.value = item.id;
@@ -30,7 +52,7 @@ async function loadData(url, targetId, childId = null) {
             select.appendChild(opt);
         });
     } catch (e) {
-        console.error("Error AJAX:", e);
+        console.error("Kesalahan AJAX:", e);
         document.getElementById('postalInfo').innerHTML = `
             <div class="postal-result error">
                 Terjadi kesalahan saat memuat data: ${e.message}
@@ -61,12 +83,14 @@ async function searchPostalCode() {
                 throw new Error(`Invalid district ID format: ${districtId}`);
             }
             
-            // Get village details using the correct path
+            // Mendapatkan detail kelurahan dengan pengurutan
             const villageRes = await fetch(`/api-wilayah-selindo/static/api/districts/${districtId}/villages.json`);
             if (!villageRes.ok) {
                 throw new Error(`HTTP error! status: ${villageRes.status}`);
             }
-            const villages = await villageRes.json();
+            let villages = await villageRes.json();
+            // Mengurutkan kelurahan berdasarkan nama
+            villages.sort((a, b) => a.name.localeCompare(b.name, 'id'));
             const village = villages.find(v => v.id === firstVillageId);
             
             if (!village) {
@@ -79,7 +103,9 @@ async function searchPostalCode() {
             if (!districtRes.ok) {
                 throw new Error(`HTTP error! status: ${districtRes.status}`);
             }
-            const districts = await districtRes.json();
+            let districts = await districtRes.json();
+            // Mengurutkan kecamatan berdasarkan nama
+            districts.sort((a, b) => a.name.localeCompare(b.name, 'id'));
             const district = districts.find(d => d.id === districtId);
             if (!district) {
                 throw new Error(`District with ID ${districtId} not found in regency ${regencyIdForDistrict}`);
@@ -93,7 +119,9 @@ async function searchPostalCode() {
             if (!regencyRes.ok) {
                 throw new Error(`HTTP error! status: ${regencyRes.status}`);
             }
-            const regencies = await regencyRes.json();
+            let regencies = await regencyRes.json();
+            // Mengurutkan kabupaten/kota berdasarkan nama
+            regencies.sort((a, b) => a.name.localeCompare(b.name, 'id'));
             const regency = regencies.find(r => r.id === regencyId);
             if (!regency) {
                 throw new Error(`Regency with ID ${regencyId} not found in province ${provinceIdForRegency}`);
@@ -185,16 +213,13 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById('kelurahan').addEventListener('change', async function () {
         const id = this.value;
         if (id) {
-            const res = await fetch(`/api-wilayah-selindo/static/api/districts/${id.slice(0, 6)}/villages.json`);
-            if (!res.ok) {
-                console.error('Error fetching data:', res.statusText);
-                return;
-            }
-            const villages = await res.json();
-            const village = villages.find(v => v.id === id);
-            if (village) {
-                showVillagePostalCode(village);
-            }
+            const selectedOption = this.options[this.selectedIndex];
+            const village = {
+                id: id,
+                name: selectedOption.textContent.split(' (')[0], // Menghapus kode pos dari teks jika ada
+                postal_code: selectedOption.textContent.match(/\((\d+)\)/)?.[1] // Mengekstrak kode pos
+            };
+            showVillagePostalCode(village);
         }
     });
 });
