@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # Set base URL
-RewriteBase /wilayah-selindo/
+RewriteBase /api-wilayah-selindo/
 
 # If the request is for a file or directory that exists, serve it directly
 RewriteCond %{REQUEST_FILENAME} -f [OR]
