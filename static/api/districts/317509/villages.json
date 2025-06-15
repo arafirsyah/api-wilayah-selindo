@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3175091001",
+        "district_id": "317509",
+        "name": "Ciracas",
+        "postal_code": "13740"
+    },
+    {
+        "id": "3175091002",
+        "district_id": "317509",
+        "name": "Cibubur",
+        "postal_code": "13720"
+    },
+    {
+        "id": "3175091003",
+        "district_id": "317509",
+        "name": "Kelapa Dua Wetan",
+        "postal_code": "13730"
+    },
+    {
+        "id": "3175091004",
+        "district_id": "317509",
+        "name": "Susukan",
+        "postal_code": "13750"
+    },
+    {
+        "id": "3175091005",
+        "district_id": "317509",
+        "name": "Rambutan",
+        "postal_code": "13830"
+    }
+]

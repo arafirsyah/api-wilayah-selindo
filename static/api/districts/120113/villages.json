@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1201131003",
+        "district_id": "120113",
+        "name": "Nauli",
+        "postal_code": ""
+    },
+    {
+        "id": "1201132001",
+        "district_id": "120113",
+        "name": "Bonandolok",
+        "postal_code": ""
+    },
+    {
+        "id": "1201132002",
+        "district_id": "120113",
+        "name": "Rampa",
+        "postal_code": ""
+    },
+    {
+        "id": "1201132004",
+        "district_id": "120113",
+        "name": "Mardame",
+        "postal_code": ""
+    },
+    {
+        "id": "1201132005",
+        "district_id": "120113",
+        "name": "Naga Timbul",
+        "postal_code": ""
+    },
+    {
+        "id": "1201132006",
+        "district_id": "120113",
+        "name": "Simaninggir",
+        "postal_code": ""
+    }
+]

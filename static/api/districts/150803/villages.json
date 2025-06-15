@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1508031006",
+        "district_id": "150803",
+        "name": "Tanjung Gedang",
+        "postal_code": "37214"
+    },
+    {
+        "id": "1508031007",
+        "district_id": "150803",
+        "name": "Bungo Timur",
+        "postal_code": "37214"
+    },
+    {
+        "id": "1508031008",
+        "district_id": "150803",
+        "name": "Bungo Barat",
+        "postal_code": "37214"
+    },
+    {
+        "id": "1508031022",
+        "district_id": "150803",
+        "name": "Jaya Setia",
+        "postal_code": "37214"
+    },
+    {
+        "id": "1508031023",
+        "district_id": "150803",
+        "name": "Batang Bungo",
+        "postal_code": "37214"
+    }
+]

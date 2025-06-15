@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1708082001",
+        "district_id": "170808",
+        "name": "Limbur Baru",
+        "postal_code": "39375"
+    },
+    {
+        "id": "1708082002",
+        "district_id": "170808",
+        "name": "Batu Kalung",
+        "postal_code": "39375"
+    },
+    {
+        "id": "1708082003",
+        "district_id": "170808",
+        "name": "Batu Bandung",
+        "postal_code": "39375"
+    },
+    {
+        "id": "1708082004",
+        "district_id": "170808",
+        "name": "Sosokan Baru",
+        "postal_code": "39375"
+    },
+    {
+        "id": "1708082005",
+        "district_id": "170808",
+        "name": "Sosokan Taba (Sosokan Tabah)",
+        "postal_code": "39375"
+    },
+    {
+        "id": "1708082006",
+        "district_id": "170808",
+        "name": "Talang Tige",
+        "postal_code": "39375"
+    },
+    {
+        "id": "1708082007",
+        "district_id": "170808",
+        "name": "Renah Kurung",
+        "postal_code": "39375"
+    },
+    {
+        "id": "1708082008",
+        "district_id": "170808",
+        "name": "Warung Pojok",
+        "postal_code": "39375"
+    }
+]

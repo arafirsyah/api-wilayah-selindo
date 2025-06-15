@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1507061006",
+        "district_id": "150706",
+        "name": "Rantau Indah",
+        "postal_code": "36763"
+    },
+    {
+        "id": "1507062003",
+        "district_id": "150706",
+        "name": "Kuala Dendang",
+        "postal_code": "36763"
+    },
+    {
+        "id": "1507062004",
+        "district_id": "150706",
+        "name": "Kota Kandis Dendang (Kuta \/ Koto Kandis Dendang)",
+        "postal_code": "36763"
+    },
+    {
+        "id": "1507062005",
+        "district_id": "150706",
+        "name": "Koto Kandis",
+        "postal_code": "36763"
+    },
+    {
+        "id": "1507062007",
+        "district_id": "150706",
+        "name": "Sido Mukti",
+        "postal_code": "36763"
+    },
+    {
+        "id": "1507062008",
+        "district_id": "150706",
+        "name": "Catur Rahayu",
+        "postal_code": "36763"
+    },
+    {
+        "id": "1507062009",
+        "district_id": "150706",
+        "name": "Jati Mulyo",
+        "postal_code": "36763"
+    }
+]

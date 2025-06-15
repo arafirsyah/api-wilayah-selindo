@@ -1,0 +1,290 @@
+[
+    {
+        "id": "1107242001",
+        "district_id": "110724",
+        "name": "Baroh (Baroh Ujong Rimba)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242002",
+        "district_id": "110724",
+        "name": "Alue Jojo (Jojo)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242003",
+        "district_id": "110724",
+        "name": "Kampong Cot Usi (Gampong Cot Usi)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242004",
+        "district_id": "110724",
+        "name": "Dayah Usi",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242005",
+        "district_id": "110724",
+        "name": "Paloh Lhok Usi",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242006",
+        "district_id": "110724",
+        "name": "Campli Usi",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242007",
+        "district_id": "110724",
+        "name": "Mee Tanjong",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242008",
+        "district_id": "110724",
+        "name": "Mesjid Usi",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242009",
+        "district_id": "110724",
+        "name": "Paloh Raya",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242010",
+        "district_id": "110724",
+        "name": "Nibong",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242011",
+        "district_id": "110724",
+        "name": "Baro Ujong Rimba",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242012",
+        "district_id": "110724",
+        "name": "Rinti",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242013",
+        "district_id": "110724",
+        "name": "Didoh",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242014",
+        "district_id": "110724",
+        "name": "Meugit",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242015",
+        "district_id": "110724",
+        "name": "Empeh",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242016",
+        "district_id": "110724",
+        "name": "Blang Riek",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242017",
+        "district_id": "110724",
+        "name": "Bale Ujong Rimba",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242018",
+        "district_id": "110724",
+        "name": "Mon Ara",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242019",
+        "district_id": "110724",
+        "name": "Kulam Ara",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242020",
+        "district_id": "110724",
+        "name": "Blangong Basah",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242021",
+        "district_id": "110724",
+        "name": "Rambong",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242022",
+        "district_id": "110724",
+        "name": "Kampong Lada (Gampong Lada)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242023",
+        "district_id": "110724",
+        "name": "Dayah Kumba",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242024",
+        "district_id": "110724",
+        "name": "Cot Khutang (Cot Kuthang)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242025",
+        "district_id": "110724",
+        "name": "Dayah Tanoh",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242026",
+        "district_id": "110724",
+        "name": "Ulee Tutue",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242027",
+        "district_id": "110724",
+        "name": "Beureueh II",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242028",
+        "district_id": "110724",
+        "name": "Mesjid Jeurat Manyang",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242029",
+        "district_id": "110724",
+        "name": "Paloh Tinggi",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242030",
+        "district_id": "110724",
+        "name": "Karieng",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242031",
+        "district_id": "110724",
+        "name": "Sagoe Tumpeun (Sagoe Teumpeun)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242032",
+        "district_id": "110724",
+        "name": "Tong Peria (Tong Pria)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242033",
+        "district_id": "110724",
+        "name": "Tong Weng",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242034",
+        "district_id": "110724",
+        "name": "Pulo Drien",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242035",
+        "district_id": "110724",
+        "name": "Mesjid Gumpueng",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242036",
+        "district_id": "110724",
+        "name": "Ulee Gampong",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242037",
+        "district_id": "110724",
+        "name": "Barieh",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242038",
+        "district_id": "110724",
+        "name": "Jumphoh Adan (Jumphoi Adan)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242039",
+        "district_id": "110724",
+        "name": "Mee Adan (Me Adan)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242040",
+        "district_id": "110724",
+        "name": "Dayah Adan",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242041",
+        "district_id": "110724",
+        "name": "Alue Adan",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242042",
+        "district_id": "110724",
+        "name": "Rambot Adan",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242043",
+        "district_id": "110724",
+        "name": "Meucat Adan",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242044",
+        "district_id": "110724",
+        "name": "Tiba Mesjid (Mesjid Tiba)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242045",
+        "district_id": "110724",
+        "name": "Tiba Raya",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242046",
+        "district_id": "110724",
+        "name": "Reubat",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242047",
+        "district_id": "110724",
+        "name": "Simbe (Simbee \/ Blang Simbee)",
+        "postal_code": "24175"
+    },
+    {
+        "id": "1107242048",
+        "district_id": "110724",
+        "name": "Jiem",
+        "postal_code": "24175"
+    }
+]

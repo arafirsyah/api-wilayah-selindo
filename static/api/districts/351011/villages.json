@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3510112001",
+        "district_id": "351011",
+        "name": "Kalibarukulon (Kalibaru Kulon)",
+        "postal_code": ""
+    },
+    {
+        "id": "3510112002",
+        "district_id": "351011",
+        "name": "Kalibarumanis (Kalibaru Manis)",
+        "postal_code": ""
+    },
+    {
+        "id": "3510112003",
+        "district_id": "351011",
+        "name": "Kalibaruwetan (Kalibaru Wetan)",
+        "postal_code": ""
+    },
+    {
+        "id": "3510112004",
+        "district_id": "351011",
+        "name": "Kajarharjo",
+        "postal_code": ""
+    },
+    {
+        "id": "3510112005",
+        "district_id": "351011",
+        "name": "Banyuanyar",
+        "postal_code": ""
+    },
+    {
+        "id": "3510112006",
+        "district_id": "351011",
+        "name": "Kebonrejo",
+        "postal_code": ""
+    }
+]

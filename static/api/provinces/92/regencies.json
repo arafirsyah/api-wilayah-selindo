@@ -1,0 +1,37 @@
+[
+    {
+        "id": "9202",
+        "name": "Manokwari",
+        "province_id": "92"
+    },
+    {
+        "id": "9203",
+        "name": "Fak Fak",
+        "province_id": "92"
+    },
+    {
+        "id": "9206",
+        "name": "Teluk Bintuni",
+        "province_id": "92"
+    },
+    {
+        "id": "9207",
+        "name": "Teluk Wondama",
+        "province_id": "92"
+    },
+    {
+        "id": "9208",
+        "name": "Kaimana",
+        "province_id": "92"
+    },
+    {
+        "id": "9211",
+        "name": "Manokwari Selatan",
+        "province_id": "92"
+    },
+    {
+        "id": "9212",
+        "name": "Pegunungan Arfak",
+        "province_id": "92"
+    }
+]

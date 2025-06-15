@@ -1,0 +1,44 @@
+[
+    {
+        "id": "7503012004",
+        "district_id": "750301",
+        "name": "Talumopatu",
+        "postal_code": "96545"
+    },
+    {
+        "id": "7503012005",
+        "district_id": "750301",
+        "name": "Talulobutu",
+        "postal_code": "96545"
+    },
+    {
+        "id": "7503012006",
+        "district_id": "750301",
+        "name": "Dunggala",
+        "postal_code": "96545"
+    },
+    {
+        "id": "7503012007",
+        "district_id": "750301",
+        "name": "Langge",
+        "postal_code": "96545"
+    },
+    {
+        "id": "7503012027",
+        "district_id": "750301",
+        "name": "Talulobutu Selatan",
+        "postal_code": "96545"
+    },
+    {
+        "id": "7503012028",
+        "district_id": "750301",
+        "name": "Keramat",
+        "postal_code": "96545"
+    },
+    {
+        "id": "7503012029",
+        "district_id": "750301",
+        "name": "Meranti",
+        "postal_code": "96545"
+    }
+]

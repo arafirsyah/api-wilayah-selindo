@@ -1,0 +1,82 @@
+[
+    {
+        "id": "130601",
+        "regency_id": "1306",
+        "name": "Tanjung Mutiara"
+    },
+    {
+        "id": "130602",
+        "regency_id": "1306",
+        "name": "Lubuk Basung"
+    },
+    {
+        "id": "130603",
+        "regency_id": "1306",
+        "name": "Tanjung Raya"
+    },
+    {
+        "id": "130604",
+        "regency_id": "1306",
+        "name": "Matur"
+    },
+    {
+        "id": "130605",
+        "regency_id": "1306",
+        "name": "IV Koto (Ampek Koto)"
+    },
+    {
+        "id": "130606",
+        "regency_id": "1306",
+        "name": "Banuhampu"
+    },
+    {
+        "id": "130607",
+        "regency_id": "1306",
+        "name": "Ampek Angkek (IV Angkat Candung)"
+    },
+    {
+        "id": "130608",
+        "regency_id": "1306",
+        "name": "Baso"
+    },
+    {
+        "id": "130609",
+        "regency_id": "1306",
+        "name": "Tilatang Kamang"
+    },
+    {
+        "id": "130610",
+        "regency_id": "1306",
+        "name": "Palupuh"
+    },
+    {
+        "id": "130611",
+        "regency_id": "1306",
+        "name": "Palembayan (Pelembayan)"
+    },
+    {
+        "id": "130612",
+        "regency_id": "1306",
+        "name": "Sungai Pua (Puar)"
+    },
+    {
+        "id": "130613",
+        "regency_id": "1306",
+        "name": "Ampek Nagari (IV Nagari )"
+    },
+    {
+        "id": "130614",
+        "regency_id": "1306",
+        "name": "Candung"
+    },
+    {
+        "id": "130615",
+        "regency_id": "1306",
+        "name": "Kamang Magek"
+    },
+    {
+        "id": "130616",
+        "regency_id": "1306",
+        "name": "Malalak (Malakak)"
+    }
+]

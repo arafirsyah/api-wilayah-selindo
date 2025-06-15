@@ -1,0 +1,92 @@
+[
+    {
+        "id": "150101",
+        "regency_id": "1501",
+        "name": "Gunung Raya"
+    },
+    {
+        "id": "150102",
+        "regency_id": "1501",
+        "name": "Danau Kerinci"
+    },
+    {
+        "id": "150104",
+        "regency_id": "1501",
+        "name": "Sitinjau Laut"
+    },
+    {
+        "id": "150105",
+        "regency_id": "1501",
+        "name": "Air Hangat"
+    },
+    {
+        "id": "150106",
+        "regency_id": "1501",
+        "name": "Gunung Kerinci"
+    },
+    {
+        "id": "150107",
+        "regency_id": "1501",
+        "name": "Batang Merangin"
+    },
+    {
+        "id": "150108",
+        "regency_id": "1501",
+        "name": "Keliling Danau"
+    },
+    {
+        "id": "150109",
+        "regency_id": "1501",
+        "name": "Kayu Aro"
+    },
+    {
+        "id": "150111",
+        "regency_id": "1501",
+        "name": "Air Hangat Timur"
+    },
+    {
+        "id": "150115",
+        "regency_id": "1501",
+        "name": "Gunung Tujuh"
+    },
+    {
+        "id": "150116",
+        "regency_id": "1501",
+        "name": "Siulak"
+    },
+    {
+        "id": "150117",
+        "regency_id": "1501",
+        "name": "Depati Tujuh"
+    },
+    {
+        "id": "150118",
+        "regency_id": "1501",
+        "name": "Siulak Mukai"
+    },
+    {
+        "id": "150119",
+        "regency_id": "1501",
+        "name": "Kayu Aro Barat"
+    },
+    {
+        "id": "150120",
+        "regency_id": "1501",
+        "name": "Bukitkerman"
+    },
+    {
+        "id": "150121",
+        "regency_id": "1501",
+        "name": "Air Hangat Barat"
+    },
+    {
+        "id": "150122",
+        "regency_id": "1501",
+        "name": "Tanah Cogok"
+    },
+    {
+        "id": "150123",
+        "regency_id": "1501",
+        "name": "Danau Kerinci Barat"
+    }
+]

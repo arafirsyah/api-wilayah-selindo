@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3302271001",
+        "district_id": "330227",
+        "name": "Purwanegara",
+        "postal_code": "53127"
+    },
+    {
+        "id": "3302271002",
+        "district_id": "330227",
+        "name": "Bancarkembar",
+        "postal_code": "53121"
+    },
+    {
+        "id": "3302271003",
+        "district_id": "330227",
+        "name": "Sumampir",
+        "postal_code": "53125"
+    },
+    {
+        "id": "3302271004",
+        "district_id": "330227",
+        "name": "Pabuaran",
+        "postal_code": "53124"
+    },
+    {
+        "id": "3302271005",
+        "district_id": "330227",
+        "name": "Grendeng",
+        "postal_code": "53122"
+    },
+    {
+        "id": "3302271006",
+        "district_id": "330227",
+        "name": "Karangwangkal",
+        "postal_code": "53123"
+    },
+    {
+        "id": "3302271007",
+        "district_id": "330227",
+        "name": "Bobosan",
+        "postal_code": "53127"
+    }
+]

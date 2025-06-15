@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7407081003",
+        "district_id": "740708",
+        "name": "Sowa",
+        "postal_code": ""
+    },
+    {
+        "id": "7407081004",
+        "district_id": "740708",
+        "name": "Popalia",
+        "postal_code": ""
+    },
+    {
+        "id": "7407082001",
+        "district_id": "740708",
+        "name": "Waloindi",
+        "postal_code": ""
+    },
+    {
+        "id": "7407082002",
+        "district_id": "740708",
+        "name": "Oihu",
+        "postal_code": ""
+    },
+    {
+        "id": "7407082005",
+        "district_id": "740708",
+        "name": "Haka",
+        "postal_code": ""
+    }
+]

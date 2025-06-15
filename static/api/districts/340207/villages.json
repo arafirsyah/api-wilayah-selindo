@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3402072001",
+        "district_id": "340207",
+        "name": "Triwidadi",
+        "postal_code": "55751"
+    },
+    {
+        "id": "3402072002",
+        "district_id": "340207",
+        "name": "Sendangsari",
+        "postal_code": "55751"
+    },
+    {
+        "id": "3402072003",
+        "district_id": "340207",
+        "name": "Guwosari",
+        "postal_code": "55751"
+    }
+]

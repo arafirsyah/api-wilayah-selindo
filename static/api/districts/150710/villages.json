@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1507101010",
+        "district_id": "150710",
+        "name": "Pandan Jaya",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102001",
+        "district_id": "150710",
+        "name": "Lagan Ulu",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102002",
+        "district_id": "150710",
+        "name": "Lagan Tengah",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102004",
+        "district_id": "150710",
+        "name": "Pandan Makmur",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102005",
+        "district_id": "150710",
+        "name": "Pandan Lagan\/Logan",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102006",
+        "district_id": "150710",
+        "name": "Suka Maju",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102007",
+        "district_id": "150710",
+        "name": "Kota Baru",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102008",
+        "district_id": "150710",
+        "name": "Rantau Karya",
+        "postal_code": "36764"
+    },
+    {
+        "id": "1507102009",
+        "district_id": "150710",
+        "name": "Pandan Sejahtera",
+        "postal_code": "36764"
+    }
+]

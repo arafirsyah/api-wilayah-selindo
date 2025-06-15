@@ -1,0 +1,62 @@
+[
+    {
+        "id": "5102012001",
+        "district_id": "510201",
+        "name": "Bajera",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012002",
+        "district_id": "510201",
+        "name": "Wanagiri",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012003",
+        "district_id": "510201",
+        "name": "Pupuan Sawah",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012004",
+        "district_id": "510201",
+        "name": "Berembeng",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012005",
+        "district_id": "510201",
+        "name": "Selemadeg",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012006",
+        "district_id": "510201",
+        "name": "Sarampingan (Serampingan)",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012007",
+        "district_id": "510201",
+        "name": "Antap",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012008",
+        "district_id": "510201",
+        "name": "Wanagiri Kauh",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012009",
+        "district_id": "510201",
+        "name": "Manikyang",
+        "postal_code": "82164"
+    },
+    {
+        "id": "5102012010",
+        "district_id": "510201",
+        "name": "Bajera Utara",
+        "postal_code": "82164"
+    }
+]

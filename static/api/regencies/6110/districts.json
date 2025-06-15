@@ -1,0 +1,57 @@
+[
+    {
+        "id": "611001",
+        "regency_id": "6110",
+        "name": "Belimbing"
+    },
+    {
+        "id": "611002",
+        "regency_id": "6110",
+        "name": "Nanga Pinoh"
+    },
+    {
+        "id": "611003",
+        "regency_id": "6110",
+        "name": "Ella Hilir"
+    },
+    {
+        "id": "611004",
+        "regency_id": "6110",
+        "name": "Menukung"
+    },
+    {
+        "id": "611005",
+        "regency_id": "6110",
+        "name": "Sayan"
+    },
+    {
+        "id": "611006",
+        "regency_id": "6110",
+        "name": "Tanah Pinoh"
+    },
+    {
+        "id": "611007",
+        "regency_id": "6110",
+        "name": "Sokan"
+    },
+    {
+        "id": "611008",
+        "regency_id": "6110",
+        "name": "Pinoh Utara"
+    },
+    {
+        "id": "611009",
+        "regency_id": "6110",
+        "name": "Pinoh Selatan"
+    },
+    {
+        "id": "611010",
+        "regency_id": "6110",
+        "name": "Belimbing Hulu"
+    },
+    {
+        "id": "611011",
+        "regency_id": "6110",
+        "name": "Tanah Pinoh Barat"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7501",
+        "name": "Gorontalo",
+        "province_id": "75"
+    },
+    {
+        "id": "7502",
+        "name": "Boalemo",
+        "province_id": "75"
+    },
+    {
+        "id": "7503",
+        "name": "Bone Bolango",
+        "province_id": "75"
+    },
+    {
+        "id": "7504",
+        "name": "Pahuwato",
+        "province_id": "75"
+    },
+    {
+        "id": "7505",
+        "name": "Gorontalo Utara",
+        "province_id": "75"
+    },
+    {
+        "id": "7571",
+        "name": "Kota Gorontalo",
+        "province_id": "75"
+    }
+]

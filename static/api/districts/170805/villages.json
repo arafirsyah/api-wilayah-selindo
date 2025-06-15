@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1708051002",
+        "district_id": "170805",
+        "name": "Durian Depun",
+        "postal_code": "39371"
+    },
+    {
+        "id": "1708052001",
+        "district_id": "170805",
+        "name": "Pulo Geto (Pulogeto)",
+        "postal_code": "39371"
+    },
+    {
+        "id": "1708052003",
+        "district_id": "170805",
+        "name": "Taba Mulan",
+        "postal_code": "39371"
+    },
+    {
+        "id": "1708052004",
+        "district_id": "170805",
+        "name": "Lubuk Penyamun",
+        "postal_code": "39371"
+    },
+    {
+        "id": "1708052005",
+        "district_id": "170805",
+        "name": "Simpang Kota Bingin",
+        "postal_code": "39371"
+    },
+    {
+        "id": "1708052006",
+        "district_id": "170805",
+        "name": "Bukit Barisan",
+        "postal_code": "39371"
+    },
+    {
+        "id": "1708052007",
+        "district_id": "170805",
+        "name": "Batu Ampar",
+        "postal_code": "39371"
+    },
+    {
+        "id": "1708052008",
+        "district_id": "170805",
+        "name": "Pulo Geto Baru",
+        "postal_code": "39371"
+    }
+]

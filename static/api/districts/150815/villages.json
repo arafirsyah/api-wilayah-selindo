@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1508152001",
+        "district_id": "150815",
+        "name": "Pelayang",
+        "postal_code": "37254"
+    },
+    {
+        "id": "1508152002",
+        "district_id": "150815",
+        "name": "Peninjau",
+        "postal_code": "37254"
+    },
+    {
+        "id": "1508152003",
+        "district_id": "150815",
+        "name": "Talang Selungko (Talang Silungko)",
+        "postal_code": "37254"
+    },
+    {
+        "id": "1508152004",
+        "district_id": "150815",
+        "name": "Pulau Kerakap",
+        "postal_code": "37254"
+    },
+    {
+        "id": "1508152005",
+        "district_id": "150815",
+        "name": "Seberang Jaya",
+        "postal_code": "37254"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3604182001",
+        "district_id": "360418",
+        "name": "Binuang",
+        "postal_code": "42196"
+    },
+    {
+        "id": "3604182002",
+        "district_id": "360418",
+        "name": "Cakung",
+        "postal_code": "42196"
+    },
+    {
+        "id": "3604182003",
+        "district_id": "360418",
+        "name": "Renged",
+        "postal_code": "42196"
+    },
+    {
+        "id": "3604182004",
+        "district_id": "360418",
+        "name": "Gembor",
+        "postal_code": "42196"
+    },
+    {
+        "id": "3604182005",
+        "district_id": "360418",
+        "name": "Warakas",
+        "postal_code": "42196"
+    },
+    {
+        "id": "3604182006",
+        "district_id": "360418",
+        "name": "Sukamampir",
+        "postal_code": "42196"
+    },
+    {
+        "id": "3604182007",
+        "district_id": "360418",
+        "name": "Lamaran",
+        "postal_code": "42196"
+    }
+]

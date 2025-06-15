@@ -1,0 +1,50 @@
+[
+    {
+        "id": "2101091001",
+        "district_id": "210109",
+        "name": "Teluk Sekuni",
+        "postal_code": ""
+    },
+    {
+        "id": "2101092002",
+        "district_id": "210109",
+        "name": "Batu Lepuk",
+        "postal_code": ""
+    },
+    {
+        "id": "2101092003",
+        "district_id": "210109",
+        "name": "Kampung Hilir",
+        "postal_code": ""
+    },
+    {
+        "id": "2101092004",
+        "district_id": "210109",
+        "name": "Kampung Melayu",
+        "postal_code": ""
+    },
+    {
+        "id": "2101092005",
+        "district_id": "210109",
+        "name": "Pulau Mentebung",
+        "postal_code": ""
+    },
+    {
+        "id": "2101092006",
+        "district_id": "210109",
+        "name": "Pulau Pinang",
+        "postal_code": ""
+    },
+    {
+        "id": "2101092007",
+        "district_id": "210109",
+        "name": "Kukup",
+        "postal_code": ""
+    },
+    {
+        "id": "2101092008",
+        "district_id": "210109",
+        "name": "Pengikik",
+        "postal_code": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3301211001",
+        "district_id": "330121",
+        "name": "Sidakaya",
+        "postal_code": "53212"
+    },
+    {
+        "id": "3301211002",
+        "district_id": "330121",
+        "name": "Cilacap",
+        "postal_code": "53211"
+    },
+    {
+        "id": "3301211003",
+        "district_id": "330121",
+        "name": "Tambakreja",
+        "postal_code": "53213"
+    },
+    {
+        "id": "3301211004",
+        "district_id": "330121",
+        "name": "Tegalkamulyan",
+        "postal_code": "53215"
+    },
+    {
+        "id": "3301211005",
+        "district_id": "330121",
+        "name": "Tegalreja (Tegalrejo)",
+        "postal_code": "53215"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "110901",
+        "regency_id": "1109",
+        "name": "Simeulue Tengah (Simeuleu Tengah)"
+    },
+    {
+        "id": "110902",
+        "regency_id": "1109",
+        "name": "Salang"
+    },
+    {
+        "id": "110903",
+        "regency_id": "1109",
+        "name": "Teupah Barat"
+    },
+    {
+        "id": "110904",
+        "regency_id": "1109",
+        "name": "Simeulue Timur (Simeuleu Timur)"
+    },
+    {
+        "id": "110905",
+        "regency_id": "1109",
+        "name": "Teluk Dalam"
+    },
+    {
+        "id": "110906",
+        "regency_id": "1109",
+        "name": "Simeulue Barat (Simeuleu Barat)"
+    },
+    {
+        "id": "110907",
+        "regency_id": "1109",
+        "name": "Teupah Selatan"
+    },
+    {
+        "id": "110908",
+        "regency_id": "1109",
+        "name": "Alafan (Alapan)"
+    },
+    {
+        "id": "110909",
+        "regency_id": "1109",
+        "name": "Teupah Tengah"
+    },
+    {
+        "id": "110910",
+        "regency_id": "1109",
+        "name": "Simeulue Cut"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "9110042001",
+        "district_id": "911004",
+        "name": "Ansudu (Ansubi)",
+        "postal_code": ""
+    },
+    {
+        "id": "9110042002",
+        "district_id": "911004",
+        "name": "Betaf",
+        "postal_code": ""
+    },
+    {
+        "id": "9110042003",
+        "district_id": "911004",
+        "name": "Yamben (Jamber\/Beneraf)",
+        "postal_code": ""
+    },
+    {
+        "id": "9110042010",
+        "district_id": "911004",
+        "name": "Sunum (Yamna)",
+        "postal_code": ""
+    },
+    {
+        "id": "9110042011",
+        "district_id": "911004",
+        "name": "Komra",
+        "postal_code": ""
+    },
+    {
+        "id": "9110042013",
+        "district_id": "911004",
+        "name": "Betaf Dua (Betaf II \/ Tamnir)",
+        "postal_code": ""
+    },
+    {
+        "id": "9110042014",
+        "district_id": "911004",
+        "name": "Ansudu Dua (Ansudu II \/ Srem)",
+        "postal_code": ""
+    }
+]

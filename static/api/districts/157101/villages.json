@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1571011001",
+        "district_id": "157101",
+        "name": "Simpang IV Sipin (Simpang Empat Sipin)",
+        "postal_code": "36124"
+    },
+    {
+        "id": "1571011002",
+        "district_id": "157101",
+        "name": "Buluran Kenali",
+        "postal_code": "36123"
+    },
+    {
+        "id": "1571011003",
+        "district_id": "157101",
+        "name": "Teluk Kenali",
+        "postal_code": "36123"
+    },
+    {
+        "id": "1571011004",
+        "district_id": "157101",
+        "name": "Telanaipura",
+        "postal_code": "36122"
+    },
+    {
+        "id": "1571011010",
+        "district_id": "157101",
+        "name": "Penyengat Rendah",
+        "postal_code": "36124"
+    },
+    {
+        "id": "1571011011",
+        "district_id": "157101",
+        "name": "Pematang Sulur",
+        "postal_code": "36129"
+    },
+    {
+        "id": "1571011012",
+        "district_id": "157101",
+        "name": "Aur Kenali",
+        "postal_code": "36129"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "id": "1601",
+        "name": "Ogan Komering Ulu",
+        "province_id": "16"
+    },
+    {
+        "id": "1602",
+        "name": "Ogan Komering Ilir",
+        "province_id": "16"
+    },
+    {
+        "id": "1603",
+        "name": "Muara Enim",
+        "province_id": "16"
+    },
+    {
+        "id": "1604",
+        "name": "Lahat",
+        "province_id": "16"
+    },
+    {
+        "id": "1605",
+        "name": "Musi Rawas",
+        "province_id": "16"
+    },
+    {
+        "id": "1606",
+        "name": "Musi Banyuasin",
+        "province_id": "16"
+    },
+    {
+        "id": "1607",
+        "name": "Banyuasin",
+        "province_id": "16"
+    },
+    {
+        "id": "1608",
+        "name": "Ogan Komering Ulu Timur",
+        "province_id": "16"
+    },
+    {
+        "id": "1609",
+        "name": "Ogan Komering Ulu Selatan",
+        "province_id": "16"
+    },
+    {
+        "id": "1610",
+        "name": "Ogan Ilir",
+        "province_id": "16"
+    },
+    {
+        "id": "1611",
+        "name": "Empat Lawang",
+        "province_id": "16"
+    },
+    {
+        "id": "1612",
+        "name": "Penukal Abab Lematang Ilir",
+        "province_id": "16"
+    },
+    {
+        "id": "1613",
+        "name": "Musi Rawas Utara",
+        "province_id": "16"
+    },
+    {
+        "id": "1671",
+        "name": "Kota Palembang",
+        "province_id": "16"
+    },
+    {
+        "id": "1672",
+        "name": "Kota Pagar Alam",
+        "province_id": "16"
+    },
+    {
+        "id": "1673",
+        "name": "Kota Lubuk Linggau",
+        "province_id": "16"
+    },
+    {
+        "id": "1674",
+        "name": "Kota Prabumulih",
+        "province_id": "16"
+    }
+]

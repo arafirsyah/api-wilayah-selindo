@@ -1,0 +1,98 @@
+[
+    {
+        "id": "5305011001",
+        "district_id": "530501",
+        "name": "Kalabahi Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011002",
+        "district_id": "530501",
+        "name": "Kalabahi Kota",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011003",
+        "district_id": "530501",
+        "name": "Kalabahi Tengah",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011004",
+        "district_id": "530501",
+        "name": "Kalabahi Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011005",
+        "district_id": "530501",
+        "name": "Binongko",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011006",
+        "district_id": "530501",
+        "name": "Nusa Kenari",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011008",
+        "district_id": "530501",
+        "name": "Welai Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011009",
+        "district_id": "530501",
+        "name": "Welai Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011010",
+        "district_id": "530501",
+        "name": "Mutiara",
+        "postal_code": ""
+    },
+    {
+        "id": "5305011011",
+        "district_id": "530501",
+        "name": "Wetabua",
+        "postal_code": ""
+    },
+    {
+        "id": "5305012012",
+        "district_id": "530501",
+        "name": "Lendola",
+        "postal_code": ""
+    },
+    {
+        "id": "5305012013",
+        "district_id": "530501",
+        "name": "Fanating",
+        "postal_code": ""
+    },
+    {
+        "id": "5305012014",
+        "district_id": "530501",
+        "name": "Motongbang",
+        "postal_code": ""
+    },
+    {
+        "id": "5305012015",
+        "district_id": "530501",
+        "name": "Air Kenari",
+        "postal_code": ""
+    },
+    {
+        "id": "5305012018",
+        "district_id": "530501",
+        "name": "Teluk Kenari",
+        "postal_code": ""
+    },
+    {
+        "id": "5305012019",
+        "district_id": "530501",
+        "name": "Adang Buom",
+        "postal_code": ""
+    }
+]

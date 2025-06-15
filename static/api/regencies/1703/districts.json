@@ -1,0 +1,97 @@
+[
+    {
+        "id": "170301",
+        "regency_id": "1703",
+        "name": "Enggano"
+    },
+    {
+        "id": "170306",
+        "regency_id": "1703",
+        "name": "Kerkap"
+    },
+    {
+        "id": "170307",
+        "regency_id": "1703",
+        "name": "Kota Arga Makmur"
+    },
+    {
+        "id": "170308",
+        "regency_id": "1703",
+        "name": "Giri Mulia (Giri Mulya)"
+    },
+    {
+        "id": "170309",
+        "regency_id": "1703",
+        "name": "Padang Jaya"
+    },
+    {
+        "id": "170310",
+        "regency_id": "1703",
+        "name": "Lais"
+    },
+    {
+        "id": "170311",
+        "regency_id": "1703",
+        "name": "Batik Nau"
+    },
+    {
+        "id": "170312",
+        "regency_id": "1703",
+        "name": "Ketahun"
+    },
+    {
+        "id": "170313",
+        "regency_id": "1703",
+        "name": "Napal Putih"
+    },
+    {
+        "id": "170314",
+        "regency_id": "1703",
+        "name": "Putri Hijau"
+    },
+    {
+        "id": "170315",
+        "regency_id": "1703",
+        "name": "Air Besi"
+    },
+    {
+        "id": "170316",
+        "regency_id": "1703",
+        "name": "Air Napal"
+    },
+    {
+        "id": "170319",
+        "regency_id": "1703",
+        "name": "Hulu Palik"
+    },
+    {
+        "id": "170320",
+        "regency_id": "1703",
+        "name": "Air Padang"
+    },
+    {
+        "id": "170321",
+        "regency_id": "1703",
+        "name": "Arma Jaya"
+    },
+    {
+        "id": "170322",
+        "regency_id": "1703",
+        "name": "Tanjung Agung Palik"
+    },
+    {
+        "id": "170323",
+        "regency_id": "1703",
+        "name": "Ulok Kupai"
+    },
+    {
+        "id": "170324",
+        "regency_id": "1703",
+        "name": "Pinang Raya"
+    },
+    {
+        "id": "170325",
+        "regency_id": "1703",
+        "name": "Marga Sakti Sebelat (Marga Sakti)"
+    }
+]

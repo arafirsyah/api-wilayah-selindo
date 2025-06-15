@@ -1,0 +1,32 @@
+[
+    {
+        "id": "9302012003",
+        "district_id": "930201",
+        "name": "Ampera",
+        "postal_code": ""
+    },
+    {
+        "id": "9302012004",
+        "district_id": "930201",
+        "name": "Sohokanggo (Sokanggo)",
+        "postal_code": ""
+    },
+    {
+        "id": "9302012005",
+        "district_id": "930201",
+        "name": "Persatuan",
+        "postal_code": ""
+    },
+    {
+        "id": "9302012011",
+        "district_id": "930201",
+        "name": "Mariam",
+        "postal_code": ""
+    },
+    {
+        "id": "9302012012",
+        "district_id": "930201",
+        "name": "Mawan",
+        "postal_code": ""
+    }
+]

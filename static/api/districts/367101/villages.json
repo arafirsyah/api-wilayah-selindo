@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3671011001",
+        "district_id": "367101",
+        "name": "Sukarasa",
+        "postal_code": "15111"
+    },
+    {
+        "id": "3671011002",
+        "district_id": "367101",
+        "name": "Sukaasih (Suka Asih)",
+        "postal_code": "15111"
+    },
+    {
+        "id": "3671011003",
+        "district_id": "367101",
+        "name": "Tanah Tinggi",
+        "postal_code": "15119"
+    },
+    {
+        "id": "3671011004",
+        "district_id": "367101",
+        "name": "Buaran Indah",
+        "postal_code": "15119"
+    },
+    {
+        "id": "3671011005",
+        "district_id": "367101",
+        "name": "Cikokol",
+        "postal_code": "15117"
+    },
+    {
+        "id": "3671011006",
+        "district_id": "367101",
+        "name": "Kelapa Indah",
+        "postal_code": "15117"
+    },
+    {
+        "id": "3671011007",
+        "district_id": "367101",
+        "name": "Sukasari",
+        "postal_code": "15118"
+    },
+    {
+        "id": "3671011008",
+        "district_id": "367101",
+        "name": "Babakan",
+        "postal_code": "15118"
+    }
+]

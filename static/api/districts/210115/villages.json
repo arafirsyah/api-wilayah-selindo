@@ -1,0 +1,32 @@
+[
+    {
+        "id": "2101151003",
+        "district_id": "210115",
+        "name": "Teluk Lobam",
+        "postal_code": ""
+    },
+    {
+        "id": "2101151005",
+        "district_id": "210115",
+        "name": "Tanjung Permai",
+        "postal_code": ""
+    },
+    {
+        "id": "2101152001",
+        "district_id": "210115",
+        "name": "Busung",
+        "postal_code": ""
+    },
+    {
+        "id": "2101152002",
+        "district_id": "210115",
+        "name": "Teluk Sasah",
+        "postal_code": ""
+    },
+    {
+        "id": "2101152004",
+        "district_id": "210115",
+        "name": "Kuala Sempang",
+        "postal_code": ""
+    }
+]

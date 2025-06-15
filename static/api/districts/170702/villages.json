@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1707022001",
+        "district_id": "170702",
+        "name": "Sukau Kayo (Suka Kayo)",
+        "postal_code": "39265"
+    },
+    {
+        "id": "1707022004",
+        "district_id": "170702",
+        "name": "Tik Tebing (Atas Tebing)",
+        "postal_code": "39265"
+    },
+    {
+        "id": "1707022005",
+        "district_id": "170702",
+        "name": "Tabeak Blau",
+        "postal_code": "39265"
+    },
+    {
+        "id": "1707022006",
+        "district_id": "170702",
+        "name": "Tabeak Blau I",
+        "postal_code": "39265"
+    },
+    {
+        "id": "1707022008",
+        "district_id": "170702",
+        "name": "Daneo \/ Daneu \/ Danau",
+        "postal_code": "39265"
+    },
+    {
+        "id": "1707022012",
+        "district_id": "170702",
+        "name": "Blau",
+        "postal_code": "39265"
+    }
+]

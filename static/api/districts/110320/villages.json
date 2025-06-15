@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1103202001",
+        "district_id": "110320",
+        "name": "Simpang Jernih",
+        "postal_code": "24464"
+    },
+    {
+        "id": "1103202002",
+        "district_id": "110320",
+        "name": "Batu Sumbang",
+        "postal_code": "24464"
+    },
+    {
+        "id": "1103202003",
+        "district_id": "110320",
+        "name": "Pante Kera",
+        "postal_code": "24464"
+    },
+    {
+        "id": "1103202004",
+        "district_id": "110320",
+        "name": "Rantau Panjang",
+        "postal_code": "24464"
+    },
+    {
+        "id": "1103202005",
+        "district_id": "110320",
+        "name": "Melidi",
+        "postal_code": "24464"
+    },
+    {
+        "id": "1103202006",
+        "district_id": "110320",
+        "name": "Tampor\/Tampur Paloh",
+        "postal_code": "24464"
+    },
+    {
+        "id": "1103202007",
+        "district_id": "110320",
+        "name": "Tampor\/Tampur Boor",
+        "postal_code": "24464"
+    },
+    {
+        "id": "1103202008",
+        "district_id": "110320",
+        "name": "Hti Ranto Naro",
+        "postal_code": "24464"
+    }
+]

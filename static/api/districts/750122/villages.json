@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7501222001",
+        "district_id": "750122",
+        "name": "Hutadaa",
+        "postal_code": "96184"
+    },
+    {
+        "id": "7501222002",
+        "district_id": "750122",
+        "name": "Buhu",
+        "postal_code": "96184"
+    },
+    {
+        "id": "7501222003",
+        "district_id": "750122",
+        "name": "Luwoo",
+        "postal_code": "96184"
+    },
+    {
+        "id": "7501222004",
+        "district_id": "750122",
+        "name": "Bunggalo",
+        "postal_code": "96184"
+    },
+    {
+        "id": "7501222005",
+        "district_id": "750122",
+        "name": "Bulota",
+        "postal_code": "96184"
+    }
+]

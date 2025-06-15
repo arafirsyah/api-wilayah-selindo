@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1101142001",
+        "district_id": "110114",
+        "name": "Paya Dapur",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142002",
+        "district_id": "110114",
+        "name": "Sapik",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142003",
+        "district_id": "110114",
+        "name": "Alai",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142004",
+        "district_id": "110114",
+        "name": "Durian Kawan",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142005",
+        "district_id": "110114",
+        "name": "Lawe Sawah",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142006",
+        "district_id": "110114",
+        "name": "Lawe Buluh Didi",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142007",
+        "district_id": "110114",
+        "name": "Pucuk Lembang",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142008",
+        "district_id": "110114",
+        "name": "Paya Laba",
+        "postal_code": "23779"
+    },
+    {
+        "id": "1101142009",
+        "district_id": "110114",
+        "name": "Lawe Cimanok",
+        "postal_code": "23779"
+    }
+]

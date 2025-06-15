@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1303052001",
+        "district_id": "130305",
+        "name": "Palangki",
+        "postal_code": ""
+    },
+    {
+        "id": "1303052002",
+        "district_id": "130305",
+        "name": "Koto Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "1303052003",
+        "district_id": "130305",
+        "name": "Muaro Bodi",
+        "postal_code": ""
+    },
+    {
+        "id": "1303052004",
+        "district_id": "130305",
+        "name": "Mundam Sakti",
+        "postal_code": ""
+    },
+    {
+        "id": "1303052005",
+        "district_id": "130305",
+        "name": "Koto Tuo",
+        "postal_code": ""
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3279011001",
+        "district_id": "327901",
+        "name": "Banjar",
+        "postal_code": ""
+    },
+    {
+        "id": "3279011002",
+        "district_id": "327901",
+        "name": "Mekarsari",
+        "postal_code": ""
+    },
+    {
+        "id": "3279011006",
+        "district_id": "327901",
+        "name": "Situbatu",
+        "postal_code": ""
+    },
+    {
+        "id": "3279012003",
+        "district_id": "327901",
+        "name": "Balokang",
+        "postal_code": ""
+    },
+    {
+        "id": "3279012004",
+        "district_id": "327901",
+        "name": "Cibeureum",
+        "postal_code": ""
+    },
+    {
+        "id": "3279012005",
+        "district_id": "327901",
+        "name": "Neglasari",
+        "postal_code": ""
+    },
+    {
+        "id": "3279012007",
+        "district_id": "327901",
+        "name": "Jajawar",
+        "postal_code": ""
+    }
+]

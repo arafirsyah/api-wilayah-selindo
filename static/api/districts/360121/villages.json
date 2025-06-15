@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3601211002",
+        "district_id": "360121",
+        "name": "Kadomas",
+        "postal_code": "42218"
+    },
+    {
+        "id": "3601211003",
+        "district_id": "360121",
+        "name": "Babakan Kalanganyar (Babakan Kalang Anyar)",
+        "postal_code": "42219"
+    },
+    {
+        "id": "3601211004",
+        "district_id": "360121",
+        "name": "Kabayan",
+        "postal_code": "42212"
+    },
+    {
+        "id": "3601211009",
+        "district_id": "360121",
+        "name": "Pandeglang",
+        "postal_code": "42211"
+    }
+]

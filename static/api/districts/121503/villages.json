@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1215032001",
+        "district_id": "121503",
+        "name": "Salak I",
+        "postal_code": ""
+    },
+    {
+        "id": "1215032002",
+        "district_id": "121503",
+        "name": "Salak II",
+        "postal_code": ""
+    },
+    {
+        "id": "1215032003",
+        "district_id": "121503",
+        "name": "Boangmanalu (Boangmanalu Salak)",
+        "postal_code": ""
+    },
+    {
+        "id": "1215032009",
+        "district_id": "121503",
+        "name": "Sibongkaras",
+        "postal_code": ""
+    },
+    {
+        "id": "1215032013",
+        "district_id": "121503",
+        "name": "Kuta Tinggi",
+        "postal_code": ""
+    },
+    {
+        "id": "1215032014",
+        "district_id": "121503",
+        "name": "Penanggalan Binanga Boang",
+        "postal_code": ""
+    }
+]

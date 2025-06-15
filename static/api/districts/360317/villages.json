@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3603171001",
+        "district_id": "360317",
+        "name": "Curug Kulon",
+        "postal_code": "15810"
+    },
+    {
+        "id": "3603171005",
+        "district_id": "360317",
+        "name": "Sukabakti (Suka Bakti)",
+        "postal_code": "15810"
+    },
+    {
+        "id": "3603171006",
+        "district_id": "360317",
+        "name": "Binong",
+        "postal_code": "15810"
+    },
+    {
+        "id": "3603172002",
+        "district_id": "360317",
+        "name": "Curug Wetan",
+        "postal_code": "15810"
+    },
+    {
+        "id": "3603172003",
+        "district_id": "360317",
+        "name": "Kadu",
+        "postal_code": "15810"
+    },
+    {
+        "id": "3603172004",
+        "district_id": "360317",
+        "name": "Kadu Jaya",
+        "postal_code": "15810"
+    },
+    {
+        "id": "3603172010",
+        "district_id": "360317",
+        "name": "Cukanggalih (Cukang Galih)",
+        "postal_code": "15810"
+    }
+]

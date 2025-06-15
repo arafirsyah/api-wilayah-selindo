@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3403172001",
+        "district_id": "340317",
+        "name": "Hargosari",
+        "postal_code": "55881"
+    },
+    {
+        "id": "3403172002",
+        "district_id": "340317",
+        "name": "Kemiri",
+        "postal_code": "55881"
+    },
+    {
+        "id": "3403172003",
+        "district_id": "340317",
+        "name": "Kemadang",
+        "postal_code": "55881"
+    },
+    {
+        "id": "3403172004",
+        "district_id": "340317",
+        "name": "Banjarejo",
+        "postal_code": "55881"
+    },
+    {
+        "id": "3403172005",
+        "district_id": "340317",
+        "name": "Ngestirejo",
+        "postal_code": "55881"
+    }
+]

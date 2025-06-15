@@ -1,0 +1,56 @@
+[
+    {
+        "id": "3603011001",
+        "district_id": "360301",
+        "name": "Balaraja",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012003",
+        "district_id": "360301",
+        "name": "Cangkudu",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012005",
+        "district_id": "360301",
+        "name": "Talagasari",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012009",
+        "district_id": "360301",
+        "name": "Tobat",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012010",
+        "district_id": "360301",
+        "name": "Sentul",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012011",
+        "district_id": "360301",
+        "name": "Gembong",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012013",
+        "district_id": "360301",
+        "name": "Sukamurni (Suka Murni)",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012014",
+        "district_id": "360301",
+        "name": "Saga",
+        "postal_code": "15610"
+    },
+    {
+        "id": "3603012016",
+        "district_id": "360301",
+        "name": "Sentul Jaya",
+        "postal_code": "15610"
+    }
+]

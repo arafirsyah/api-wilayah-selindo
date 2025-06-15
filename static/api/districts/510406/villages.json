@@ -1,0 +1,44 @@
+[
+    {
+        "id": "5104062001",
+        "district_id": "510406",
+        "name": "Keliki",
+        "postal_code": "80561"
+    },
+    {
+        "id": "5104062002",
+        "district_id": "510406",
+        "name": "Tegallalang",
+        "postal_code": "80561"
+    },
+    {
+        "id": "5104062003",
+        "district_id": "510406",
+        "name": "Kenderan",
+        "postal_code": "80561"
+    },
+    {
+        "id": "5104062004",
+        "district_id": "510406",
+        "name": "Kedisan",
+        "postal_code": "80561"
+    },
+    {
+        "id": "5104062005",
+        "district_id": "510406",
+        "name": "Pupuan",
+        "postal_code": "80561"
+    },
+    {
+        "id": "5104062006",
+        "district_id": "510406",
+        "name": "Sebatu",
+        "postal_code": "80561"
+    },
+    {
+        "id": "5104062007",
+        "district_id": "510406",
+        "name": "Taro",
+        "postal_code": "80561"
+    }
+]

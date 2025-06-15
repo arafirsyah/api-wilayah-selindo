@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1706112001",
+        "district_id": "170611",
+        "name": "Lubuk Sanai",
+        "postal_code": "38755"
+    },
+    {
+        "id": "1706112002",
+        "district_id": "170611",
+        "name": "Rawa Mulya",
+        "postal_code": "38755"
+    },
+    {
+        "id": "1706112003",
+        "district_id": "170611",
+        "name": "Rawa Bangun",
+        "postal_code": "38755"
+    },
+    {
+        "id": "1706112004",
+        "district_id": "170611",
+        "name": "Tanjung Mulya",
+        "postal_code": "38755"
+    },
+    {
+        "id": "1706112005",
+        "district_id": "170611",
+        "name": "Pauh Tarenja (Pauh Terenjah)",
+        "postal_code": "38755"
+    },
+    {
+        "id": "1706112006",
+        "district_id": "170611",
+        "name": "Dusun Baru Pelokan",
+        "postal_code": "38755"
+    },
+    {
+        "id": "1706112007",
+        "district_id": "170611",
+        "name": "Lubuk Sanai II",
+        "postal_code": "38755"
+    },
+    {
+        "id": "1706112009",
+        "district_id": "170611",
+        "name": "Lubuk Sanai III",
+        "postal_code": "38755"
+    }
+]

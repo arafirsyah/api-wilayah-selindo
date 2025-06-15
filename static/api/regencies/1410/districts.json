@@ -1,0 +1,47 @@
+[
+    {
+        "id": "141001",
+        "regency_id": "1410",
+        "name": "Tebing Tinggi"
+    },
+    {
+        "id": "141002",
+        "regency_id": "1410",
+        "name": "Rangsang Barat"
+    },
+    {
+        "id": "141003",
+        "regency_id": "1410",
+        "name": "Rangsang"
+    },
+    {
+        "id": "141004",
+        "regency_id": "1410",
+        "name": "Tebing Tinggi Barat"
+    },
+    {
+        "id": "141005",
+        "regency_id": "1410",
+        "name": "Merbau"
+    },
+    {
+        "id": "141006",
+        "regency_id": "1410",
+        "name": "Pulaumerbau"
+    },
+    {
+        "id": "141007",
+        "regency_id": "1410",
+        "name": "Tebing Tinggi Timur"
+    },
+    {
+        "id": "141008",
+        "regency_id": "1410",
+        "name": "Tasik Putri Puyu"
+    },
+    {
+        "id": "141009",
+        "regency_id": "1410",
+        "name": "Rangsang Pesisir"
+    }
+]

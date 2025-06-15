@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3174051001",
+        "district_id": "317405",
+        "name": "Kebayoran Lama Utara",
+        "postal_code": "12240"
+    },
+    {
+        "id": "3174051002",
+        "district_id": "317405",
+        "name": "Pondok Pinang",
+        "postal_code": "12310"
+    },
+    {
+        "id": "3174051003",
+        "district_id": "317405",
+        "name": "Cipulir",
+        "postal_code": "12230"
+    },
+    {
+        "id": "3174051004",
+        "district_id": "317405",
+        "name": "Grogol Utara",
+        "postal_code": "12210"
+    },
+    {
+        "id": "3174051005",
+        "district_id": "317405",
+        "name": "Grogol Selatan",
+        "postal_code": "12220"
+    },
+    {
+        "id": "3174051006",
+        "district_id": "317405",
+        "name": "Kebayoran Lama Selatan",
+        "postal_code": "12240"
+    }
+]

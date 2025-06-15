@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1802272001",
+        "district_id": "180227",
+        "name": "Gedung Sari",
+        "postal_code": ""
+    },
+    {
+        "id": "1802272002",
+        "district_id": "180227",
+        "name": "Srimulyo (Sri Mulyo)",
+        "postal_code": ""
+    },
+    {
+        "id": "1802272003",
+        "district_id": "180227",
+        "name": "Gedung Ratu",
+        "postal_code": ""
+    },
+    {
+        "id": "1802272004",
+        "district_id": "180227",
+        "name": "Bandar Putih Tua",
+        "postal_code": ""
+    },
+    {
+        "id": "1802272005",
+        "district_id": "180227",
+        "name": "Karang Jawa",
+        "postal_code": ""
+    },
+    {
+        "id": "1802272006",
+        "district_id": "180227",
+        "name": "Sukajaya",
+        "postal_code": ""
+    }
+]

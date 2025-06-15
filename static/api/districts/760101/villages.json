@@ -1,0 +1,38 @@
+[
+    {
+        "id": "7601011006",
+        "district_id": "760101",
+        "name": "Bambalamotu",
+        "postal_code": ""
+    },
+    {
+        "id": "7601012003",
+        "district_id": "760101",
+        "name": "Polewali",
+        "postal_code": ""
+    },
+    {
+        "id": "7601012004",
+        "district_id": "760101",
+        "name": "Randomayang",
+        "postal_code": ""
+    },
+    {
+        "id": "7601012007",
+        "district_id": "760101",
+        "name": "Pangiang",
+        "postal_code": ""
+    },
+    {
+        "id": "7601012008",
+        "district_id": "760101",
+        "name": "Kalola",
+        "postal_code": ""
+    },
+    {
+        "id": "7601012009",
+        "district_id": "760101",
+        "name": "Wulai",
+        "postal_code": ""
+    }
+]

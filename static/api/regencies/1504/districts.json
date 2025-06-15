@@ -1,0 +1,42 @@
+[
+    {
+        "id": "150401",
+        "regency_id": "1504",
+        "name": "Mersam"
+    },
+    {
+        "id": "150402",
+        "regency_id": "1504",
+        "name": "Muara Tembesi"
+    },
+    {
+        "id": "150403",
+        "regency_id": "1504",
+        "name": "Muara Bulian"
+    },
+    {
+        "id": "150404",
+        "regency_id": "1504",
+        "name": "Batin XXIV"
+    },
+    {
+        "id": "150405",
+        "regency_id": "1504",
+        "name": "Pemayung"
+    },
+    {
+        "id": "150406",
+        "regency_id": "1504",
+        "name": "Maro Sebo Ulu"
+    },
+    {
+        "id": "150407",
+        "regency_id": "1504",
+        "name": "Bajubang"
+    },
+    {
+        "id": "150408",
+        "regency_id": "1504",
+        "name": "Maro Sebo Ilir"
+    }
+]

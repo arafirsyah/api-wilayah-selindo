@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1705101003",
+        "district_id": "170510",
+        "name": "Puguk",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102001",
+        "district_id": "170510",
+        "name": "Talang Rami",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102002",
+        "district_id": "170510",
+        "name": "Talang Beringin",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102004",
+        "district_id": "170510",
+        "name": "Pandan",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102005",
+        "district_id": "170510",
+        "name": "Selingsingan",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102006",
+        "district_id": "170510",
+        "name": "Simpang",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102007",
+        "district_id": "170510",
+        "name": "Sekalak",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102008",
+        "district_id": "170510",
+        "name": "Lubuk Resam",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102009",
+        "district_id": "170510",
+        "name": "Sinar Pagi",
+        "postal_code": "38884"
+    },
+    {
+        "id": "1705102010",
+        "district_id": "170510",
+        "name": "Talang Empat",
+        "postal_code": "38884"
+    }
+]

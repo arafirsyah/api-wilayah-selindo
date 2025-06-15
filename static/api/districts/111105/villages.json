@@ -1,0 +1,416 @@
+[
+    {
+        "id": "1111052003",
+        "district_id": "111105",
+        "name": "Meunasah Timu (Matang Glumpang II Meunasah Timur)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052004",
+        "district_id": "111105",
+        "name": "Keude Matang Glumpang Dua (II)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052005",
+        "district_id": "111105",
+        "name": "Meunasah Dayah (Matang Glumpang II)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052006",
+        "district_id": "111105",
+        "name": "Pante Gajah",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052007",
+        "district_id": "111105",
+        "name": "Blang Asan",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052008",
+        "district_id": "111105",
+        "name": "Paya Cut",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052009",
+        "district_id": "111105",
+        "name": "Seuneubok Aceh",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052010",
+        "district_id": "111105",
+        "name": "Panton Geulima",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052011",
+        "district_id": "111105",
+        "name": "Neuheun (Neuheuen)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052012",
+        "district_id": "111105",
+        "name": "Matang Sagoe",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052013",
+        "district_id": "111105",
+        "name": "Matang Mesjid",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052014",
+        "district_id": "111105",
+        "name": "Matang Cot Paseh",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052015",
+        "district_id": "111105",
+        "name": "Cot Panjoe",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052016",
+        "district_id": "111105",
+        "name": "Paya Lipah",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052017",
+        "district_id": "111105",
+        "name": "Paya Meuneng",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052018",
+        "district_id": "111105",
+        "name": "Keude Tanjong",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052019",
+        "district_id": "111105",
+        "name": "Tanjong Paya",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052020",
+        "district_id": "111105",
+        "name": "Tanjong Nie",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052021",
+        "district_id": "111105",
+        "name": "Tanjong Mesjid",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052022",
+        "district_id": "111105",
+        "name": "Pante Cut",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052023",
+        "district_id": "111105",
+        "name": "Blang Cut",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052024",
+        "district_id": "111105",
+        "name": "Pulo Pisang",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052025",
+        "district_id": "111105",
+        "name": "Pante Piyeu",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052026",
+        "district_id": "111105",
+        "name": "Meunasah Nibong",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052027",
+        "district_id": "111105",
+        "name": "Krueng Baro Babah Krueng",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052028",
+        "district_id": "111105",
+        "name": "Krueng Baro Mesjid",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052029",
+        "district_id": "111105",
+        "name": "Bayu",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052030",
+        "district_id": "111105",
+        "name": "Gampong Putoh",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052031",
+        "district_id": "111105",
+        "name": "Meunasah Meucap",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052032",
+        "district_id": "111105",
+        "name": "Pante Ara",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052033",
+        "district_id": "111105",
+        "name": "Gampong Raya Dagang",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052034",
+        "district_id": "111105",
+        "name": "Gampong Raya Tambo",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052035",
+        "district_id": "111105",
+        "name": "Kapa",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052036",
+        "district_id": "111105",
+        "name": "Blang Panjoe",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052037",
+        "district_id": "111105",
+        "name": "Pantee Lhong (Pante Lhong)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052038",
+        "district_id": "111105",
+        "name": "Asan Bideun",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052040",
+        "district_id": "111105",
+        "name": "Cot Rabo Baroh",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052041",
+        "district_id": "111105",
+        "name": "Cot Rabo Tunong",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052042",
+        "district_id": "111105",
+        "name": "Cot Nga",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052043",
+        "district_id": "111105",
+        "name": "Pulo Naleung",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052044",
+        "district_id": "111105",
+        "name": "Mata Mamplam",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052045",
+        "district_id": "111105",
+        "name": "Alue Glumpang (Alue Glumpang Ba)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052046",
+        "district_id": "111105",
+        "name": "Karieng",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052047",
+        "district_id": "111105",
+        "name": "Krueng Dheu (Krueng Dheue)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052048",
+        "district_id": "111105",
+        "name": "Cot Ijue (Ieju)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052049",
+        "district_id": "111105",
+        "name": "Cot Buket",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052050",
+        "district_id": "111105",
+        "name": "Nicah",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052051",
+        "district_id": "111105",
+        "name": "Cot Keuranji",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052052",
+        "district_id": "111105",
+        "name": "Paloh",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052054",
+        "district_id": "111105",
+        "name": "Cot Bada Tunong",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052055",
+        "district_id": "111105",
+        "name": "Cot Bada Baroh",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052056",
+        "district_id": "111105",
+        "name": "Cot Girek",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052057",
+        "district_id": "111105",
+        "name": "Cot Keumude (Cot Keumudee)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052058",
+        "district_id": "111105",
+        "name": "Sagoe",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052059",
+        "district_id": "111105",
+        "name": "Kareueng",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052060",
+        "district_id": "111105",
+        "name": "Cot Bada Barat",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052061",
+        "district_id": "111105",
+        "name": "Tanoh Mirah",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052062",
+        "district_id": "111105",
+        "name": "Seuneubok Rawa",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052063",
+        "district_id": "111105",
+        "name": "Paya Aboe",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052064",
+        "district_id": "111105",
+        "name": "Blang Rambong",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052065",
+        "district_id": "111105",
+        "name": "Blang Geulanggang",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052066",
+        "district_id": "111105",
+        "name": "Paya Reuhat",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052067",
+        "district_id": "111105",
+        "name": "Uteun Bunta",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052068",
+        "district_id": "111105",
+        "name": "Alue Udeng (Alue Udeung)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052069",
+        "district_id": "111105",
+        "name": "Alue Peuno",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052105",
+        "district_id": "111105",
+        "name": "Cot Puuk",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052106",
+        "district_id": "111105",
+        "name": "Pante Pisang",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052107",
+        "district_id": "111105",
+        "name": "Gampong Baro (Gampong Baroh)",
+        "postal_code": "24267"
+    },
+    {
+        "id": "1111052108",
+        "district_id": "111105",
+        "name": "Blang Dalam",
+        "postal_code": "24267"
+    }
+]

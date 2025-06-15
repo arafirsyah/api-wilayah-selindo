@@ -1,0 +1,52 @@
+[
+    {
+        "id": "650101",
+        "regency_id": "6501",
+        "name": "Tanjung Palas"
+    },
+    {
+        "id": "650102",
+        "regency_id": "6501",
+        "name": "Tanjung Palas Barat"
+    },
+    {
+        "id": "650103",
+        "regency_id": "6501",
+        "name": "Tanjung Palas Utara"
+    },
+    {
+        "id": "650104",
+        "regency_id": "6501",
+        "name": "Tanjung Palas Timur"
+    },
+    {
+        "id": "650105",
+        "regency_id": "6501",
+        "name": "Tanjung Selor"
+    },
+    {
+        "id": "650106",
+        "regency_id": "6501",
+        "name": "Tanjung Palas Tengah"
+    },
+    {
+        "id": "650107",
+        "regency_id": "6501",
+        "name": "Peso"
+    },
+    {
+        "id": "650108",
+        "regency_id": "6501",
+        "name": "Peso Hilir (Ilir)"
+    },
+    {
+        "id": "650109",
+        "regency_id": "6501",
+        "name": "Sekatak"
+    },
+    {
+        "id": "650110",
+        "regency_id": "6501",
+        "name": "Bunyu (Pulau Bunyu)"
+    }
+]

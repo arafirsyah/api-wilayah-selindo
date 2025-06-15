@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1301102001",
+        "district_id": "130110",
+        "name": "Lunang",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102003",
+        "district_id": "130110",
+        "name": "Lunang Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102004",
+        "district_id": "130110",
+        "name": "Lunang Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102005",
+        "district_id": "130110",
+        "name": "Lunang Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102015",
+        "district_id": "130110",
+        "name": "Sindang Lunang",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102016",
+        "district_id": "130110",
+        "name": "Pondok Parian Lunang",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102017",
+        "district_id": "130110",
+        "name": "Lunang Tengah",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102018",
+        "district_id": "130110",
+        "name": "Lunang Satu",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102019",
+        "district_id": "130110",
+        "name": "Lunang Dua",
+        "postal_code": ""
+    },
+    {
+        "id": "1301102020",
+        "district_id": "130110",
+        "name": "Lunang Tiga",
+        "postal_code": ""
+    }
+]

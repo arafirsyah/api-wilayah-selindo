@@ -1,0 +1,57 @@
+[
+    {
+        "id": "810201",
+        "regency_id": "8102",
+        "name": "Kei Kecil"
+    },
+    {
+        "id": "810203",
+        "regency_id": "8102",
+        "name": "Kei Besar"
+    },
+    {
+        "id": "810204",
+        "regency_id": "8102",
+        "name": "Kei Besar Selatan"
+    },
+    {
+        "id": "810205",
+        "regency_id": "8102",
+        "name": "Kei Besar Utara Timur"
+    },
+    {
+        "id": "810213",
+        "regency_id": "8102",
+        "name": "Kei Kecil Timur"
+    },
+    {
+        "id": "810214",
+        "regency_id": "8102",
+        "name": "Kei Kecil Barat"
+    },
+    {
+        "id": "810215",
+        "regency_id": "8102",
+        "name": "Manyeuw"
+    },
+    {
+        "id": "810216",
+        "regency_id": "8102",
+        "name": "Hoat Sorbay"
+    },
+    {
+        "id": "810217",
+        "regency_id": "8102",
+        "name": "Kei Besar Utara Barat"
+    },
+    {
+        "id": "810218",
+        "regency_id": "8102",
+        "name": "Kei Besar Selatan Barat"
+    },
+    {
+        "id": "810219",
+        "regency_id": "8102",
+        "name": "Kei Kecil Timur Selatan"
+    }
+]

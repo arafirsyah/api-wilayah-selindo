@@ -1,0 +1,32 @@
+[
+    {
+        "id": "2102011003",
+        "district_id": "210201",
+        "name": "Moro",
+        "postal_code": ""
+    },
+    {
+        "id": "2102011010",
+        "district_id": "210201",
+        "name": "Moro Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "2102012004",
+        "district_id": "210201",
+        "name": "Pauh",
+        "postal_code": ""
+    },
+    {
+        "id": "2102012009",
+        "district_id": "210201",
+        "name": "Jang (Pulau Jang)",
+        "postal_code": ""
+    },
+    {
+        "id": "2102012014",
+        "district_id": "210201",
+        "name": "Pulau Moro (Pulaumoro)",
+        "postal_code": ""
+    }
+]

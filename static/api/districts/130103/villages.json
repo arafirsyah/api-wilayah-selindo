@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1301032001",
+        "district_id": "130103",
+        "name": "Kambang",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032002",
+        "district_id": "130103",
+        "name": "Lakitan",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032003",
+        "district_id": "130103",
+        "name": "Kambang Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032004",
+        "district_id": "130103",
+        "name": "Kambang Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032005",
+        "district_id": "130103",
+        "name": "Kambang Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032006",
+        "district_id": "130103",
+        "name": "Lakitan Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032007",
+        "district_id": "130103",
+        "name": "Lakitan Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032008",
+        "district_id": "130103",
+        "name": "Lakitan Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "1301032009",
+        "district_id": "130103",
+        "name": "Lakitan Tengah",
+        "postal_code": ""
+    }
+]

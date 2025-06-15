@@ -1,0 +1,72 @@
+[
+    {
+        "id": "210201",
+        "regency_id": "2102",
+        "name": "Moro"
+    },
+    {
+        "id": "210202",
+        "regency_id": "2102",
+        "name": "Kundur"
+    },
+    {
+        "id": "210203",
+        "regency_id": "2102",
+        "name": "Karimun"
+    },
+    {
+        "id": "210204",
+        "regency_id": "2102",
+        "name": "Meral"
+    },
+    {
+        "id": "210205",
+        "regency_id": "2102",
+        "name": "Tebing"
+    },
+    {
+        "id": "210206",
+        "regency_id": "2102",
+        "name": "Buru"
+    },
+    {
+        "id": "210207",
+        "regency_id": "2102",
+        "name": "Kundur Utara"
+    },
+    {
+        "id": "210208",
+        "regency_id": "2102",
+        "name": "Kundur Barat"
+    },
+    {
+        "id": "210209",
+        "regency_id": "2102",
+        "name": "Durai"
+    },
+    {
+        "id": "210210",
+        "regency_id": "2102",
+        "name": "Meral Barat"
+    },
+    {
+        "id": "210211",
+        "regency_id": "2102",
+        "name": "Ungar"
+    },
+    {
+        "id": "210212",
+        "regency_id": "2102",
+        "name": "Belat"
+    },
+    {
+        "id": "210213",
+        "regency_id": "2102",
+        "name": "Selat Gelam"
+    },
+    {
+        "id": "210214",
+        "regency_id": "2102",
+        "name": "Sugie Besar"
+    }
+]

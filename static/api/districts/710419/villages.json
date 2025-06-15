@@ -1,0 +1,56 @@
+[
+    {
+        "id": "7104192001",
+        "district_id": "710419",
+        "name": "Sambuara Satu",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192002",
+        "district_id": "710419",
+        "name": "Sambuara",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192003",
+        "district_id": "710419",
+        "name": "Ensem",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192004",
+        "district_id": "710419",
+        "name": "Ensem I (Ensem Timur)",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192005",
+        "district_id": "710419",
+        "name": "Batumbalango",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192006",
+        "district_id": "710419",
+        "name": "Ambia",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192007",
+        "district_id": "710419",
+        "name": "Ambia Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192008",
+        "district_id": "710419",
+        "name": "Kuma",
+        "postal_code": ""
+    },
+    {
+        "id": "7104192009",
+        "district_id": "710419",
+        "name": "Kuma Selatan",
+        "postal_code": ""
+    }
+]

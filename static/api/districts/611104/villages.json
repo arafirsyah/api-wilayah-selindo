@@ -1,0 +1,32 @@
+[
+    {
+        "id": "6111042001",
+        "district_id": "611104",
+        "name": "Tanjungsatai (Tanjung Satai)",
+        "postal_code": ""
+    },
+    {
+        "id": "6111042002",
+        "district_id": "611104",
+        "name": "Kemboja (Kamboja)",
+        "postal_code": ""
+    },
+    {
+        "id": "6111042003",
+        "district_id": "611104",
+        "name": "Dusun Kecil",
+        "postal_code": ""
+    },
+    {
+        "id": "6111042004",
+        "district_id": "611104",
+        "name": "Dusun Besar",
+        "postal_code": ""
+    },
+    {
+        "id": "6111042006",
+        "district_id": "611104",
+        "name": "Satai Lestari",
+        "postal_code": ""
+    }
+]

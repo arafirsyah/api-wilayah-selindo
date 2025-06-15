@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3404082001",
+        "district_id": "340408",
+        "name": "Sendangtirto (Sendang Tirto)",
+        "postal_code": "55573"
+    },
+    {
+        "id": "3404082002",
+        "district_id": "340408",
+        "name": "Tegaltirto (Tegal Tirto)",
+        "postal_code": "55573"
+    },
+    {
+        "id": "3404082003",
+        "district_id": "340408",
+        "name": "Kalitirto (Kali Tirto)",
+        "postal_code": "55573"
+    },
+    {
+        "id": "3404082004",
+        "district_id": "340408",
+        "name": "Jogotirto (Jogo Tirto)",
+        "postal_code": "55573"
+    }
+]

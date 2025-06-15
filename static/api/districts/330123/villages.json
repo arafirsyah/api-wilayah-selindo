@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3301231001",
+        "district_id": "330123",
+        "name": "Mertasinga",
+        "postal_code": "53232"
+    },
+    {
+        "id": "3301231002",
+        "district_id": "330123",
+        "name": "Gumilir",
+        "postal_code": "53231"
+    },
+    {
+        "id": "3301231003",
+        "district_id": "330123",
+        "name": "Karangtalun",
+        "postal_code": "53234"
+    },
+    {
+        "id": "3301231004",
+        "district_id": "330123",
+        "name": "Tritih Kulon",
+        "postal_code": "53233"
+    },
+    {
+        "id": "3301231005",
+        "district_id": "330123",
+        "name": "Kebonmanis",
+        "postal_code": "53235"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "id": "3601162001",
+        "district_id": "360116",
+        "name": "Pamarayan",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162002",
+        "district_id": "360116",
+        "name": "Jiput",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162003",
+        "district_id": "360116",
+        "name": "Sukacai",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162004",
+        "district_id": "360116",
+        "name": "Tenjolahang",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162005",
+        "district_id": "360116",
+        "name": "Janaka",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162006",
+        "district_id": "360116",
+        "name": "Sikulan",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162007",
+        "district_id": "360116",
+        "name": "Citaman",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162008",
+        "district_id": "360116",
+        "name": "Jayamekar",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162011",
+        "district_id": "360116",
+        "name": "Sukamanah",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162012",
+        "district_id": "360116",
+        "name": "Salapraya",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162013",
+        "district_id": "360116",
+        "name": "Banyuresmi",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162014",
+        "district_id": "360116",
+        "name": "Sampang Bitung (Sampangbitung)",
+        "postal_code": "42263"
+    },
+    {
+        "id": "3601162015",
+        "district_id": "360116",
+        "name": "Babadsari",
+        "postal_code": "42263"
+    }
+]

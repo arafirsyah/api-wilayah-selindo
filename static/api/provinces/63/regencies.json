@@ -1,0 +1,67 @@
+[
+    {
+        "id": "6301",
+        "name": "Tanah Laut",
+        "province_id": "63"
+    },
+    {
+        "id": "6302",
+        "name": "Kotabaru",
+        "province_id": "63"
+    },
+    {
+        "id": "6303",
+        "name": "Banjar",
+        "province_id": "63"
+    },
+    {
+        "id": "6304",
+        "name": "Barito Kuala",
+        "province_id": "63"
+    },
+    {
+        "id": "6305",
+        "name": "Tapin",
+        "province_id": "63"
+    },
+    {
+        "id": "6306",
+        "name": "Hulu Sungai Selatan",
+        "province_id": "63"
+    },
+    {
+        "id": "6307",
+        "name": "Hulu Sungai Tengah",
+        "province_id": "63"
+    },
+    {
+        "id": "6308",
+        "name": "Hulu Sungai Utara",
+        "province_id": "63"
+    },
+    {
+        "id": "6309",
+        "name": "Tabalong",
+        "province_id": "63"
+    },
+    {
+        "id": "6310",
+        "name": "Tanah Bumbu",
+        "province_id": "63"
+    },
+    {
+        "id": "6311",
+        "name": "Balangan",
+        "province_id": "63"
+    },
+    {
+        "id": "6371",
+        "name": "Kota Banjarmasin",
+        "province_id": "63"
+    },
+    {
+        "id": "6372",
+        "name": "Kota Banjarbaru",
+        "province_id": "63"
+    }
+]

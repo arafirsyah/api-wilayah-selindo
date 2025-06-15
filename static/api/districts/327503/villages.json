@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3275031001",
+        "district_id": "327503",
+        "name": "Kaliabang Tengah (Kali Abang Tengah)",
+        "postal_code": ""
+    },
+    {
+        "id": "3275031002",
+        "district_id": "327503",
+        "name": "Perwira",
+        "postal_code": ""
+    },
+    {
+        "id": "3275031003",
+        "district_id": "327503",
+        "name": "Harapanbaru (Harapan Baru)",
+        "postal_code": ""
+    },
+    {
+        "id": "3275031004",
+        "district_id": "327503",
+        "name": "Teluk Pucung",
+        "postal_code": ""
+    },
+    {
+        "id": "3275031005",
+        "district_id": "327503",
+        "name": "Margamulya (Marga Mulya)",
+        "postal_code": ""
+    },
+    {
+        "id": "3275031006",
+        "district_id": "327503",
+        "name": "Harapanjaya (Harapan Jaya)",
+        "postal_code": ""
+    }
+]

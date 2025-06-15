@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3172031001",
+        "district_id": "317203",
+        "name": "\"Koja (Utara",
+        "postal_code": "14210"
+    },
+    {
+        "id": "3172031002",
+        "district_id": "317203",
+        "name": "Tugu Utara",
+        "postal_code": "14260"
+    },
+    {
+        "id": "3172031003",
+        "district_id": "317203",
+        "name": "Lagoa",
+        "postal_code": "14270"
+    },
+    {
+        "id": "3172031004",
+        "district_id": "317203",
+        "name": "Rawa Badak Utara",
+        "postal_code": "14230"
+    },
+    {
+        "id": "3172031005",
+        "district_id": "317203",
+        "name": "Tugu Selatan",
+        "postal_code": "14260"
+    },
+    {
+        "id": "3172031006",
+        "district_id": "317203",
+        "name": "Rawa Badak Selatan",
+        "postal_code": "14230"
+    }
+]

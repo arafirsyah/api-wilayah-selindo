@@ -1,0 +1,38 @@
+[
+    {
+        "id": "6202121001",
+        "district_id": "620212",
+        "name": "Mentaya Seberang",
+        "postal_code": ""
+    },
+    {
+        "id": "6202122002",
+        "district_id": "620212",
+        "name": "Terantang",
+        "postal_code": ""
+    },
+    {
+        "id": "6202122003",
+        "district_id": "620212",
+        "name": "Batuah",
+        "postal_code": ""
+    },
+    {
+        "id": "6202122004",
+        "district_id": "620212",
+        "name": "Terantang Hilir",
+        "postal_code": ""
+    },
+    {
+        "id": "6202122005",
+        "district_id": "620212",
+        "name": "Ganepo",
+        "postal_code": ""
+    },
+    {
+        "id": "6202122006",
+        "district_id": "620212",
+        "name": "Seragam Jaya",
+        "postal_code": ""
+    }
+]

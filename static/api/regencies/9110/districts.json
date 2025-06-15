@@ -1,0 +1,52 @@
+[
+    {
+        "id": "911001",
+        "regency_id": "9110",
+        "name": "Sarmi"
+    },
+    {
+        "id": "911002",
+        "regency_id": "9110",
+        "name": "Tor Atas"
+    },
+    {
+        "id": "911003",
+        "regency_id": "9110",
+        "name": "Pantai Barat"
+    },
+    {
+        "id": "911004",
+        "regency_id": "9110",
+        "name": "Pantai Timur"
+    },
+    {
+        "id": "911005",
+        "regency_id": "9110",
+        "name": "Bonggo"
+    },
+    {
+        "id": "911009",
+        "regency_id": "9110",
+        "name": "Apawer Hulu"
+    },
+    {
+        "id": "911012",
+        "regency_id": "9110",
+        "name": "Sarmi Selatan"
+    },
+    {
+        "id": "911013",
+        "regency_id": "9110",
+        "name": "Sarmi Timur"
+    },
+    {
+        "id": "911014",
+        "regency_id": "9110",
+        "name": "Pantai Timur Bagian Barat"
+    },
+    {
+        "id": "911015",
+        "regency_id": "9110",
+        "name": "Bonggo Timur"
+    }
+]

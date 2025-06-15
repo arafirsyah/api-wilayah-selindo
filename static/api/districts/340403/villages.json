@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3404032001",
+        "district_id": "340403",
+        "name": "Sumberahayu (Sumberrahayu)",
+        "postal_code": "55563"
+    },
+    {
+        "id": "3404032002",
+        "district_id": "340403",
+        "name": "Sumbersari",
+        "postal_code": "55563"
+    },
+    {
+        "id": "3404032003",
+        "district_id": "340403",
+        "name": "Sumberagung (Sumber Agung)",
+        "postal_code": "55563"
+    },
+    {
+        "id": "3404032004",
+        "district_id": "340403",
+        "name": "Sumberarum",
+        "postal_code": "55563"
+    }
+]

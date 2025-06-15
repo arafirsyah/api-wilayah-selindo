@@ -1,0 +1,42 @@
+[
+    {
+        "id": "621101",
+        "regency_id": "6211",
+        "name": "Pandih Batu"
+    },
+    {
+        "id": "621102",
+        "regency_id": "6211",
+        "name": "Kahayan Kuala"
+    },
+    {
+        "id": "621103",
+        "regency_id": "6211",
+        "name": "Kahayan Tengah"
+    },
+    {
+        "id": "621104",
+        "regency_id": "6211",
+        "name": "Banama Tingang"
+    },
+    {
+        "id": "621105",
+        "regency_id": "6211",
+        "name": "Kahayan Hilir"
+    },
+    {
+        "id": "621106",
+        "regency_id": "6211",
+        "name": "Maliku"
+    },
+    {
+        "id": "621107",
+        "regency_id": "6211",
+        "name": "Jabiren Raya"
+    },
+    {
+        "id": "621108",
+        "regency_id": "6211",
+        "name": "Sebangau Kuala"
+    }
+]

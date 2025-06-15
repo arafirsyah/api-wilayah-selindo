@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3601341001",
+        "district_id": "360134",
+        "name": "Sukaratu",
+        "postal_code": "42217"
+    },
+    {
+        "id": "3601341002",
+        "district_id": "360134",
+        "name": "Karaton",
+        "postal_code": "42211"
+    },
+    {
+        "id": "3601341003",
+        "district_id": "360134",
+        "name": "Saruni",
+        "postal_code": "42216"
+    },
+    {
+        "id": "3601341004",
+        "district_id": "360134",
+        "name": "Pagerbatu",
+        "postal_code": "42215"
+    },
+    {
+        "id": "3601341005",
+        "district_id": "360134",
+        "name": "Cilaja",
+        "postal_code": "42214"
+    }
+]

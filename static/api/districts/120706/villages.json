@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1207062001",
+        "district_id": "120706",
+        "name": "Deli Tua",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062002",
+        "district_id": "120706",
+        "name": "Jati Kusuma (Kesuma)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062003",
+        "district_id": "120706",
+        "name": "Namo Rambe",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062004",
+        "district_id": "120706",
+        "name": "Gunung Klawas (Kelawas)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062005",
+        "district_id": "120706",
+        "name": "Ujung Labuhan (Ujung Labuhen)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062006",
+        "district_id": "120706",
+        "name": "Lubang Ido",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062007",
+        "district_id": "120706",
+        "name": "Siluelue (Silue Lue)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062008",
+        "district_id": "120706",
+        "name": "Timbang Lawan",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062009",
+        "district_id": "120706",
+        "name": "Batu Mbelin",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062010",
+        "district_id": "120706",
+        "name": "Namo Batang",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062011",
+        "district_id": "120706",
+        "name": "Tanjung Selamat",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062012",
+        "district_id": "120706",
+        "name": "Bekukul",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062013",
+        "district_id": "120706",
+        "name": "Namo Pakam",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062014",
+        "district_id": "120706",
+        "name": "Sukamulia Hilir (Suka Mulia Hilir)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062015",
+        "district_id": "120706",
+        "name": "Sukamulia Hulu (Suka Mulia Hulu)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062016",
+        "district_id": "120706",
+        "name": "Rumah Mbacang",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062017",
+        "district_id": "120706",
+        "name": "Cinta Rakyat",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062018",
+        "district_id": "120706",
+        "name": "Batu Penjemuran",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062019",
+        "district_id": "120706",
+        "name": "Kuta Tengah",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062020",
+        "district_id": "120706",
+        "name": "Namo Landur",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062021",
+        "district_id": "120706",
+        "name": "Gunung Berita",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062022",
+        "district_id": "120706",
+        "name": "Tangkahan",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062023",
+        "district_id": "120706",
+        "name": "Uruk Gedang",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062024",
+        "district_id": "120706",
+        "name": "Rumah Keben",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062025",
+        "district_id": "120706",
+        "name": "Namo Pinang",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062026",
+        "district_id": "120706",
+        "name": "Sudirejo (Sudi Rejo)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062027",
+        "district_id": "120706",
+        "name": "Jaba",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062028",
+        "district_id": "120706",
+        "name": "Kuta Tuala (Tualah)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062029",
+        "district_id": "120706",
+        "name": "Kwala Simeme (Kuala Simeme)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062030",
+        "district_id": "120706",
+        "name": "Batu Gemuk",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062031",
+        "district_id": "120706",
+        "name": "Lau Mulgab (Lau Mulgap)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062032",
+        "district_id": "120706",
+        "name": "Batu Rejo",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062033",
+        "district_id": "120706",
+        "name": "Salang Tungir",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062034",
+        "district_id": "120706",
+        "name": "Namo Mbarao (Mbaru)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062035",
+        "district_id": "120706",
+        "name": "Namo Mungkur (Rimo Mungkur)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207062036",
+        "district_id": "120706",
+        "name": "Namo Mbelin",
+        "postal_code": ""
+    }
+]

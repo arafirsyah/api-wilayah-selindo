@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1501202001",
+        "district_id": "150120",
+        "name": "Pasar Kerman",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202002",
+        "district_id": "150120",
+        "name": "Lolo Gedang",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202003",
+        "district_id": "150120",
+        "name": "Lolo Kecil",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202004",
+        "district_id": "150120",
+        "name": "Lolo Hilir",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202005",
+        "district_id": "150120",
+        "name": "Tanjung Syam",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202006",
+        "district_id": "150120",
+        "name": "Talang Kemuning",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202007",
+        "district_id": "150120",
+        "name": "Pondok",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202008",
+        "district_id": "150120",
+        "name": "Muak",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202009",
+        "district_id": "150120",
+        "name": "Pengasi Lama",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202010",
+        "district_id": "150120",
+        "name": "Pulaupandan",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202011",
+        "district_id": "150120",
+        "name": "Pulausangkar",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202012",
+        "district_id": "150120",
+        "name": "Bintang Marak",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202013",
+        "district_id": "150120",
+        "name": "Karang Pandan",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202014",
+        "district_id": "150120",
+        "name": "Pengasi Baru",
+        "postal_code": "37176"
+    },
+    {
+        "id": "1501202015",
+        "district_id": "150120",
+        "name": "Muaro Lulo",
+        "postal_code": "37176"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3672081001",
+        "district_id": "367208",
+        "name": "Warnasari",
+        "postal_code": "42443"
+    },
+    {
+        "id": "3672081002",
+        "district_id": "367208",
+        "name": "Dringo (Deringo)",
+        "postal_code": "42444"
+    },
+    {
+        "id": "3672081003",
+        "district_id": "367208",
+        "name": "Lebak Denok (Lebakdenok)",
+        "postal_code": "42442"
+    },
+    {
+        "id": "3672081004",
+        "district_id": "367208",
+        "name": "Taman Baru (Tamanbaru)",
+        "postal_code": "42441"
+    },
+    {
+        "id": "3672081005",
+        "district_id": "367208",
+        "name": "Kebonsari",
+        "postal_code": "42442"
+    },
+    {
+        "id": "3672081006",
+        "district_id": "367208",
+        "name": "Samangraya",
+        "postal_code": "42443"
+    },
+    {
+        "id": "3672081007",
+        "district_id": "367208",
+        "name": "Citangkil",
+        "postal_code": "42441"
+    }
+]

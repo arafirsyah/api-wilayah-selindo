@@ -1,0 +1,26 @@
+[
+    {
+        "id": "7505082001",
+        "district_id": "750508",
+        "name": "Ponelo",
+        "postal_code": "96517"
+    },
+    {
+        "id": "7505082002",
+        "district_id": "750508",
+        "name": "Malambe",
+        "postal_code": "96517"
+    },
+    {
+        "id": "7505082003",
+        "district_id": "750508",
+        "name": "Otiola",
+        "postal_code": "96517"
+    },
+    {
+        "id": "7505082004",
+        "district_id": "750508",
+        "name": "Tihengo",
+        "postal_code": "96517"
+    }
+]

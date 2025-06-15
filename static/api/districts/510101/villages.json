@@ -1,0 +1,74 @@
+[
+    {
+        "id": "5101011006",
+        "district_id": "510101",
+        "name": "Baler Bale Agung",
+        "postal_code": "82212"
+    },
+    {
+        "id": "5101011008",
+        "district_id": "510101",
+        "name": "Banjar Tengah",
+        "postal_code": "82213"
+    },
+    {
+        "id": "5101011013",
+        "district_id": "510101",
+        "name": "Lelateng",
+        "postal_code": "82214"
+    },
+    {
+        "id": "5101011014",
+        "district_id": "510101",
+        "name": "Loloan Barat",
+        "postal_code": "82215"
+    },
+    {
+        "id": "5101012001",
+        "district_id": "510101",
+        "name": "Cupel",
+        "postal_code": "82218"
+    },
+    {
+        "id": "5101012002",
+        "district_id": "510101",
+        "name": "Baluk",
+        "postal_code": "82218"
+    },
+    {
+        "id": "5101012003",
+        "district_id": "510101",
+        "name": "Banyu Biru (Banyubiru)",
+        "postal_code": "82218"
+    },
+    {
+        "id": "5101012004",
+        "district_id": "510101",
+        "name": "Kaliakah",
+        "postal_code": "82218"
+    },
+    {
+        "id": "5101012005",
+        "district_id": "510101",
+        "name": "Berangbang",
+        "postal_code": "82218"
+    },
+    {
+        "id": "5101012009",
+        "district_id": "510101",
+        "name": "Tegal Badeng Timur",
+        "postal_code": "82218"
+    },
+    {
+        "id": "5101012010",
+        "district_id": "510101",
+        "name": "Tegal Badeng Barat",
+        "postal_code": "82218"
+    },
+    {
+        "id": "5101012011",
+        "district_id": "510101",
+        "name": "Pengambengan",
+        "postal_code": "82218"
+    }
+]

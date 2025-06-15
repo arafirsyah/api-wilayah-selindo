@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1101012002",
+        "district_id": "110101",
+        "name": "Ujong Mangki (Ujung Mangki)",
+        "postal_code": "23773"
+    },
+    {
+        "id": "1101012003",
+        "district_id": "110101",
+        "name": "Ujong Padang (Ujung Padang)",
+        "postal_code": "23773"
+    },
+    {
+        "id": "1101012004",
+        "district_id": "110101",
+        "name": "Gampong Drien (Kampung Drien)",
+        "postal_code": "23773"
+    },
+    {
+        "id": "1101012015",
+        "district_id": "110101",
+        "name": "Darul Ikhsan",
+        "postal_code": "23773"
+    },
+    {
+        "id": "1101012016",
+        "district_id": "110101",
+        "name": "Padang Beurahan (Padang Berahan)",
+        "postal_code": "23773"
+    },
+    {
+        "id": "1101012017",
+        "district_id": "110101",
+        "name": "Gampong Baro (Kampung Baru)",
+        "postal_code": "23773"
+    }
+]

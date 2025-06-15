@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1308122001",
+        "district_id": "130812",
+        "name": "Simpang Tonang",
+        "postal_code": ""
+    },
+    {
+        "id": "1308122002",
+        "district_id": "130812",
+        "name": "Cubadak",
+        "postal_code": ""
+    },
+    {
+        "id": "1308122003",
+        "district_id": "130812",
+        "name": "Simpang Tonang Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "1308122004",
+        "district_id": "130812",
+        "name": "Simpang Tonang Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "1308122005",
+        "district_id": "130812",
+        "name": "Cubadak Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "1308122006",
+        "district_id": "130812",
+        "name": "Cubadak Tengah",
+        "postal_code": ""
+    },
+    {
+        "id": "1308122007",
+        "district_id": "130812",
+        "name": "Cubadak Barat",
+        "postal_code": ""
+    }
+]

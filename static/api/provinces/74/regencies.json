@@ -1,0 +1,87 @@
+[
+    {
+        "id": "7401",
+        "name": "Kolaka",
+        "province_id": "74"
+    },
+    {
+        "id": "7402",
+        "name": "Konawe",
+        "province_id": "74"
+    },
+    {
+        "id": "7403",
+        "name": "Muna",
+        "province_id": "74"
+    },
+    {
+        "id": "7404",
+        "name": "Buton",
+        "province_id": "74"
+    },
+    {
+        "id": "7405",
+        "name": "Konawe Selatan",
+        "province_id": "74"
+    },
+    {
+        "id": "7406",
+        "name": "Bombana",
+        "province_id": "74"
+    },
+    {
+        "id": "7407",
+        "name": "Wakatobi",
+        "province_id": "74"
+    },
+    {
+        "id": "7408",
+        "name": "Kolaka Utara",
+        "province_id": "74"
+    },
+    {
+        "id": "7409",
+        "name": "Konawe Utara",
+        "province_id": "74"
+    },
+    {
+        "id": "7410",
+        "name": "Buton Utara",
+        "province_id": "74"
+    },
+    {
+        "id": "7411",
+        "name": "Kolaka Timur",
+        "province_id": "74"
+    },
+    {
+        "id": "7412",
+        "name": "Konawe Kepulauan",
+        "province_id": "74"
+    },
+    {
+        "id": "7413",
+        "name": "Muna Barat",
+        "province_id": "74"
+    },
+    {
+        "id": "7414",
+        "name": "Buton Tengah",
+        "province_id": "74"
+    },
+    {
+        "id": "7415",
+        "name": "Buton Selatan",
+        "province_id": "74"
+    },
+    {
+        "id": "7471",
+        "name": "Kota Kendari",
+        "province_id": "74"
+    },
+    {
+        "id": "7472",
+        "name": "Kota Bau Bau",
+        "province_id": "74"
+    }
+]

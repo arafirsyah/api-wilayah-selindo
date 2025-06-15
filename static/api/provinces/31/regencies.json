@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3101",
+        "name": "Kepulauan Seribu",
+        "province_id": "31"
+    },
+    {
+        "id": "3171",
+        "name": "Kota Jakarta Pusat",
+        "province_id": "31"
+    },
+    {
+        "id": "3172",
+        "name": "Kota Jakarta Utara",
+        "province_id": "31"
+    },
+    {
+        "id": "3173",
+        "name": "Kota Jakarta Barat",
+        "province_id": "31"
+    },
+    {
+        "id": "3174",
+        "name": "Kota Jakarta Selatan",
+        "province_id": "31"
+    },
+    {
+        "id": "3175",
+        "name": "Kota Jakarta Timur",
+        "province_id": "31"
+    }
+]

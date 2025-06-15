@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3172061001",
+        "district_id": "317206",
+        "name": "Kelapa Gading Timur",
+        "postal_code": "14240"
+    },
+    {
+        "id": "3172061002",
+        "district_id": "317206",
+        "name": "Pegangsaan Dua",
+        "postal_code": "14250"
+    },
+    {
+        "id": "3172061003",
+        "district_id": "317206",
+        "name": "Kelapa Gading Barat",
+        "postal_code": "14240"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "6112072001",
+        "district_id": "611207",
+        "name": "Rasau Jaya Umum",
+        "postal_code": ""
+    },
+    {
+        "id": "6112072002",
+        "district_id": "611207",
+        "name": "Rasau Jaya I (Satu)",
+        "postal_code": ""
+    },
+    {
+        "id": "6112072003",
+        "district_id": "611207",
+        "name": "Rasau Jaya II (Dua)",
+        "postal_code": ""
+    },
+    {
+        "id": "6112072004",
+        "district_id": "611207",
+        "name": "Rasau Jaya III (Tiga)",
+        "postal_code": ""
+    },
+    {
+        "id": "6112072005",
+        "district_id": "611207",
+        "name": "Bintang Mas",
+        "postal_code": ""
+    },
+    {
+        "id": "6112072006",
+        "district_id": "611207",
+        "name": "Pematang Tujuh",
+        "postal_code": ""
+    }
+]

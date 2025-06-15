@@ -1,0 +1,37 @@
+[
+    {
+        "id": "741201",
+        "regency_id": "7412",
+        "name": "Wawonii Barat"
+    },
+    {
+        "id": "741202",
+        "regency_id": "7412",
+        "name": "Wawonii Utara"
+    },
+    {
+        "id": "741203",
+        "regency_id": "7412",
+        "name": "Wawonii Timur Laut"
+    },
+    {
+        "id": "741204",
+        "regency_id": "7412",
+        "name": "Wawonii Timur"
+    },
+    {
+        "id": "741205",
+        "regency_id": "7412",
+        "name": "Wawonii Tenggara"
+    },
+    {
+        "id": "741206",
+        "regency_id": "7412",
+        "name": "Wawonii Selatan"
+    },
+    {
+        "id": "741207",
+        "regency_id": "7412",
+        "name": "Wawonii Tengah"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "810101",
+        "regency_id": "8101",
+        "name": "Amahai"
+    },
+    {
+        "id": "810102",
+        "regency_id": "8101",
+        "name": "Teon Nila Serua"
+    },
+    {
+        "id": "810106",
+        "regency_id": "8101",
+        "name": "Seram Utara"
+    },
+    {
+        "id": "810109",
+        "regency_id": "8101",
+        "name": "Banda"
+    },
+    {
+        "id": "810111",
+        "regency_id": "8101",
+        "name": "Tehoru"
+    },
+    {
+        "id": "810112",
+        "regency_id": "8101",
+        "name": "Saparua"
+    },
+    {
+        "id": "810113",
+        "regency_id": "8101",
+        "name": "Pulau Haruku"
+    },
+    {
+        "id": "810114",
+        "regency_id": "8101",
+        "name": "Salahutu"
+    },
+    {
+        "id": "810115",
+        "regency_id": "8101",
+        "name": "Leihitu"
+    },
+    {
+        "id": "810116",
+        "regency_id": "8101",
+        "name": "Nusa Laut"
+    },
+    {
+        "id": "810117",
+        "regency_id": "8101",
+        "name": "Kota Masohi"
+    },
+    {
+        "id": "810120",
+        "regency_id": "8101",
+        "name": "Seram Utara Barat"
+    },
+    {
+        "id": "810121",
+        "regency_id": "8101",
+        "name": "Teluk Elpaputih"
+    },
+    {
+        "id": "810122",
+        "regency_id": "8101",
+        "name": "Leihitu Barat"
+    },
+    {
+        "id": "810123",
+        "regency_id": "8101",
+        "name": "Telutih"
+    },
+    {
+        "id": "810124",
+        "regency_id": "8101",
+        "name": "Seram Utara Timur Seti"
+    },
+    {
+        "id": "810125",
+        "regency_id": "8101",
+        "name": "Seram Utara Timur Kobi"
+    },
+    {
+        "id": "810126",
+        "regency_id": "8101",
+        "name": "Saparua Timur"
+    }
+]

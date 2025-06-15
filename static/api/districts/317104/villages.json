@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3171041001",
+        "district_id": "317104",
+        "name": "Senen",
+        "postal_code": "10410"
+    },
+    {
+        "id": "3171041002",
+        "district_id": "317104",
+        "name": "Kenari",
+        "postal_code": "10430"
+    },
+    {
+        "id": "3171041003",
+        "district_id": "317104",
+        "name": "Paseban",
+        "postal_code": "10440"
+    },
+    {
+        "id": "3171041004",
+        "district_id": "317104",
+        "name": "Kramat",
+        "postal_code": "10450"
+    },
+    {
+        "id": "3171041005",
+        "district_id": "317104",
+        "name": "Kwitang",
+        "postal_code": "10420"
+    },
+    {
+        "id": "3171041006",
+        "district_id": "317104",
+        "name": "Bungur",
+        "postal_code": "10460"
+    }
+]

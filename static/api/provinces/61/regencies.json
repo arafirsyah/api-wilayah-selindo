@@ -1,0 +1,72 @@
+[
+    {
+        "id": "6101",
+        "name": "Sambas",
+        "province_id": "61"
+    },
+    {
+        "id": "6102",
+        "name": "Mempawah",
+        "province_id": "61"
+    },
+    {
+        "id": "6103",
+        "name": "Sanggau",
+        "province_id": "61"
+    },
+    {
+        "id": "6104",
+        "name": "Ketapang",
+        "province_id": "61"
+    },
+    {
+        "id": "6105",
+        "name": "Sintang",
+        "province_id": "61"
+    },
+    {
+        "id": "6106",
+        "name": "Kapuas Hulu",
+        "province_id": "61"
+    },
+    {
+        "id": "6107",
+        "name": "Bengkayang",
+        "province_id": "61"
+    },
+    {
+        "id": "6108",
+        "name": "Landak",
+        "province_id": "61"
+    },
+    {
+        "id": "6109",
+        "name": "Sekadau",
+        "province_id": "61"
+    },
+    {
+        "id": "6110",
+        "name": "Melawi",
+        "province_id": "61"
+    },
+    {
+        "id": "6111",
+        "name": "Kayong Utara",
+        "province_id": "61"
+    },
+    {
+        "id": "6112",
+        "name": "Kubu Raya",
+        "province_id": "61"
+    },
+    {
+        "id": "6171",
+        "name": "Kota Pontianak",
+        "province_id": "61"
+    },
+    {
+        "id": "6172",
+        "name": "Kota Singkawang",
+        "province_id": "61"
+    }
+]

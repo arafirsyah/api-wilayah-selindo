@@ -1,0 +1,137 @@
+[
+    {
+        "id": "3201",
+        "name": "Bogor",
+        "province_id": "32"
+    },
+    {
+        "id": "3202",
+        "name": "Sukabumi",
+        "province_id": "32"
+    },
+    {
+        "id": "3203",
+        "name": "Cianjur",
+        "province_id": "32"
+    },
+    {
+        "id": "3204",
+        "name": "Bandung",
+        "province_id": "32"
+    },
+    {
+        "id": "3205",
+        "name": "Garut",
+        "province_id": "32"
+    },
+    {
+        "id": "3206",
+        "name": "Tasikmalaya",
+        "province_id": "32"
+    },
+    {
+        "id": "3207",
+        "name": "Ciamis",
+        "province_id": "32"
+    },
+    {
+        "id": "3208",
+        "name": "Kuningan",
+        "province_id": "32"
+    },
+    {
+        "id": "3209",
+        "name": "Cirebon",
+        "province_id": "32"
+    },
+    {
+        "id": "3210",
+        "name": "Majalengka",
+        "province_id": "32"
+    },
+    {
+        "id": "3211",
+        "name": "Sumedang",
+        "province_id": "32"
+    },
+    {
+        "id": "3212",
+        "name": "Indramayu",
+        "province_id": "32"
+    },
+    {
+        "id": "3213",
+        "name": "Subang",
+        "province_id": "32"
+    },
+    {
+        "id": "3214",
+        "name": "Purwakarta",
+        "province_id": "32"
+    },
+    {
+        "id": "3215",
+        "name": "Karawang",
+        "province_id": "32"
+    },
+    {
+        "id": "3216",
+        "name": "Bekasi",
+        "province_id": "32"
+    },
+    {
+        "id": "3217",
+        "name": "Bandung Barat",
+        "province_id": "32"
+    },
+    {
+        "id": "3218",
+        "name": "Pangandaran",
+        "province_id": "32"
+    },
+    {
+        "id": "3271",
+        "name": "Kota Bogor",
+        "province_id": "32"
+    },
+    {
+        "id": "3272",
+        "name": "Kota Sukabumi",
+        "province_id": "32"
+    },
+    {
+        "id": "3273",
+        "name": "Kota Bandung",
+        "province_id": "32"
+    },
+    {
+        "id": "3274",
+        "name": "Kota Cirebon",
+        "province_id": "32"
+    },
+    {
+        "id": "3275",
+        "name": "Kota Bekasi",
+        "province_id": "32"
+    },
+    {
+        "id": "3276",
+        "name": "Kota Depok",
+        "province_id": "32"
+    },
+    {
+        "id": "3277",
+        "name": "Kota Cimahi",
+        "province_id": "32"
+    },
+    {
+        "id": "3278",
+        "name": "Kota Tasikmalaya",
+        "province_id": "32"
+    },
+    {
+        "id": "3279",
+        "name": "Kota Banjar",
+        "province_id": "32"
+    }
+]

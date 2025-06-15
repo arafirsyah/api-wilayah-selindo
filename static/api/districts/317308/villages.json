@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3173081001",
+        "district_id": "317308",
+        "name": "Kembangan Utara",
+        "postal_code": "11610"
+    },
+    {
+        "id": "3173081002",
+        "district_id": "317308",
+        "name": "Meruya Utara (Ilir)",
+        "postal_code": "11620"
+    },
+    {
+        "id": "3173081003",
+        "district_id": "317308",
+        "name": "Meruya Selatan (Udik)",
+        "postal_code": "11650"
+    },
+    {
+        "id": "3173081004",
+        "district_id": "317308",
+        "name": "Srengseng",
+        "postal_code": "11630"
+    },
+    {
+        "id": "3173081005",
+        "district_id": "317308",
+        "name": "Joglo",
+        "postal_code": "11640"
+    },
+    {
+        "id": "3173081006",
+        "district_id": "317308",
+        "name": "Kembangan Selatan",
+        "postal_code": "11610"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3174101001",
+        "district_id": "317410",
+        "name": "Pesanggrahan",
+        "postal_code": "12320"
+    },
+    {
+        "id": "3174101002",
+        "district_id": "317410",
+        "name": "Bintaro",
+        "postal_code": "12330"
+    },
+    {
+        "id": "3174101003",
+        "district_id": "317410",
+        "name": "Petukangan Utara",
+        "postal_code": "12260"
+    },
+    {
+        "id": "3174101004",
+        "district_id": "317410",
+        "name": "Petukangan Selatan",
+        "postal_code": "12270"
+    },
+    {
+        "id": "3174101005",
+        "district_id": "317410",
+        "name": "Ulujami",
+        "postal_code": "12250"
+    }
+]

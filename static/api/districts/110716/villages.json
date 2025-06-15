@@ -1,0 +1,386 @@
+[
+    {
+        "id": "1107162001",
+        "district_id": "110716",
+        "name": "Tijue",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162002",
+        "district_id": "110716",
+        "name": "Lampeudue Tunong (Lampeudeu Tunong)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162003",
+        "district_id": "110716",
+        "name": "Puuk",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162004",
+        "district_id": "110716",
+        "name": "Lampeudue Baroh (Lampeudeu Baroh)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162005",
+        "district_id": "110716",
+        "name": "Paya",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162006",
+        "district_id": "110716",
+        "name": "Mesjid Reuntoh (Mesjid Runtoh)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162007",
+        "district_id": "110716",
+        "name": "Dayah Teungoh",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162008",
+        "district_id": "110716",
+        "name": "Baroh",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162009",
+        "district_id": "110716",
+        "name": "Dayah Tanoh",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162010",
+        "district_id": "110716",
+        "name": "Cot Geunduk (Cot Geunduek)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162011",
+        "district_id": "110716",
+        "name": "Tumpok Laweung",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162012",
+        "district_id": "110716",
+        "name": "Ulee Ceue (Ulee Ceu Keulibeut)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162013",
+        "district_id": "110716",
+        "name": "Keude Keulibeut (Keudee Keulibeut)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162014",
+        "district_id": "110716",
+        "name": "Ulee Tutue",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162015",
+        "district_id": "110716",
+        "name": "Dayah Tutong",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162016",
+        "district_id": "110716",
+        "name": "Lampoh Lada",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162017",
+        "district_id": "110716",
+        "name": "Keuniree (Keunire)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162018",
+        "district_id": "110716",
+        "name": "Tumpok 40",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162019",
+        "district_id": "110716",
+        "name": "Cot Teungoh",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162020",
+        "district_id": "110716",
+        "name": "Cot Rheng",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162021",
+        "district_id": "110716",
+        "name": "Labui",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162022",
+        "district_id": "110716",
+        "name": "Meunasah Gampong (Gampong)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162023",
+        "district_id": "110716",
+        "name": "Pulo Pisang",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162024",
+        "district_id": "110716",
+        "name": "Lam Kuta (Lamkuta)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162025",
+        "district_id": "110716",
+        "name": "Kampong Pukat (Gampong Pukat)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162026",
+        "district_id": "110716",
+        "name": "Kampong Barat (Gampong Barat)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162027",
+        "district_id": "110716",
+        "name": "Paloh",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162028",
+        "district_id": "110716",
+        "name": "Gampong Baro (Kampong Baro)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162029",
+        "district_id": "110716",
+        "name": "Pulo Bubee",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162030",
+        "district_id": "110716",
+        "name": "Tibang",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162031",
+        "district_id": "110716",
+        "name": "Rawa",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162032",
+        "district_id": "110716",
+        "name": "Peukan Baro",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162033",
+        "district_id": "110716",
+        "name": "Mancang",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162034",
+        "district_id": "110716",
+        "name": "Gajah Aye (Gajah Ayee)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162035",
+        "district_id": "110716",
+        "name": "Lhok Keutapang",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162036",
+        "district_id": "110716",
+        "name": "Dalueng",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162037",
+        "district_id": "110716",
+        "name": "Ulee Ceue (Ulee Ceueteubeng)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162038",
+        "district_id": "110716",
+        "name": "Meucat (Meucat Teubeng)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162039",
+        "district_id": "110716",
+        "name": "Dayah Teubeng",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162040",
+        "district_id": "110716",
+        "name": "Tanjong (Teubeng Tanjong)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162041",
+        "district_id": "110716",
+        "name": "Jawa (Jawa Teubeng)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162042",
+        "district_id": "110716",
+        "name": "Bayu (Bayu Teubeng)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162043",
+        "district_id": "110716",
+        "name": "Abo (Abo Teubeng)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162044",
+        "district_id": "110716",
+        "name": "Keutapang",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162045",
+        "district_id": "110716",
+        "name": "Krueng Dhoe",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162046",
+        "district_id": "110716",
+        "name": "Sirong",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162047",
+        "district_id": "110716",
+        "name": "Keutumbu",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162048",
+        "district_id": "110716",
+        "name": "Jeumpa",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162049",
+        "district_id": "110716",
+        "name": "Raya Sanggeue",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162050",
+        "district_id": "110716",
+        "name": "Jeuleupee (Dayah Jeuleupe)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162051",
+        "district_id": "110716",
+        "name": "Ujong Langgoe (Ujong Langgo)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162052",
+        "district_id": "110716",
+        "name": "Cot Glumpang (Cot Geulumpang)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162053",
+        "district_id": "110716",
+        "name": "Seriweuk (Seuri Weuk)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162054",
+        "district_id": "110716",
+        "name": "Mesjid Utue",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162055",
+        "district_id": "110716",
+        "name": "Leubue (Leu Bue)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162056",
+        "district_id": "110716",
+        "name": "Batee",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162057",
+        "district_id": "110716",
+        "name": "Raya Uteu (Raya Utue)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162058",
+        "district_id": "110716",
+        "name": "Seukembrok (Seukeumbrok)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162059",
+        "district_id": "110716",
+        "name": "Bie",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162060",
+        "district_id": "110716",
+        "name": "Blang Kula (Blangkula)",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162061",
+        "district_id": "110716",
+        "name": "Alue",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162062",
+        "district_id": "110716",
+        "name": "Seuke",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162063",
+        "district_id": "110716",
+        "name": "Paya Linteung",
+        "postal_code": "24151"
+    },
+    {
+        "id": "1107162064",
+        "district_id": "110716",
+        "name": "Puli",
+        "postal_code": "24151"
+    }
+]

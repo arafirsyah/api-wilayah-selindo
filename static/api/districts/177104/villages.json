@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1771041001",
+        "district_id": "177104",
+        "name": "Kandang Limun",
+        "postal_code": "38122"
+    },
+    {
+        "id": "1771041002",
+        "district_id": "177104",
+        "name": "Bentiring",
+        "postal_code": "38126"
+    },
+    {
+        "id": "1771041003",
+        "district_id": "177104",
+        "name": "Pematang Gubernur",
+        "postal_code": "38125"
+    },
+    {
+        "id": "1771041004",
+        "district_id": "177104",
+        "name": "Rawa Makmur",
+        "postal_code": "38121"
+    },
+    {
+        "id": "1771041005",
+        "district_id": "177104",
+        "name": "Beringin Raya",
+        "postal_code": "38121"
+    },
+    {
+        "id": "1771041006",
+        "district_id": "177104",
+        "name": "Bentiring Permai",
+        "postal_code": "38121"
+    },
+    {
+        "id": "1771041007",
+        "district_id": "177104",
+        "name": "Rawa Makmur Permai",
+        "postal_code": "38121"
+    }
+]

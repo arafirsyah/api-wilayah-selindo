@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1110012001",
+        "district_id": "111001",
+        "name": "Pulau Balai",
+        "postal_code": "24791"
+    },
+    {
+        "id": "1110012002",
+        "district_id": "111001",
+        "name": "Pulau Baguk",
+        "postal_code": "24791"
+    },
+    {
+        "id": "1110012004",
+        "district_id": "111001",
+        "name": "Teluk Nibung",
+        "postal_code": "24791"
+    }
+]

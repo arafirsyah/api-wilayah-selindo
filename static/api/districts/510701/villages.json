@@ -1,0 +1,38 @@
+[
+    {
+        "id": "5107012001",
+        "district_id": "510701",
+        "name": "Nongan",
+        "postal_code": "80863"
+    },
+    {
+        "id": "5107012002",
+        "district_id": "510701",
+        "name": "Rendang",
+        "postal_code": "80863"
+    },
+    {
+        "id": "5107012003",
+        "district_id": "510701",
+        "name": "Menanga",
+        "postal_code": "80863"
+    },
+    {
+        "id": "5107012004",
+        "district_id": "510701",
+        "name": "Besakih",
+        "postal_code": "80863"
+    },
+    {
+        "id": "5107012005",
+        "district_id": "510701",
+        "name": "Pempatan",
+        "postal_code": "80863"
+    },
+    {
+        "id": "5107012006",
+        "district_id": "510701",
+        "name": "Pesaban",
+        "postal_code": "80863"
+    }
+]

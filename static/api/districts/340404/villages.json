@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3404042001",
+        "district_id": "340404",
+        "name": "Sendangarum (Sendang Arum)",
+        "postal_code": "55562"
+    },
+    {
+        "id": "3404042002",
+        "district_id": "340404",
+        "name": "Sendangmulyo (Sendang Mulyo)",
+        "postal_code": "55562"
+    },
+    {
+        "id": "3404042003",
+        "district_id": "340404",
+        "name": "Sendangagung",
+        "postal_code": "55562"
+    },
+    {
+        "id": "3404042004",
+        "district_id": "340404",
+        "name": "Sendangsari",
+        "postal_code": "55562"
+    },
+    {
+        "id": "3404042005",
+        "district_id": "340404",
+        "name": "Sendangrejo (Sendang Rejo)",
+        "postal_code": "55562"
+    }
+]

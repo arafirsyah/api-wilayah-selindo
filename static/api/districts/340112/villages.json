@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3401122001",
+        "district_id": "340112",
+        "name": "Banjararum",
+        "postal_code": "55672"
+    },
+    {
+        "id": "3401122002",
+        "district_id": "340112",
+        "name": "Banjarasri",
+        "postal_code": "55672"
+    },
+    {
+        "id": "3401122003",
+        "district_id": "340112",
+        "name": "Banjarharjo",
+        "postal_code": "55672"
+    },
+    {
+        "id": "3401122004",
+        "district_id": "340112",
+        "name": "Banjaroyo",
+        "postal_code": "55672"
+    }
+]

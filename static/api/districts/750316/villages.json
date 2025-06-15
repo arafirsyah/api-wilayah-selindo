@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7503162001",
+        "district_id": "750316",
+        "name": "Bulotalangi",
+        "postal_code": "96542"
+    },
+    {
+        "id": "7503162002",
+        "district_id": "750316",
+        "name": "Toluwaya (Tuloa)",
+        "postal_code": "96542"
+    },
+    {
+        "id": "7503162003",
+        "district_id": "750316",
+        "name": "Popodu",
+        "postal_code": "96542"
+    },
+    {
+        "id": "7503162004",
+        "district_id": "750316",
+        "name": "Bulotalangi Timur",
+        "postal_code": "96542"
+    },
+    {
+        "id": "7503162005",
+        "district_id": "750316",
+        "name": "Bulotalangi Barat",
+        "postal_code": "96542"
+    }
+]

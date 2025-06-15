@@ -1,0 +1,117 @@
+[
+    {
+        "id": "1101",
+        "name": "Aceh Selatan",
+        "province_id": "11"
+    },
+    {
+        "id": "1102",
+        "name": "Aceh Tenggara",
+        "province_id": "11"
+    },
+    {
+        "id": "1103",
+        "name": "Aceh Timur",
+        "province_id": "11"
+    },
+    {
+        "id": "1104",
+        "name": "Aceh Tengah",
+        "province_id": "11"
+    },
+    {
+        "id": "1105",
+        "name": "Aceh Barat",
+        "province_id": "11"
+    },
+    {
+        "id": "1106",
+        "name": "Aceh Besar",
+        "province_id": "11"
+    },
+    {
+        "id": "1107",
+        "name": "Pidie",
+        "province_id": "11"
+    },
+    {
+        "id": "1108",
+        "name": "Aceh Utara",
+        "province_id": "11"
+    },
+    {
+        "id": "1109",
+        "name": "Simeulue",
+        "province_id": "11"
+    },
+    {
+        "id": "1110",
+        "name": "Aceh Singkil",
+        "province_id": "11"
+    },
+    {
+        "id": "1111",
+        "name": "Bireuen",
+        "province_id": "11"
+    },
+    {
+        "id": "1112",
+        "name": "Aceh Barat Daya",
+        "province_id": "11"
+    },
+    {
+        "id": "1113",
+        "name": "Gayo Lues",
+        "province_id": "11"
+    },
+    {
+        "id": "1114",
+        "name": "Aceh Jaya",
+        "province_id": "11"
+    },
+    {
+        "id": "1115",
+        "name": "Nagan Raya",
+        "province_id": "11"
+    },
+    {
+        "id": "1116",
+        "name": "Aceh Tamiang",
+        "province_id": "11"
+    },
+    {
+        "id": "1117",
+        "name": "Bener Meriah",
+        "province_id": "11"
+    },
+    {
+        "id": "1118",
+        "name": "Pidie Jaya",
+        "province_id": "11"
+    },
+    {
+        "id": "1171",
+        "name": "Kota Banda Aceh",
+        "province_id": "11"
+    },
+    {
+        "id": "1172",
+        "name": "Kota Sabang",
+        "province_id": "11"
+    },
+    {
+        "id": "1173",
+        "name": "Kota Lhokseumawe",
+        "province_id": "11"
+    },
+    {
+        "id": "1174",
+        "name": "Kota Langsa",
+        "province_id": "11"
+    },
+    {
+        "id": "1175",
+        "name": "Kota Subulussalam",
+        "province_id": "11"
+    }
+]

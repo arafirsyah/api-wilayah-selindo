@@ -1,0 +1,32 @@
+[
+    {
+        "id": "8205122001",
+        "district_id": "820512",
+        "name": "Kaporo",
+        "postal_code": ""
+    },
+    {
+        "id": "8205122002",
+        "district_id": "820512",
+        "name": "Waikafia",
+        "postal_code": ""
+    },
+    {
+        "id": "8205122003",
+        "district_id": "820512",
+        "name": "Buya",
+        "postal_code": ""
+    },
+    {
+        "id": "8205122004",
+        "district_id": "820512",
+        "name": "Auponhia",
+        "postal_code": ""
+    },
+    {
+        "id": "8205122005",
+        "district_id": "820512",
+        "name": "Wailab",
+        "postal_code": ""
+    }
+]

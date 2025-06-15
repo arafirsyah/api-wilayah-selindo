@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1702222001",
+        "district_id": "170222",
+        "name": "IV Suko Menanti (IV \/ Empat Suku Menanti)",
+        "postal_code": "39154"
+    },
+    {
+        "id": "1702222002",
+        "district_id": "170222",
+        "name": "Air Rusa",
+        "postal_code": "39154"
+    },
+    {
+        "id": "1702222003",
+        "district_id": "170222",
+        "name": "Bengko",
+        "postal_code": "39154"
+    },
+    {
+        "id": "1702222004",
+        "district_id": "170222",
+        "name": "Sinar Gunung",
+        "postal_code": "39154"
+    },
+    {
+        "id": "1702222005",
+        "district_id": "170222",
+        "name": "Warung Pojok",
+        "postal_code": "39154"
+    },
+    {
+        "id": "1702222006",
+        "district_id": "170222",
+        "name": "Talang Belitar",
+        "postal_code": "39154"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3601062001",
+        "district_id": "360106",
+        "name": "Panimbangjaya",
+        "postal_code": "42281"
+    },
+    {
+        "id": "3601062002",
+        "district_id": "360106",
+        "name": "Mekarjaya",
+        "postal_code": "42281"
+    },
+    {
+        "id": "3601062004",
+        "district_id": "360106",
+        "name": "Gombong",
+        "postal_code": "42281"
+    },
+    {
+        "id": "3601062009",
+        "district_id": "360106",
+        "name": "Mekar Jaya (Mekarsari)",
+        "postal_code": "42281"
+    },
+    {
+        "id": "3601062011",
+        "district_id": "360106",
+        "name": "Citeureup",
+        "postal_code": "42281"
+    },
+    {
+        "id": "3601062012",
+        "district_id": "360106",
+        "name": "Tanjungjaya",
+        "postal_code": "42281"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "2101041005",
+        "district_id": "210104",
+        "name": "Kawal",
+        "postal_code": ""
+    },
+    {
+        "id": "2101042001",
+        "district_id": "210104",
+        "name": "Gunung Kijang",
+        "postal_code": ""
+    },
+    {
+        "id": "2101042002",
+        "district_id": "210104",
+        "name": "Malang Rapat",
+        "postal_code": ""
+    },
+    {
+        "id": "2101042003",
+        "district_id": "210104",
+        "name": "Teluk Bakau",
+        "postal_code": ""
+    }
+]

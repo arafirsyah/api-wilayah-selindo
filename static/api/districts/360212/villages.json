@@ -1,0 +1,92 @@
+[
+    {
+        "id": "3602122001",
+        "district_id": "360212",
+        "name": "Maraya",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122002",
+        "district_id": "360212",
+        "name": "Sajira",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122003",
+        "district_id": "360212",
+        "name": "Sukarame",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122004",
+        "district_id": "360212",
+        "name": "Calungbungur",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122005",
+        "district_id": "360212",
+        "name": "Parungsari",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122006",
+        "district_id": "360212",
+        "name": "Sindangsari",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122007",
+        "district_id": "360212",
+        "name": "Mekarsari",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122008",
+        "district_id": "360212",
+        "name": "Sukamarga",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122009",
+        "district_id": "360212",
+        "name": "Pajagan",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122010",
+        "district_id": "360212",
+        "name": "Sukajaya",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122011",
+        "district_id": "360212",
+        "name": "Sajira Mekar (Sajiramekar)",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122012",
+        "district_id": "360212",
+        "name": "Paja",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122013",
+        "district_id": "360212",
+        "name": "Margaluyu",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122014",
+        "district_id": "360212",
+        "name": "Bungurmekar (Bangunmekar)",
+        "postal_code": "42371"
+    },
+    {
+        "id": "3602122015",
+        "district_id": "360212",
+        "name": "Ciuyah",
+        "postal_code": "42371"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1302122001",
+        "district_id": "130212",
+        "name": "Sulit Air",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122002",
+        "district_id": "130212",
+        "name": "Tanjung Balik",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122003",
+        "district_id": "130212",
+        "name": "Paninjauan",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122004",
+        "district_id": "130212",
+        "name": "Kuncir",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122005",
+        "district_id": "130212",
+        "name": "Katialo",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122006",
+        "district_id": "130212",
+        "name": "Pasilihan",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122007",
+        "district_id": "130212",
+        "name": "Bukit Kanduang",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122008",
+        "district_id": "130212",
+        "name": "Sibarambang",
+        "postal_code": ""
+    },
+    {
+        "id": "1302122009",
+        "district_id": "130212",
+        "name": "Labuh Panjang",
+        "postal_code": ""
+    }
+]

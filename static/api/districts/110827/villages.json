@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1108272001",
+        "district_id": "110827",
+        "name": "Alue Dua (Gampong Alue Dua)",
+        "postal_code": "24379"
+    },
+    {
+        "id": "1108272002",
+        "district_id": "110827",
+        "name": "Seumirah (Gampong Seumirah)",
+        "postal_code": "24379"
+    },
+    {
+        "id": "1108272003",
+        "district_id": "110827",
+        "name": "Darussalam (Gampong Darussalam)",
+        "postal_code": "24379"
+    },
+    {
+        "id": "1108272004",
+        "district_id": "110827",
+        "name": "Alue Papeun (Gampong Alue Papeun)",
+        "postal_code": "24379"
+    },
+    {
+        "id": "1108272005",
+        "district_id": "110827",
+        "name": "Blang Jrat (Gampong Blang Jrat)",
+        "postal_code": "24379"
+    },
+    {
+        "id": "1108272006",
+        "district_id": "110827",
+        "name": "Blang Pohroh (Gampong Blang Pohroh)",
+        "postal_code": "24379"
+    }
+]

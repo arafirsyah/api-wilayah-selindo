@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1401",
+        "name": "Kampar",
+        "province_id": "14"
+    },
+    {
+        "id": "1402",
+        "name": "Indragiri Hulu",
+        "province_id": "14"
+    },
+    {
+        "id": "1403",
+        "name": "Bengkalis",
+        "province_id": "14"
+    },
+    {
+        "id": "1404",
+        "name": "Indragiri Hilir",
+        "province_id": "14"
+    },
+    {
+        "id": "1405",
+        "name": "Pelalawan",
+        "province_id": "14"
+    },
+    {
+        "id": "1406",
+        "name": "Rokan Hulu",
+        "province_id": "14"
+    },
+    {
+        "id": "1407",
+        "name": "Rokan Hilir",
+        "province_id": "14"
+    },
+    {
+        "id": "1408",
+        "name": "Siak",
+        "province_id": "14"
+    },
+    {
+        "id": "1409",
+        "name": "Kuantan Singingi",
+        "province_id": "14"
+    },
+    {
+        "id": "1410",
+        "name": "Kepulauan Meranti",
+        "province_id": "14"
+    },
+    {
+        "id": "1471",
+        "name": "Kota Pekanbaru",
+        "province_id": "14"
+    },
+    {
+        "id": "1472",
+        "name": "Kota Dumai",
+        "province_id": "14"
+    }
+]

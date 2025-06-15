@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3172051001",
+        "district_id": "317205",
+        "name": "Pademangan Timur",
+        "postal_code": "14410"
+    },
+    {
+        "id": "3172051002",
+        "district_id": "317205",
+        "name": "Pademangan Barat",
+        "postal_code": "14420"
+    },
+    {
+        "id": "3172051003",
+        "district_id": "317205",
+        "name": "Ancol",
+        "postal_code": "14430"
+    }
+]

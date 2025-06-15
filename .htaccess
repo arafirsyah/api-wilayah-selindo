@@ -1,9 +1,35 @@
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteBase /api_wilayah_indonesia/
-    
-    # Handle API Requests
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^(.*)$ index.php [L,QSA]
+# Enable rewrite engine
+RewriteEngine On
+
+# Set base URL
+RewriteBase /api-wilayah-selindo/
+
+# If the request is for a file or directory that exists, serve it directly
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Handle static API requests and assets
+RewriteRule ^(static/api/.*)$ $1 [L]
+RewriteRule ^assets/(.*)$ assets/$1 [L]
+
+# Route all other requests to public/index.php
+RewriteRule ^(.*)$ public/index.php [QSA,L]
+
+# Set CORS headers
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type"
 </IfModule>
+
+# Set JSON content type for all JSON files
+<FilesMatch "\.(json)$">
+    Header set Content-Type "application/json; charset=utf-8"
+</FilesMatch>
+
+# Disable directory listing
+Options -Indexes
+
+# Set default index file
+DirectoryIndex public/index.php

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1702212001",
+        "district_id": "170221",
+        "name": "Apur",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212002",
+        "district_id": "170221",
+        "name": "Lawang Agung",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212003",
+        "district_id": "170221",
+        "name": "Lubuk Alai",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212004",
+        "district_id": "170221",
+        "name": "Karang Pinang",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212005",
+        "district_id": "170221",
+        "name": "Tanjung Agung",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212006",
+        "district_id": "170221",
+        "name": "Pengambang",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212007",
+        "district_id": "170221",
+        "name": "Jabi",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212008",
+        "district_id": "170221",
+        "name": "Tanjung Herang (Tanjung Heran)",
+        "postal_code": "39181"
+    },
+    {
+        "id": "1702212009",
+        "district_id": "170221",
+        "name": "Air Nau",
+        "postal_code": "39181"
+    }
+]

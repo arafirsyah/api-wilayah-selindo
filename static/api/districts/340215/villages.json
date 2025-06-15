@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3402152001",
+        "district_id": "340215",
+        "name": "Pendowoharjo",
+        "postal_code": "55185"
+    },
+    {
+        "id": "3402152002",
+        "district_id": "340215",
+        "name": "Timbulharjo",
+        "postal_code": "55186"
+    },
+    {
+        "id": "3402152003",
+        "district_id": "340215",
+        "name": "Bangunharjo",
+        "postal_code": "55188"
+    },
+    {
+        "id": "3402152004",
+        "district_id": "340215",
+        "name": "Panggungharjo",
+        "postal_code": "55188"
+    }
+]

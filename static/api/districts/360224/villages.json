@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3602242001",
+        "district_id": "360224",
+        "name": "Kalanganyar",
+        "postal_code": "42312"
+    },
+    {
+        "id": "3602242002",
+        "district_id": "360224",
+        "name": "Pasirkupa",
+        "postal_code": "42312"
+    },
+    {
+        "id": "3602242003",
+        "district_id": "360224",
+        "name": "Cilangkap",
+        "postal_code": "42312"
+    },
+    {
+        "id": "3602242004",
+        "district_id": "360224",
+        "name": "Aweh",
+        "postal_code": "42312"
+    },
+    {
+        "id": "3602242005",
+        "district_id": "360224",
+        "name": "Sangiangtanjung (Sangiang Tanjung)",
+        "postal_code": "42312"
+    },
+    {
+        "id": "3602242006",
+        "district_id": "360224",
+        "name": "Sukamekarsari",
+        "postal_code": "42312"
+    },
+    {
+        "id": "3602242007",
+        "district_id": "360224",
+        "name": "Cikatapis",
+        "postal_code": "42311"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": "2101",
+        "name": "Bintan",
+        "province_id": "21"
+    },
+    {
+        "id": "2102",
+        "name": "Karimun",
+        "province_id": "21"
+    },
+    {
+        "id": "2103",
+        "name": "Natuna",
+        "province_id": "21"
+    },
+    {
+        "id": "2104",
+        "name": "Lingga",
+        "province_id": "21"
+    },
+    {
+        "id": "2105",
+        "name": "Kepulauan Anambas",
+        "province_id": "21"
+    },
+    {
+        "id": "2171",
+        "name": "Kota Batam",
+        "province_id": "21"
+    },
+    {
+        "id": "2172",
+        "name": "Kota Tanjung Pinang",
+        "province_id": "21"
+    }
+]

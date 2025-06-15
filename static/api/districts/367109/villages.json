@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3671091001",
+        "district_id": "367109",
+        "name": "Cibodas",
+        "postal_code": "15138"
+    },
+    {
+        "id": "3671091002",
+        "district_id": "367109",
+        "name": "Cibodasari (Cibodas Sari)",
+        "postal_code": "15138"
+    },
+    {
+        "id": "3671091003",
+        "district_id": "367109",
+        "name": "Cibodas Baru",
+        "postal_code": "15138"
+    },
+    {
+        "id": "3671091004",
+        "district_id": "367109",
+        "name": "Panunggangan Barat",
+        "postal_code": "15139"
+    },
+    {
+        "id": "3671091005",
+        "district_id": "367109",
+        "name": "Uwung Jaya",
+        "postal_code": "15138"
+    },
+    {
+        "id": "3671091006",
+        "district_id": "367109",
+        "name": "Jatiuwung",
+        "postal_code": "15134"
+    }
+]

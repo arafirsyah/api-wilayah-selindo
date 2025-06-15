@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3601012001",
+        "district_id": "360101",
+        "name": "Sumberjaya",
+        "postal_code": "42283"
+    },
+    {
+        "id": "3601012002",
+        "district_id": "360101",
+        "name": "Kertajaya",
+        "postal_code": "42283"
+    },
+    {
+        "id": "3601012003",
+        "district_id": "360101",
+        "name": "Kertamukti",
+        "postal_code": "42283"
+    },
+    {
+        "id": "3601012004",
+        "district_id": "360101",
+        "name": "Tunggaljaya",
+        "postal_code": "42283"
+    },
+    {
+        "id": "3601012005",
+        "district_id": "360101",
+        "name": "Cigorondong",
+        "postal_code": "42283"
+    },
+    {
+        "id": "3601012006",
+        "district_id": "360101",
+        "name": "Tamanjaya",
+        "postal_code": "42283"
+    },
+    {
+        "id": "3601012007",
+        "district_id": "360101",
+        "name": "Ujungjaya",
+        "postal_code": "42283"
+    }
+]

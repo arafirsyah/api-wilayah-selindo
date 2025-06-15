@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3402032001",
+        "district_id": "340203",
+        "name": "Tirtomulyo",
+        "postal_code": "55772"
+    },
+    {
+        "id": "3402032002",
+        "district_id": "340203",
+        "name": "Parangtritis",
+        "postal_code": "55772"
+    },
+    {
+        "id": "3402032003",
+        "district_id": "340203",
+        "name": "Donotirto",
+        "postal_code": "55772"
+    },
+    {
+        "id": "3402032004",
+        "district_id": "340203",
+        "name": "Tirtosari",
+        "postal_code": "55772"
+    },
+    {
+        "id": "3402032005",
+        "district_id": "340203",
+        "name": "Tirtohargo",
+        "postal_code": "55772"
+    }
+]

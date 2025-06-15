@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1508131001",
+        "district_id": "150813",
+        "name": "Pasir Putih",
+        "postal_code": "37215"
+    },
+    {
+        "id": "1508131002",
+        "district_id": "150813",
+        "name": "Cadika (Candika)",
+        "postal_code": "37215"
+    },
+    {
+        "id": "1508132003",
+        "district_id": "150813",
+        "name": "Sungai Mengkuang",
+        "postal_code": "37215"
+    },
+    {
+        "id": "1508132004",
+        "district_id": "150813",
+        "name": "Sungai Buluh",
+        "postal_code": "37215"
+    }
+]

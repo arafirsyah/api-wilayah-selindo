@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3174031001",
+        "district_id": "317403",
+        "name": "Mampang Prapatan",
+        "postal_code": "12790"
+    },
+    {
+        "id": "3174031002",
+        "district_id": "317403",
+        "name": "Bangka",
+        "postal_code": "12730"
+    },
+    {
+        "id": "3174031003",
+        "district_id": "317403",
+        "name": "Pela Mampang",
+        "postal_code": "12720"
+    },
+    {
+        "id": "3174031004",
+        "district_id": "317403",
+        "name": "Tegal Parang",
+        "postal_code": "12790"
+    },
+    {
+        "id": "3174031005",
+        "district_id": "317403",
+        "name": "Kuningan Barat",
+        "postal_code": "12710"
+    }
+]

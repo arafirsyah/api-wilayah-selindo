@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1208151005",
+        "district_id": "120815",
+        "name": "Haranggaol",
+        "postal_code": ""
+    },
+    {
+        "id": "1208152001",
+        "district_id": "120815",
+        "name": "Nagori Purba (Nagori Purba Saribu)",
+        "postal_code": ""
+    },
+    {
+        "id": "1208152002",
+        "district_id": "120815",
+        "name": "Nagori Sihalpe",
+        "postal_code": ""
+    },
+    {
+        "id": "1208152003",
+        "district_id": "120815",
+        "name": "Nagori Purba Horison \/ Harison \/ Harisan",
+        "postal_code": ""
+    },
+    {
+        "id": "1208152004",
+        "district_id": "120815",
+        "name": "Nagori Purba Pasir",
+        "postal_code": ""
+    }
+]

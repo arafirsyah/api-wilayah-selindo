@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1709092001",
+        "district_id": "170909",
+        "name": "Pondok Kubang",
+        "postal_code": "38375"
+    },
+    {
+        "id": "1709092002",
+        "district_id": "170909",
+        "name": "Batu Raja",
+        "postal_code": "38375"
+    },
+    {
+        "id": "1709092003",
+        "district_id": "170909",
+        "name": "Dusun Anyar",
+        "postal_code": "38375"
+    },
+    {
+        "id": "1709092004",
+        "district_id": "170909",
+        "name": "Tanjung Dalam",
+        "postal_code": "38378"
+    },
+    {
+        "id": "1709092005",
+        "district_id": "170909",
+        "name": "Talang Tengah I (Talang Tengah)",
+        "postal_code": "38375"
+    },
+    {
+        "id": "1709092006",
+        "district_id": "170909",
+        "name": "Paku Haji",
+        "postal_code": "38375"
+    },
+    {
+        "id": "1709092007",
+        "district_id": "170909",
+        "name": "Tanjung terdana",
+        "postal_code": "38375"
+    },
+    {
+        "id": "1709092008",
+        "district_id": "170909",
+        "name": "Linggar Galing",
+        "postal_code": "38375"
+    },
+    {
+        "id": "1709092009",
+        "district_id": "170909",
+        "name": "Dusun Baru I",
+        "postal_code": "38376"
+    },
+    {
+        "id": "1709092010",
+        "district_id": "170909",
+        "name": "Harapan Makmur",
+        "postal_code": "38376"
+    },
+    {
+        "id": "1709092011",
+        "district_id": "170909",
+        "name": "Margo Mulyo (Margo Mulya)",
+        "postal_code": "38377"
+    },
+    {
+        "id": "1709092012",
+        "district_id": "170909",
+        "name": "Taba Jambu",
+        "postal_code": "38378"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3672021001",
+        "district_id": "367202",
+        "name": "Bagendung",
+        "postal_code": "42419"
+    },
+    {
+        "id": "3672021002",
+        "district_id": "367202",
+        "name": "Ciwedus",
+        "postal_code": "42418"
+    },
+    {
+        "id": "3672021003",
+        "district_id": "367202",
+        "name": "Bendungan",
+        "postal_code": "42417"
+    },
+    {
+        "id": "3672021004",
+        "district_id": "367202",
+        "name": "Ketileng",
+        "postal_code": "42416"
+    },
+    {
+        "id": "3672021005",
+        "district_id": "367202",
+        "name": "Ciwaduk",
+        "postal_code": "42415"
+    }
+]

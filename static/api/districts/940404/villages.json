@@ -1,0 +1,44 @@
+[
+    {
+        "id": "9404042001",
+        "district_id": "940404",
+        "name": "Kokonao",
+        "postal_code": ""
+    },
+    {
+        "id": "9404042002",
+        "district_id": "940404",
+        "name": "Migiwia",
+        "postal_code": ""
+    },
+    {
+        "id": "9404042003",
+        "district_id": "940404",
+        "name": "Kiura",
+        "postal_code": ""
+    },
+    {
+        "id": "9404042004",
+        "district_id": "940404",
+        "name": "Mimika",
+        "postal_code": ""
+    },
+    {
+        "id": "9404042011",
+        "district_id": "940404",
+        "name": "Aparuka",
+        "postal_code": ""
+    },
+    {
+        "id": "9404042012",
+        "district_id": "940404",
+        "name": "Atapo",
+        "postal_code": ""
+    },
+    {
+        "id": "9404042013",
+        "district_id": "940404",
+        "name": "Apuri",
+        "postal_code": ""
+    }
+]

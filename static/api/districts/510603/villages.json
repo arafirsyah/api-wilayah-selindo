@@ -1,0 +1,38 @@
+[
+    {
+        "id": "5106032001",
+        "district_id": "510603",
+        "name": "Jehem",
+        "postal_code": "80671"
+    },
+    {
+        "id": "5106032002",
+        "district_id": "510603",
+        "name": "Tembuku",
+        "postal_code": "80671"
+    },
+    {
+        "id": "5106032003",
+        "district_id": "510603",
+        "name": "Yangapi",
+        "postal_code": "80671"
+    },
+    {
+        "id": "5106032004",
+        "district_id": "510603",
+        "name": "Undisan",
+        "postal_code": "80671"
+    },
+    {
+        "id": "5106032005",
+        "district_id": "510603",
+        "name": "Bangbang",
+        "postal_code": "80671"
+    },
+    {
+        "id": "5106032006",
+        "district_id": "510603",
+        "name": "Peninjoan",
+        "postal_code": "80671"
+    }
+]

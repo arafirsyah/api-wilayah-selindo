@@ -1,0 +1,57 @@
+[
+    {
+        "id": "111001",
+        "regency_id": "1110",
+        "name": "Pulau Banyak"
+    },
+    {
+        "id": "111002",
+        "regency_id": "1110",
+        "name": "Simpang Kanan"
+    },
+    {
+        "id": "111004",
+        "regency_id": "1110",
+        "name": "Singkil"
+    },
+    {
+        "id": "111006",
+        "regency_id": "1110",
+        "name": "Gunung Meriah (Mariah)"
+    },
+    {
+        "id": "111009",
+        "regency_id": "1110",
+        "name": "Kota Baharu"
+    },
+    {
+        "id": "111010",
+        "regency_id": "1110",
+        "name": "Singkil Utara"
+    },
+    {
+        "id": "111011",
+        "regency_id": "1110",
+        "name": "Danau Paris"
+    },
+    {
+        "id": "111012",
+        "regency_id": "1110",
+        "name": "Suro Makmur"
+    },
+    {
+        "id": "111013",
+        "regency_id": "1110",
+        "name": "Singkohor"
+    },
+    {
+        "id": "111014",
+        "regency_id": "1110",
+        "name": "Kuala Baru"
+    },
+    {
+        "id": "111016",
+        "regency_id": "1110",
+        "name": "Pulau Banyak Barat"
+    }
+]

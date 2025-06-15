@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1501022001",
+        "district_id": "150102",
+        "name": "Sanggaran Agung",
+        "postal_code": "37174"
+    },
+    {
+        "id": "1501022002",
+        "district_id": "150102",
+        "name": "Kota Baru Sanggaran",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022003",
+        "district_id": "150102",
+        "name": "Pendung Talang (Pendung Talang Genting)",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022004",
+        "district_id": "150102",
+        "name": "Seleman",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022005",
+        "district_id": "150102",
+        "name": "Tebing Tinggi",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022006",
+        "district_id": "150102",
+        "name": "Cupak",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022007",
+        "district_id": "150102",
+        "name": "Tanjungtanah (Tanjung Tanah)",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022008",
+        "district_id": "150102",
+        "name": "Koto Tengah",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022013",
+        "district_id": "150102",
+        "name": "Simpang Empat",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022014",
+        "district_id": "150102",
+        "name": "Talang Kemulun",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022015",
+        "district_id": "150102",
+        "name": "Dusun Baru Tanjung",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022016",
+        "district_id": "150102",
+        "name": "Pasar Sore Seleman",
+        "postal_code": "37172"
+    },
+    {
+        "id": "1501022018",
+        "district_id": "150102",
+        "name": "Tanjungharapan",
+        "postal_code": "37172"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1708021002",
+        "district_id": "170802",
+        "name": "Ujan Mas Atas",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022001",
+        "district_id": "170802",
+        "name": "Daspeta (Daspetah)",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022003",
+        "district_id": "170802",
+        "name": "Suro Lembak",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022004",
+        "district_id": "170802",
+        "name": "Tanjung Alam",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022005",
+        "district_id": "170802",
+        "name": "Suro Ilir",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022006",
+        "district_id": "170802",
+        "name": "Suro Muncar",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022007",
+        "district_id": "170802",
+        "name": "Suro Baru",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022008",
+        "district_id": "170802",
+        "name": "Pekalongan",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022009",
+        "district_id": "170802",
+        "name": "Bumi Sari",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022016",
+        "district_id": "170802",
+        "name": "Cugung Lalang",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022017",
+        "district_id": "170802",
+        "name": "Ujan Mas Bawah",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022018",
+        "district_id": "170802",
+        "name": "Suro Bali",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022019",
+        "district_id": "170802",
+        "name": "Pungguk Meranti",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022020",
+        "district_id": "170802",
+        "name": "Pungguk Meringang",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022021",
+        "district_id": "170802",
+        "name": "Meranti Jaya",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022023",
+        "district_id": "170802",
+        "name": "Air Hitam",
+        "postal_code": "39370"
+    },
+    {
+        "id": "1708022024",
+        "district_id": "170802",
+        "name": "Daspetah II",
+        "postal_code": "39370"
+    }
+]

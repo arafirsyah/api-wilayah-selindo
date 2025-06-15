@@ -1,0 +1,52 @@
+[
+    {
+        "id": "120405",
+        "regency_id": "1204",
+        "name": "Hiliduho"
+    },
+    {
+        "id": "120406",
+        "regency_id": "1204",
+        "name": "Gido"
+    },
+    {
+        "id": "120410",
+        "regency_id": "1204",
+        "name": "Idanogawo (Idano Gawo)"
+    },
+    {
+        "id": "120411",
+        "regency_id": "1204",
+        "name": "Bawolato"
+    },
+    {
+        "id": "120420",
+        "regency_id": "1204",
+        "name": "Hiliserangkai (Hili Serangkai \/ Hilisaranggu)"
+    },
+    {
+        "id": "120421",
+        "regency_id": "1204",
+        "name": "Botomuzoi"
+    },
+    {
+        "id": "120427",
+        "regency_id": "1204",
+        "name": "Ulugawo"
+    },
+    {
+        "id": "120428",
+        "regency_id": "1204",
+        "name": "Ma'u"
+    },
+    {
+        "id": "120429",
+        "regency_id": "1204",
+        "name": "Somolo-Molo (Samolo)"
+    },
+    {
+        "id": "120435",
+        "regency_id": "1204",
+        "name": "Sogae'adu (Sogae Adu \/ Sogaeadu)"
+    }
+]

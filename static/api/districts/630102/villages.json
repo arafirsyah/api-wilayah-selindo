@@ -1,0 +1,68 @@
+[
+    {
+        "id": "6301022001",
+        "district_id": "630102",
+        "name": "Sabuhur",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022002",
+        "district_id": "630102",
+        "name": "Jorong",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022003",
+        "district_id": "630102",
+        "name": "Asam Asam",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022004",
+        "district_id": "630102",
+        "name": "Batalang",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022005",
+        "district_id": "630102",
+        "name": "Swarangan",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022006",
+        "district_id": "630102",
+        "name": "Muara Asam Asam",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022007",
+        "district_id": "630102",
+        "name": "Alur",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022008",
+        "district_id": "630102",
+        "name": "Asri Mulya (Asri Mulia)",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022009",
+        "district_id": "630102",
+        "name": "Karang Rejo",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022010",
+        "district_id": "630102",
+        "name": "Asam Jaya",
+        "postal_code": ""
+    },
+    {
+        "id": "6301022011",
+        "district_id": "630102",
+        "name": "Simpang Empat Sungai Baru (Sungaibaru)",
+        "postal_code": ""
+    }
+]

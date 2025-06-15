@@ -1,0 +1,47 @@
+[
+    {
+        "id": "920203",
+        "regency_id": "9202",
+        "name": "Warmare"
+    },
+    {
+        "id": "920204",
+        "regency_id": "9202",
+        "name": "Prafi"
+    },
+    {
+        "id": "920205",
+        "regency_id": "9202",
+        "name": "Masni"
+    },
+    {
+        "id": "920212",
+        "regency_id": "9202",
+        "name": "Manokwari Barat"
+    },
+    {
+        "id": "920213",
+        "regency_id": "9202",
+        "name": "Manokwari Timur"
+    },
+    {
+        "id": "920214",
+        "regency_id": "9202",
+        "name": "Manokwari Utara"
+    },
+    {
+        "id": "920215",
+        "regency_id": "9202",
+        "name": "Manokwari Selatan"
+    },
+    {
+        "id": "920217",
+        "regency_id": "9202",
+        "name": "Tanah Rubuh"
+    },
+    {
+        "id": "920221",
+        "regency_id": "9202",
+        "name": "Sidey"
+    }
+]

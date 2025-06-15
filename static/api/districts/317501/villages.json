@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3175011001",
+        "district_id": "317501",
+        "name": "Pisangan Baru",
+        "postal_code": "13110"
+    },
+    {
+        "id": "3175011002",
+        "district_id": "317501",
+        "name": "Utan Kayu Utara",
+        "postal_code": "13120"
+    },
+    {
+        "id": "3175011003",
+        "district_id": "317501",
+        "name": "Kayu Manis",
+        "postal_code": "13130"
+    },
+    {
+        "id": "3175011004",
+        "district_id": "317501",
+        "name": "Palmeriam (Pal Meriam)",
+        "postal_code": "13140"
+    },
+    {
+        "id": "3175011005",
+        "district_id": "317501",
+        "name": "Kebon Manggis",
+        "postal_code": "13150"
+    },
+    {
+        "id": "3175011006",
+        "district_id": "317501",
+        "name": "Utan Kayu Selatan",
+        "postal_code": "13120"
+    }
+]

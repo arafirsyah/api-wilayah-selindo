@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3603022001",
+        "district_id": "360302",
+        "name": "Pangkat",
+        "postal_code": "15611"
+    },
+    {
+        "id": "3603022002",
+        "district_id": "360302",
+        "name": "Pabuaran",
+        "postal_code": "15611"
+    },
+    {
+        "id": "3603022004",
+        "district_id": "360302",
+        "name": "Pasir Muncang",
+        "postal_code": "15611"
+    },
+    {
+        "id": "3603022005",
+        "district_id": "360302",
+        "name": "Sumur Bandung",
+        "postal_code": "15611"
+    },
+    {
+        "id": "3603022006",
+        "district_id": "360302",
+        "name": "Jayanti",
+        "postal_code": "15611"
+    },
+    {
+        "id": "3603022007",
+        "district_id": "360302",
+        "name": "Dangdeur (Dang Deur)",
+        "postal_code": "15611"
+    },
+    {
+        "id": "3603022008",
+        "district_id": "360302",
+        "name": "Cikande",
+        "postal_code": "15611"
+    },
+    {
+        "id": "3603022009",
+        "district_id": "360302",
+        "name": "Pasir Gintung",
+        "postal_code": "15611"
+    }
+]

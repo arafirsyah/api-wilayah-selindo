@@ -1,0 +1,50 @@
+[
+    {
+        "id": "7504042003",
+        "district_id": "750404",
+        "name": "Marisa Selatan",
+        "postal_code": "96365"
+    },
+    {
+        "id": "7504042004",
+        "district_id": "750404",
+        "name": "Marisa Utara",
+        "postal_code": "96365"
+    },
+    {
+        "id": "7504042007",
+        "district_id": "750404",
+        "name": "Teratai",
+        "postal_code": "96365"
+    },
+    {
+        "id": "7504042008",
+        "district_id": "750404",
+        "name": "Pohuwato",
+        "postal_code": "96365"
+    },
+    {
+        "id": "7504042015",
+        "district_id": "750404",
+        "name": "Batubilotahu (Batubilotahu Indah)",
+        "postal_code": "96365"
+    },
+    {
+        "id": "7504042016",
+        "district_id": "750404",
+        "name": "Palopo",
+        "postal_code": "96365"
+    },
+    {
+        "id": "7504042017",
+        "district_id": "750404",
+        "name": "Pohuwato Timur",
+        "postal_code": "96365"
+    },
+    {
+        "id": "7504042018",
+        "district_id": "750404",
+        "name": "Bulangita",
+        "postal_code": "96365"
+    }
+]

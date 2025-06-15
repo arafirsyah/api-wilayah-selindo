@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1101112001",
+        "district_id": "110111",
+        "name": "Tengah Peulumat",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112002",
+        "district_id": "110111",
+        "name": "Paya Peulumat",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112003",
+        "district_id": "110111",
+        "name": "Padang Peulumat",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112004",
+        "district_id": "110111",
+        "name": "Aur Peulumat",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112005",
+        "district_id": "110111",
+        "name": "Limau Saring",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112006",
+        "district_id": "110111",
+        "name": "Beutong",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112007",
+        "district_id": "110111",
+        "name": "Peuneulop (Peunalop)",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112008",
+        "district_id": "110111",
+        "name": "Gunung Rotan",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112009",
+        "district_id": "110111",
+        "name": "Keumumu Hilir",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112010",
+        "district_id": "110111",
+        "name": "Keumumu Hulu",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112011",
+        "district_id": "110111",
+        "name": "Keumumu Seberang",
+        "postal_code": "23758"
+    },
+    {
+        "id": "1101112012",
+        "district_id": "110111",
+        "name": "Sawang Indah",
+        "postal_code": "23758"
+    }
+]

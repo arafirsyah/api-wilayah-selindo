@@ -1,0 +1,62 @@
+[
+    {
+        "id": "7501142001",
+        "district_id": "750114",
+        "name": "Paris",
+        "postal_code": "96153"
+    },
+    {
+        "id": "7501142002",
+        "district_id": "750114",
+        "name": "Helumo",
+        "postal_code": "96150"
+    },
+    {
+        "id": "7501142003",
+        "district_id": "750114",
+        "name": "Pilomonu",
+        "postal_code": "96155"
+    },
+    {
+        "id": "7501142004",
+        "district_id": "750114",
+        "name": "Satria",
+        "postal_code": "96156"
+    },
+    {
+        "id": "7501142005",
+        "district_id": "750114",
+        "name": "Karyamukti (Karya Mukti)",
+        "postal_code": "96152"
+    },
+    {
+        "id": "7501142006",
+        "district_id": "750114",
+        "name": "Talumopatu",
+        "postal_code": "96159"
+    },
+    {
+        "id": "7501142007",
+        "district_id": "750114",
+        "name": "Sidomukti (Sido Mukti)",
+        "postal_code": "96157"
+    },
+    {
+        "id": "7501142008",
+        "district_id": "750114",
+        "name": "Payu",
+        "postal_code": "96154"
+    },
+    {
+        "id": "7501142009",
+        "district_id": "750114",
+        "name": "Sukamaju (Suka Maju)",
+        "postal_code": "96158"
+    },
+    {
+        "id": "7501142010",
+        "district_id": "750114",
+        "name": "Huyula",
+        "postal_code": "96151"
+    }
+]

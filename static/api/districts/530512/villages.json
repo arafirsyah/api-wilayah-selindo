@@ -1,0 +1,44 @@
+[
+    {
+        "id": "5305122001",
+        "district_id": "530512",
+        "name": "Mataru Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "5305122002",
+        "district_id": "530512",
+        "name": "Mataru Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "5305122003",
+        "district_id": "530512",
+        "name": "Lakatuli",
+        "postal_code": ""
+    },
+    {
+        "id": "5305122004",
+        "district_id": "530512",
+        "name": "Mataru Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "5305122005",
+        "district_id": "530512",
+        "name": "Kamaifui",
+        "postal_code": ""
+    },
+    {
+        "id": "5305122006",
+        "district_id": "530512",
+        "name": "Mataru Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "5305122007",
+        "district_id": "530512",
+        "name": "Taman Mataru",
+        "postal_code": ""
+    }
+]

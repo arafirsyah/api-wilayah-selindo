@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3101011001",
+        "district_id": "310101",
+        "name": "Pulau Panggang",
+        "postal_code": "14530"
+    },
+    {
+        "id": "3101011002",
+        "district_id": "310101",
+        "name": "Pulau Kelapa",
+        "postal_code": "14540"
+    },
+    {
+        "id": "3101011003",
+        "district_id": "310101",
+        "name": "Pulau Harapan",
+        "postal_code": "14540"
+    }
+]

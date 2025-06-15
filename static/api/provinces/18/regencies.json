@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1801",
+        "name": "Lampung Selatan",
+        "province_id": "18"
+    },
+    {
+        "id": "1802",
+        "name": "Lampung Tengah",
+        "province_id": "18"
+    },
+    {
+        "id": "1803",
+        "name": "Lampung Utara",
+        "province_id": "18"
+    },
+    {
+        "id": "1804",
+        "name": "Lampung Barat",
+        "province_id": "18"
+    },
+    {
+        "id": "1805",
+        "name": "Tulang Bawang",
+        "province_id": "18"
+    },
+    {
+        "id": "1806",
+        "name": "Tanggamus",
+        "province_id": "18"
+    },
+    {
+        "id": "1807",
+        "name": "Lampung Timur",
+        "province_id": "18"
+    },
+    {
+        "id": "1808",
+        "name": "Way Kanan",
+        "province_id": "18"
+    },
+    {
+        "id": "1809",
+        "name": "Pesawaran",
+        "province_id": "18"
+    },
+    {
+        "id": "1810",
+        "name": "Pringsewu",
+        "province_id": "18"
+    },
+    {
+        "id": "1811",
+        "name": "Mesuji",
+        "province_id": "18"
+    },
+    {
+        "id": "1812",
+        "name": "Tulang Bawang Barat",
+        "province_id": "18"
+    },
+    {
+        "id": "1813",
+        "name": "Pesisir Barat",
+        "province_id": "18"
+    },
+    {
+        "id": "1871",
+        "name": "Kota Bandar Lampung",
+        "province_id": "18"
+    },
+    {
+        "id": "1872",
+        "name": "Kota Metro",
+        "province_id": "18"
+    }
+]

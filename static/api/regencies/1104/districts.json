@@ -1,0 +1,72 @@
+[
+    {
+        "id": "110401",
+        "regency_id": "1104",
+        "name": "Linge"
+    },
+    {
+        "id": "110402",
+        "regency_id": "1104",
+        "name": "Silih Nara"
+    },
+    {
+        "id": "110403",
+        "regency_id": "1104",
+        "name": "Bebesen"
+    },
+    {
+        "id": "110407",
+        "regency_id": "1104",
+        "name": "Pegasing"
+    },
+    {
+        "id": "110408",
+        "regency_id": "1104",
+        "name": "Bintang"
+    },
+    {
+        "id": "110410",
+        "regency_id": "1104",
+        "name": "Ketol"
+    },
+    {
+        "id": "110411",
+        "regency_id": "1104",
+        "name": "Kebayakan"
+    },
+    {
+        "id": "110412",
+        "regency_id": "1104",
+        "name": "Kute Panang"
+    },
+    {
+        "id": "110413",
+        "regency_id": "1104",
+        "name": "Celala"
+    },
+    {
+        "id": "110417",
+        "regency_id": "1104",
+        "name": "Laut Tawar (Lut Tawar)"
+    },
+    {
+        "id": "110418",
+        "regency_id": "1104",
+        "name": "Atu Lintang"
+    },
+    {
+        "id": "110419",
+        "regency_id": "1104",
+        "name": "Jagong Jeget"
+    },
+    {
+        "id": "110420",
+        "regency_id": "1104",
+        "name": "Bies"
+    },
+    {
+        "id": "110421",
+        "regency_id": "1104",
+        "name": "Rusip Antara"
+    }
+]

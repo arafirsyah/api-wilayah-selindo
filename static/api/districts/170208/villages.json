@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1702081006",
+        "district_id": "170208",
+        "name": "Beringin Tiga",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082001",
+        "district_id": "170208",
+        "name": "Sindang Jaya",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082002",
+        "district_id": "170208",
+        "name": "Sindang Jati",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082003",
+        "district_id": "170208",
+        "name": "Belitar Muka",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082004",
+        "district_id": "170208",
+        "name": "Pelalo",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082005",
+        "district_id": "170208",
+        "name": "Kayu Manis",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082009",
+        "district_id": "170208",
+        "name": "Air Dingin",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082011",
+        "district_id": "170208",
+        "name": "Belitar Seberang",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082013",
+        "district_id": "170208",
+        "name": "Cahaya Negeri",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082014",
+        "district_id": "170208",
+        "name": "Tanjung Aur",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082015",
+        "district_id": "170208",
+        "name": "Mojorejo",
+        "postal_code": "39155"
+    },
+    {
+        "id": "1702082016",
+        "district_id": "170208",
+        "name": "Talang Lahat",
+        "postal_code": "39155"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1707101009",
+        "district_id": "170710",
+        "name": "Amen",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102001",
+        "district_id": "170710",
+        "name": "Nangai Tayau",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102002",
+        "district_id": "170710",
+        "name": "Nangai Tayau I",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102003",
+        "district_id": "170710",
+        "name": "Pyang Mbik (Paya Embik)",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102004",
+        "district_id": "170710",
+        "name": "Sukau Mergo (Suka Marga)",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102005",
+        "district_id": "170710",
+        "name": "Sukau Rajo (Sukaraja)",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102006",
+        "district_id": "170710",
+        "name": "Talang Bunut",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102007",
+        "district_id": "170710",
+        "name": "Selebar Jaya",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102008",
+        "district_id": "170710",
+        "name": "Garut",
+        "postal_code": "39264"
+    },
+    {
+        "id": "1707102010",
+        "district_id": "170710",
+        "name": "Sungai Gerong",
+        "postal_code": "39264"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3175051001",
+        "district_id": "317505",
+        "name": "Gedong",
+        "postal_code": "13760"
+    },
+    {
+        "id": "3175051002",
+        "district_id": "317505",
+        "name": "Baru",
+        "postal_code": "13780"
+    },
+    {
+        "id": "3175051003",
+        "district_id": "317505",
+        "name": "Cijantung",
+        "postal_code": "13770"
+    },
+    {
+        "id": "3175051004",
+        "district_id": "317505",
+        "name": "Kalisari",
+        "postal_code": "13790"
+    },
+    {
+        "id": "3175051005",
+        "district_id": "317505",
+        "name": "Pekayon",
+        "postal_code": "13710"
+    }
+]

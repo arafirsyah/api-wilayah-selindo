@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1706021009",
+        "district_id": "170602",
+        "name": "Pasar Mukomuko",
+        "postal_code": "38711"
+    },
+    {
+        "id": "1706021017",
+        "district_id": "170602",
+        "name": "Koto Jaya",
+        "postal_code": "38715"
+    },
+    {
+        "id": "1706021018",
+        "district_id": "170602",
+        "name": "Bandar Ratu",
+        "postal_code": "38712"
+    },
+    {
+        "id": "1706022007",
+        "district_id": "170602",
+        "name": "Pasar Sebelah",
+        "postal_code": "38716"
+    },
+    {
+        "id": "1706022008",
+        "district_id": "170602",
+        "name": "Ujung Padang",
+        "postal_code": "38714"
+    },
+    {
+        "id": "1706022010",
+        "district_id": "170602",
+        "name": "Pondok Batu",
+        "postal_code": "38713"
+    },
+    {
+        "id": "1706022011",
+        "district_id": "170602",
+        "name": "Tanah Rekah",
+        "postal_code": "38719"
+    },
+    {
+        "id": "1706022012",
+        "district_id": "170602",
+        "name": "Selagan Jaya",
+        "postal_code": "38717"
+    },
+    {
+        "id": "1706022019",
+        "district_id": "170602",
+        "name": "Tanah Harapan",
+        "postal_code": "38718"
+    }
+]

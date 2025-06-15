@@ -1,0 +1,44 @@
+[
+    {
+        "id": "7504092001",
+        "district_id": "750409",
+        "name": "Hulawa",
+        "postal_code": "96363"
+    },
+    {
+        "id": "7504092002",
+        "district_id": "750409",
+        "name": "Karya Indah",
+        "postal_code": "96363"
+    },
+    {
+        "id": "7504092003",
+        "district_id": "750409",
+        "name": "Taluduyunu",
+        "postal_code": "96363"
+    },
+    {
+        "id": "7504092004",
+        "district_id": "750409",
+        "name": "Buntulia Utara",
+        "postal_code": "96363"
+    },
+    {
+        "id": "7504092005",
+        "district_id": "750409",
+        "name": "Buntulia Tengah",
+        "postal_code": "96363"
+    },
+    {
+        "id": "7504092006",
+        "district_id": "750409",
+        "name": "Taluduyunu Utara",
+        "postal_code": "96363"
+    },
+    {
+        "id": "7504092007",
+        "district_id": "750409",
+        "name": "Sipatana",
+        "postal_code": "96363"
+    }
+]

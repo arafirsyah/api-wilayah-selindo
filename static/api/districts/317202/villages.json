@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3172021001",
+        "district_id": "317202",
+        "name": "Tanjung Priok",
+        "postal_code": "14310"
+    },
+    {
+        "id": "3172021002",
+        "district_id": "317202",
+        "name": "Sunter Jaya",
+        "postal_code": "14360"
+    },
+    {
+        "id": "3172021003",
+        "district_id": "317202",
+        "name": "Papanggo",
+        "postal_code": "14340"
+    },
+    {
+        "id": "3172021004",
+        "district_id": "317202",
+        "name": "Sungai Bambu",
+        "postal_code": "14330"
+    },
+    {
+        "id": "3172021005",
+        "district_id": "317202",
+        "name": "Kebon Bawang",
+        "postal_code": "14320"
+    },
+    {
+        "id": "3172021006",
+        "district_id": "317202",
+        "name": "Sunter Agung",
+        "postal_code": "14350"
+    },
+    {
+        "id": "3172021007",
+        "district_id": "317202",
+        "name": "Warakas",
+        "postal_code": "14370"
+    }
+]

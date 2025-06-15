@@ -1,0 +1,177 @@
+[
+    {
+        "id": "3301",
+        "name": "Cilacap",
+        "province_id": "33"
+    },
+    {
+        "id": "3302",
+        "name": "Banyumas",
+        "province_id": "33"
+    },
+    {
+        "id": "3303",
+        "name": "Purbalingga",
+        "province_id": "33"
+    },
+    {
+        "id": "3304",
+        "name": "Banjarnegara",
+        "province_id": "33"
+    },
+    {
+        "id": "3305",
+        "name": "Kebumen",
+        "province_id": "33"
+    },
+    {
+        "id": "3306",
+        "name": "Purworejo",
+        "province_id": "33"
+    },
+    {
+        "id": "3307",
+        "name": "Wonosobo",
+        "province_id": "33"
+    },
+    {
+        "id": "3308",
+        "name": "Magelang",
+        "province_id": "33"
+    },
+    {
+        "id": "3309",
+        "name": "Boyolali",
+        "province_id": "33"
+    },
+    {
+        "id": "3310",
+        "name": "Klaten",
+        "province_id": "33"
+    },
+    {
+        "id": "3311",
+        "name": "Sukoharjo",
+        "province_id": "33"
+    },
+    {
+        "id": "3312",
+        "name": "Wonogiri",
+        "province_id": "33"
+    },
+    {
+        "id": "3313",
+        "name": "Karanganyar",
+        "province_id": "33"
+    },
+    {
+        "id": "3314",
+        "name": "Sragen",
+        "province_id": "33"
+    },
+    {
+        "id": "3315",
+        "name": "Grobogan",
+        "province_id": "33"
+    },
+    {
+        "id": "3316",
+        "name": "Blora",
+        "province_id": "33"
+    },
+    {
+        "id": "3317",
+        "name": "Rembang",
+        "province_id": "33"
+    },
+    {
+        "id": "3318",
+        "name": "Pati",
+        "province_id": "33"
+    },
+    {
+        "id": "3319",
+        "name": "Kudus",
+        "province_id": "33"
+    },
+    {
+        "id": "3320",
+        "name": "Jepara",
+        "province_id": "33"
+    },
+    {
+        "id": "3321",
+        "name": "Demak",
+        "province_id": "33"
+    },
+    {
+        "id": "3322",
+        "name": "Semarang",
+        "province_id": "33"
+    },
+    {
+        "id": "3323",
+        "name": "Temanggung",
+        "province_id": "33"
+    },
+    {
+        "id": "3324",
+        "name": "Kendal",
+        "province_id": "33"
+    },
+    {
+        "id": "3325",
+        "name": "Batang",
+        "province_id": "33"
+    },
+    {
+        "id": "3326",
+        "name": "Pekalongan",
+        "province_id": "33"
+    },
+    {
+        "id": "3327",
+        "name": "Pemalang",
+        "province_id": "33"
+    },
+    {
+        "id": "3328",
+        "name": "Tegal",
+        "province_id": "33"
+    },
+    {
+        "id": "3329",
+        "name": "Brebes",
+        "province_id": "33"
+    },
+    {
+        "id": "3371",
+        "name": "Kota Magelang",
+        "province_id": "33"
+    },
+    {
+        "id": "3372",
+        "name": "Kota Surakarta",
+        "province_id": "33"
+    },
+    {
+        "id": "3373",
+        "name": "Kota Salatiga",
+        "province_id": "33"
+    },
+    {
+        "id": "3374",
+        "name": "Kota Semarang",
+        "province_id": "33"
+    },
+    {
+        "id": "3375",
+        "name": "Kota Pekalongan",
+        "province_id": "33"
+    },
+    {
+        "id": "3376",
+        "name": "Kota Tegal",
+        "province_id": "33"
+    }
+]

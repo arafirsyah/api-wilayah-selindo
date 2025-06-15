@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1509112001",
+        "district_id": "150911",
+        "name": "Teluk Kepayang Pulau Indah",
+        "postal_code": "37562"
+    },
+    {
+        "id": "1509112002",
+        "district_id": "150911",
+        "name": "Balai Rajo",
+        "postal_code": "37562"
+    },
+    {
+        "id": "1509112003",
+        "district_id": "150911",
+        "name": "Cermin Alam",
+        "postal_code": "37562"
+    },
+    {
+        "id": "1509112004",
+        "district_id": "150911",
+        "name": "Sungai Karang",
+        "postal_code": "37562"
+    },
+    {
+        "id": "1509112005",
+        "district_id": "150911",
+        "name": "Paseban",
+        "postal_code": "37562"
+    },
+    {
+        "id": "1509112006",
+        "district_id": "150911",
+        "name": "Pasir Mayang",
+        "postal_code": "37562"
+    }
+]

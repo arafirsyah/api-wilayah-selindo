@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3603281001",
+        "district_id": "360328",
+        "name": "Kelapa Dua",
+        "postal_code": "15811"
+    },
+    {
+        "id": "3603281002",
+        "district_id": "360328",
+        "name": "Bencongan",
+        "postal_code": "15811"
+    },
+    {
+        "id": "3603281003",
+        "district_id": "360328",
+        "name": "Bencongan Indah",
+        "postal_code": "15811"
+    },
+    {
+        "id": "3603281004",
+        "district_id": "360328",
+        "name": "Pakulonan Barat",
+        "postal_code": "15811"
+    },
+    {
+        "id": "3603281005",
+        "district_id": "360328",
+        "name": "Bojong Nangka",
+        "postal_code": "15811"
+    },
+    {
+        "id": "3603282006",
+        "district_id": "360328",
+        "name": "Curug Sangerang (Curug Sangereng)",
+        "postal_code": "15811"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "5303091010",
+        "district_id": "530309",
+        "name": "Humusu C",
+        "postal_code": ""
+    },
+    {
+        "id": "5303092006",
+        "district_id": "530309",
+        "name": "Fatumtasa",
+        "postal_code": ""
+    },
+    {
+        "id": "5303092007",
+        "district_id": "530309",
+        "name": "Oesoko",
+        "postal_code": ""
+    },
+    {
+        "id": "5303092008",
+        "district_id": "530309",
+        "name": "Humusu Sainiup (Humusu B)",
+        "postal_code": ""
+    },
+    {
+        "id": "5303092009",
+        "district_id": "530309",
+        "name": "Humusu Oekolo (Humusu A)",
+        "postal_code": ""
+    }
+]

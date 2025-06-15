@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1113102001",
+        "district_id": "111310",
+        "name": "Perlak",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102002",
+        "district_id": "111310",
+        "name": "Rerebe",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102003",
+        "district_id": "111310",
+        "name": "Pasir",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102004",
+        "district_id": "111310",
+        "name": "Setul",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102005",
+        "district_id": "111310",
+        "name": "UPT. Paya Kumer (Paya Kumer)",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102006",
+        "district_id": "111310",
+        "name": "UPT. Pantan Kela (Pantan Kela)",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102007",
+        "district_id": "111310",
+        "name": "Buntul Musara",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102008",
+        "district_id": "111310",
+        "name": "Kuala Jernih",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102009",
+        "district_id": "111310",
+        "name": "Uyem Beriring",
+        "postal_code": "24657"
+    },
+    {
+        "id": "1113102010",
+        "district_id": "111310",
+        "name": "Pulo Gelime",
+        "postal_code": "24657"
+    }
+]

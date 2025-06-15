@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3502212001",
+        "district_id": "350221",
+        "name": "Bareng",
+        "postal_code": ""
+    },
+    {
+        "id": "3502212002",
+        "district_id": "350221",
+        "name": "Tambang",
+        "postal_code": ""
+    },
+    {
+        "id": "3502212003",
+        "district_id": "350221",
+        "name": "Krisik",
+        "postal_code": ""
+    },
+    {
+        "id": "3502212004",
+        "district_id": "350221",
+        "name": "Pudak Wetan (Pudakwetan)",
+        "postal_code": ""
+    },
+    {
+        "id": "3502212005",
+        "district_id": "350221",
+        "name": "Banjarejo (Banjarjo)",
+        "postal_code": ""
+    },
+    {
+        "id": "3502212006",
+        "district_id": "350221",
+        "name": "Pudak Kulon (Pudakkulon)",
+        "postal_code": ""
+    }
+]

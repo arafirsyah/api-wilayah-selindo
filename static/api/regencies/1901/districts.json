@@ -1,0 +1,42 @@
+[
+    {
+        "id": "190101",
+        "regency_id": "1901",
+        "name": "Sungailiat (Sungai Liat)"
+    },
+    {
+        "id": "190102",
+        "regency_id": "1901",
+        "name": "Belinyu"
+    },
+    {
+        "id": "190103",
+        "regency_id": "1901",
+        "name": "Merawang"
+    },
+    {
+        "id": "190104",
+        "regency_id": "1901",
+        "name": "Mendo Barat"
+    },
+    {
+        "id": "190105",
+        "regency_id": "1901",
+        "name": "Pemali"
+    },
+    {
+        "id": "190106",
+        "regency_id": "1901",
+        "name": "Bakam"
+    },
+    {
+        "id": "190107",
+        "regency_id": "1901",
+        "name": "Riau Silip"
+    },
+    {
+        "id": "190108",
+        "regency_id": "1901",
+        "name": "Puding Besar"
+    }
+]

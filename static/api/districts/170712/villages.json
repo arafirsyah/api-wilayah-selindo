@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1707122001",
+        "district_id": "170712",
+        "name": "Ketenong I",
+        "postal_code": "39269"
+    },
+    {
+        "id": "1707122002",
+        "district_id": "170712",
+        "name": "Ketenong II",
+        "postal_code": "39269"
+    },
+    {
+        "id": "1707122003",
+        "district_id": "170712",
+        "name": "Ketenong Jaya",
+        "postal_code": "39269"
+    },
+    {
+        "id": "1707122004",
+        "district_id": "170712",
+        "name": "Tambang Saweak (Tambang Sawah)",
+        "postal_code": "39269"
+    },
+    {
+        "id": "1707122005",
+        "district_id": "170712",
+        "name": "Air Kopras",
+        "postal_code": "39269"
+    },
+    {
+        "id": "1707122006",
+        "district_id": "170712",
+        "name": "Bioa Putiak",
+        "postal_code": "39269"
+    },
+    {
+        "id": "1707122007",
+        "district_id": "170712",
+        "name": "Sebelat",
+        "postal_code": "39269"
+    },
+    {
+        "id": "1707122008",
+        "district_id": "170712",
+        "name": "Sungai Lisai",
+        "postal_code": "39269"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1508022001",
+        "district_id": "150802",
+        "name": "Rantau Duku",
+        "postal_code": "37261"
+    },
+    {
+        "id": "1508022002",
+        "district_id": "150802",
+        "name": "Talang Sungai Bungo",
+        "postal_code": "37261"
+    },
+    {
+        "id": "1508022003",
+        "district_id": "150802",
+        "name": "Rantau Pandan",
+        "postal_code": "37261"
+    },
+    {
+        "id": "1508022004",
+        "district_id": "150802",
+        "name": "Leban",
+        "postal_code": "37261"
+    },
+    {
+        "id": "1508022005",
+        "district_id": "150802",
+        "name": "Lubuk Kayu Aro",
+        "postal_code": "37261"
+    },
+    {
+        "id": "1508022015",
+        "district_id": "150802",
+        "name": "Lubuk Mayan",
+        "postal_code": "37261"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1407091005",
+        "district_id": "140709",
+        "name": "Melayu Besar Kota",
+        "postal_code": ""
+    },
+    {
+        "id": "1407092001",
+        "district_id": "140709",
+        "name": "Melayu Besar",
+        "postal_code": ""
+    },
+    {
+        "id": "1407092002",
+        "district_id": "140709",
+        "name": "Melayu Tengah",
+        "postal_code": ""
+    },
+    {
+        "id": "1407092003",
+        "district_id": "140709",
+        "name": "Batu Hampar",
+        "postal_code": ""
+    },
+    {
+        "id": "1407092004",
+        "district_id": "140709",
+        "name": "Mesah",
+        "postal_code": ""
+    },
+    {
+        "id": "1407092006",
+        "district_id": "140709",
+        "name": "Labuhan papan",
+        "postal_code": ""
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "6401",
+        "name": "Paser",
+        "province_id": "64"
+    },
+    {
+        "id": "6402",
+        "name": "Kutai Kartanegara",
+        "province_id": "64"
+    },
+    {
+        "id": "6403",
+        "name": "Berau",
+        "province_id": "64"
+    },
+    {
+        "id": "6407",
+        "name": "Kutai Barat",
+        "province_id": "64"
+    },
+    {
+        "id": "6408",
+        "name": "Kutai Timur",
+        "province_id": "64"
+    },
+    {
+        "id": "6409",
+        "name": "Penajam Paser Utara",
+        "province_id": "64"
+    },
+    {
+        "id": "6411",
+        "name": "Mahakam Ulu",
+        "province_id": "64"
+    },
+    {
+        "id": "6471",
+        "name": "Kota Balikpapan",
+        "province_id": "64"
+    },
+    {
+        "id": "6472",
+        "name": "Kota Samarinda",
+        "province_id": "64"
+    },
+    {
+        "id": "6474",
+        "name": "Kota Bontang",
+        "province_id": "64"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1771021001",
+        "district_id": "177102",
+        "name": "Padang Harapan",
+        "postal_code": "38225"
+    },
+    {
+        "id": "1771021002",
+        "district_id": "177102",
+        "name": "Jalan Gedang",
+        "postal_code": "38225"
+    },
+    {
+        "id": "1771021021",
+        "district_id": "177102",
+        "name": "Sidomulyo (Sido Mulyo)",
+        "postal_code": "38229"
+    },
+    {
+        "id": "1771021024",
+        "district_id": "177102",
+        "name": "Lingkar Barat",
+        "postal_code": "38221"
+    },
+    {
+        "id": "1771021027",
+        "district_id": "177102",
+        "name": "Cempaka Permai",
+        "postal_code": "38221"
+    }
+]

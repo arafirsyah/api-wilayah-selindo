@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1502112001",
+        "district_id": "150211",
+        "name": "Sungai Ulak",
+        "postal_code": "37317"
+    },
+    {
+        "id": "1502112002",
+        "district_id": "150211",
+        "name": "Aur Berduri",
+        "postal_code": "37317"
+    },
+    {
+        "id": "1502112003",
+        "district_id": "150211",
+        "name": "Telun",
+        "postal_code": "37317"
+    },
+    {
+        "id": "1502112004",
+        "district_id": "150211",
+        "name": "Nalo Gedang",
+        "postal_code": "37317"
+    },
+    {
+        "id": "1502112005",
+        "district_id": "150211",
+        "name": "Nalo Baru (Baru Nalo)",
+        "postal_code": "37317"
+    },
+    {
+        "id": "1502112006",
+        "district_id": "150211",
+        "name": "Mentawak",
+        "postal_code": "37317"
+    },
+    {
+        "id": "1502112007",
+        "district_id": "150211",
+        "name": "Danau",
+        "postal_code": "37317"
+    }
+]

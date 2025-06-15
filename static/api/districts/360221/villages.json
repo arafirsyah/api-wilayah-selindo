@@ -1,0 +1,80 @@
+[
+    {
+        "id": "3602212001",
+        "district_id": "360221",
+        "name": "Wanasalam",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212002",
+        "district_id": "360221",
+        "name": "Bejod",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212003",
+        "district_id": "360221",
+        "name": "Cilangkap",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212004",
+        "district_id": "360221",
+        "name": "Cipeucang",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212005",
+        "district_id": "360221",
+        "name": "Muara",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212006",
+        "district_id": "360221",
+        "name": "Parungpanjang",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212007",
+        "district_id": "360221",
+        "name": "Cikeusik",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212008",
+        "district_id": "360221",
+        "name": "Katapang (Ketapang)",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212009",
+        "district_id": "360221",
+        "name": "Cisarap",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212010",
+        "district_id": "360221",
+        "name": "Sukatani",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212011",
+        "district_id": "360221",
+        "name": "Cipedang",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212012",
+        "district_id": "360221",
+        "name": "Parungsari",
+        "postal_code": "42396"
+    },
+    {
+        "id": "3602212013",
+        "district_id": "360221",
+        "name": "Karangpamindangan",
+        "postal_code": "42396"
+    }
+]

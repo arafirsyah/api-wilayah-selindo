@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3172011001",
+        "district_id": "317201",
+        "name": "Penjaringan",
+        "postal_code": "14440"
+    },
+    {
+        "id": "3172011002",
+        "district_id": "317201",
+        "name": "Kamal Muara",
+        "postal_code": "14470"
+    },
+    {
+        "id": "3172011003",
+        "district_id": "317201",
+        "name": "Kapuk Muara",
+        "postal_code": "14460"
+    },
+    {
+        "id": "3172011004",
+        "district_id": "317201",
+        "name": "Pejagalan",
+        "postal_code": "14450"
+    },
+    {
+        "id": "3172011005",
+        "district_id": "317201",
+        "name": "Pluit",
+        "postal_code": "14450"
+    }
+]

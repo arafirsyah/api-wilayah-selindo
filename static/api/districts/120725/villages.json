@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1207252001",
+        "district_id": "120725",
+        "name": "Helvetia",
+        "postal_code": ""
+    },
+    {
+        "id": "1207252002",
+        "district_id": "120725",
+        "name": "Manunggal",
+        "postal_code": ""
+    },
+    {
+        "id": "1207252003",
+        "district_id": "120725",
+        "name": "Pematang Johar",
+        "postal_code": ""
+    },
+    {
+        "id": "1207252004",
+        "district_id": "120725",
+        "name": "Karang Gading",
+        "postal_code": ""
+    },
+    {
+        "id": "1207252005",
+        "district_id": "120725",
+        "name": "Telaga Tujuh",
+        "postal_code": ""
+    }
+]

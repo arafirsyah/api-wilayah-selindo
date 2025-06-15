@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1571041001",
+        "district_id": "157104",
+        "name": "Beringin",
+        "postal_code": "36112"
+    },
+    {
+        "id": "1571041002",
+        "district_id": "157104",
+        "name": "Orang Kayo Hitam",
+        "postal_code": "36111"
+    },
+    {
+        "id": "1571041003",
+        "district_id": "157104",
+        "name": "Pasar Jambi",
+        "postal_code": "36133"
+    },
+    {
+        "id": "1571041004",
+        "district_id": "157104",
+        "name": "Sungai Asam",
+        "postal_code": "36134"
+    }
+]

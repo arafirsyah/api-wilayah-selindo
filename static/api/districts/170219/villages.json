@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1702191001",
+        "district_id": "170219",
+        "name": "Kepala Siring",
+        "postal_code": "39116"
+    },
+    {
+        "id": "1702191002",
+        "district_id": "170219",
+        "name": "Talang Rimbo Baru",
+        "postal_code": "39113"
+    },
+    {
+        "id": "1702191003",
+        "district_id": "170219",
+        "name": "Talang Rimbo Lama",
+        "postal_code": "39114"
+    },
+    {
+        "id": "1702191004",
+        "district_id": "170219",
+        "name": "Sidorejo\/Siderejo",
+        "postal_code": "39119"
+    },
+    {
+        "id": "1702191005",
+        "district_id": "170219",
+        "name": "Kampung Jawa",
+        "postal_code": "39115"
+    },
+    {
+        "id": "1702191006",
+        "district_id": "170219",
+        "name": "Air Bang",
+        "postal_code": "39125"
+    },
+    {
+        "id": "1702191007",
+        "district_id": "170219",
+        "name": "Pelabuhan Baru",
+        "postal_code": "39115"
+    },
+    {
+        "id": "1702191008",
+        "district_id": "170219",
+        "name": "Batu Galing",
+        "postal_code": "39125"
+    },
+    {
+        "id": "1702191009",
+        "district_id": "170219",
+        "name": "Banyu Mas (Banyumas)",
+        "postal_code": "39125"
+    },
+    {
+        "id": "1702192010",
+        "district_id": "170219",
+        "name": "Air Merah",
+        "postal_code": "39125"
+    }
+]

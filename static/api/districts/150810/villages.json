@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1508102001",
+        "district_id": "150810",
+        "name": "Tanjung Menanti",
+        "postal_code": "37210"
+    },
+    {
+        "id": "1508102002",
+        "district_id": "150810",
+        "name": "Babeko",
+        "postal_code": "37210"
+    },
+    {
+        "id": "1508102003",
+        "district_id": "150810",
+        "name": "Sepunggur",
+        "postal_code": "37210"
+    },
+    {
+        "id": "1508102004",
+        "district_id": "150810",
+        "name": "Simpang Bebeko (Simpang Babeko)",
+        "postal_code": "37210"
+    },
+    {
+        "id": "1508102005",
+        "district_id": "150810",
+        "name": "Suka Makmur",
+        "postal_code": "37210"
+    },
+    {
+        "id": "1508102006",
+        "district_id": "150810",
+        "name": "Tuo Sepunggur",
+        "postal_code": "37210"
+    }
+]

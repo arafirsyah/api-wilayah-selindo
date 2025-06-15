@@ -1,0 +1,97 @@
+[
+    {
+        "id": "1301",
+        "name": "Pesisir Selatan",
+        "province_id": "13"
+    },
+    {
+        "id": "1302",
+        "name": "Solok",
+        "province_id": "13"
+    },
+    {
+        "id": "1303",
+        "name": "Sijunjung",
+        "province_id": "13"
+    },
+    {
+        "id": "1304",
+        "name": "Tanah Datar",
+        "province_id": "13"
+    },
+    {
+        "id": "1305",
+        "name": "Padang Pariaman",
+        "province_id": "13"
+    },
+    {
+        "id": "1306",
+        "name": "Agam",
+        "province_id": "13"
+    },
+    {
+        "id": "1307",
+        "name": "Lima Puluh Kota",
+        "province_id": "13"
+    },
+    {
+        "id": "1308",
+        "name": "Pasaman",
+        "province_id": "13"
+    },
+    {
+        "id": "1309",
+        "name": "Kepulauan Mentawai",
+        "province_id": "13"
+    },
+    {
+        "id": "1310",
+        "name": "Dharmasraya",
+        "province_id": "13"
+    },
+    {
+        "id": "1311",
+        "name": "Solok Selatan",
+        "province_id": "13"
+    },
+    {
+        "id": "1312",
+        "name": "Pasaman Barat",
+        "province_id": "13"
+    },
+    {
+        "id": "1371",
+        "name": "Kota Padang",
+        "province_id": "13"
+    },
+    {
+        "id": "1372",
+        "name": "Kota Solok",
+        "province_id": "13"
+    },
+    {
+        "id": "1373",
+        "name": "Kota Sawahlunto",
+        "province_id": "13"
+    },
+    {
+        "id": "1374",
+        "name": "Kota Padang Panjang",
+        "province_id": "13"
+    },
+    {
+        "id": "1375",
+        "name": "Kota Bukittinggi",
+        "province_id": "13"
+    },
+    {
+        "id": "1376",
+        "name": "Kota Payakumbuh",
+        "province_id": "13"
+    },
+    {
+        "id": "1377",
+        "name": "Kota Pariaman",
+        "province_id": "13"
+    }
+]

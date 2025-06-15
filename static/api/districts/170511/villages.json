@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1705111008",
+        "district_id": "170511",
+        "name": "Rimbo Kedui",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705111010",
+        "district_id": "170511",
+        "name": "Padang Rambun",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705111011",
+        "district_id": "170511",
+        "name": "Sido Mulyo",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112001",
+        "district_id": "170511",
+        "name": "Sukarami (Suka Rami)",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112002",
+        "district_id": "170511",
+        "name": "Tanjung Seru",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112003",
+        "district_id": "170511",
+        "name": "Tanjungan",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112004",
+        "district_id": "170511",
+        "name": "Pasar Seluma",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112005",
+        "district_id": "170511",
+        "name": "Padang Genting",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112006",
+        "district_id": "170511",
+        "name": "Sengkuang",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112007",
+        "district_id": "170511",
+        "name": "Tangga Batu",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112009",
+        "district_id": "170511",
+        "name": "Tanjung Seluai",
+        "postal_code": "38878"
+    },
+    {
+        "id": "1705112012",
+        "district_id": "170511",
+        "name": "Padang Merbau",
+        "postal_code": "38878"
+    }
+]

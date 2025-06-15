@@ -1,0 +1,67 @@
+[
+    {
+        "id": "7201",
+        "name": "Banggai",
+        "province_id": "72"
+    },
+    {
+        "id": "7202",
+        "name": "Poso",
+        "province_id": "72"
+    },
+    {
+        "id": "7203",
+        "name": "Donggala",
+        "province_id": "72"
+    },
+    {
+        "id": "7204",
+        "name": "Toli Toli",
+        "province_id": "72"
+    },
+    {
+        "id": "7205",
+        "name": "Buol",
+        "province_id": "72"
+    },
+    {
+        "id": "7206",
+        "name": "Morowali",
+        "province_id": "72"
+    },
+    {
+        "id": "7207",
+        "name": "Banggai Kepulauan",
+        "province_id": "72"
+    },
+    {
+        "id": "7208",
+        "name": "Parigi Moutong",
+        "province_id": "72"
+    },
+    {
+        "id": "7209",
+        "name": "Tojo Una Una",
+        "province_id": "72"
+    },
+    {
+        "id": "7210",
+        "name": "Sigi",
+        "province_id": "72"
+    },
+    {
+        "id": "7211",
+        "name": "Banggai Laut",
+        "province_id": "72"
+    },
+    {
+        "id": "7212",
+        "name": "Morowali Utara",
+        "province_id": "72"
+    },
+    {
+        "id": "7271",
+        "name": "Kota Palu",
+        "province_id": "72"
+    }
+]

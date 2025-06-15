@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1106222001",
+        "district_id": "110622",
+        "name": "Layeun",
+        "postal_code": "23353"
+    },
+    {
+        "id": "1106222002",
+        "district_id": "110622",
+        "name": "Pulot",
+        "postal_code": "23353"
+    },
+    {
+        "id": "1106222003",
+        "district_id": "110622",
+        "name": "Lamsenia (Lamseunia)",
+        "postal_code": "23353"
+    },
+    {
+        "id": "1106222004",
+        "district_id": "110622",
+        "name": "Meunasah Mesjid (Mesjid Leupung)",
+        "postal_code": "23353"
+    },
+    {
+        "id": "1106222005",
+        "district_id": "110622",
+        "name": "Meunasah Bak U (Meunasah Bak Ue)",
+        "postal_code": "23353"
+    },
+    {
+        "id": "1106222006",
+        "district_id": "110622",
+        "name": "Dayah Mamplam (Deah Mamplam)",
+        "postal_code": "23353"
+    }
+]

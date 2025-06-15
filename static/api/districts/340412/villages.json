@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3404122001",
+        "district_id": "340412",
+        "name": "Sariharjo (Sari Harjo)",
+        "postal_code": "55581"
+    },
+    {
+        "id": "3404122002",
+        "district_id": "340412",
+        "name": "Minomartani",
+        "postal_code": "55581"
+    },
+    {
+        "id": "3404122003",
+        "district_id": "340412",
+        "name": "Sinduharjo",
+        "postal_code": "55581"
+    },
+    {
+        "id": "3404122004",
+        "district_id": "340412",
+        "name": "Sukoharjo (Suko Harjo)",
+        "postal_code": "55581"
+    },
+    {
+        "id": "3404122005",
+        "district_id": "340412",
+        "name": "Sardonoharjo",
+        "postal_code": "55581"
+    },
+    {
+        "id": "3404122006",
+        "district_id": "340412",
+        "name": "Donoharjo",
+        "postal_code": "55581"
+    }
+]

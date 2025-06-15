@@ -1,0 +1,68 @@
+[
+    {
+        "id": "3301182001",
+        "district_id": "330118",
+        "name": "Caruy",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182002",
+        "district_id": "330118",
+        "name": "Segaralangu",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182003",
+        "district_id": "330118",
+        "name": "Pegadingan",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182004",
+        "district_id": "330118",
+        "name": "Cisuru",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182005",
+        "district_id": "330118",
+        "name": "Cipari",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182006",
+        "district_id": "330118",
+        "name": "Serang",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182007",
+        "district_id": "330118",
+        "name": "Mulyadadi",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182008",
+        "district_id": "330118",
+        "name": "Mekarsari",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182009",
+        "district_id": "330118",
+        "name": "Kutasari",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182010",
+        "district_id": "330118",
+        "name": "Karangreja",
+        "postal_code": "53262"
+    },
+    {
+        "id": "3301182011",
+        "district_id": "330118",
+        "name": "Sidasari",
+        "postal_code": "53262"
+    }
+]

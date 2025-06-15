@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3175041001",
+        "district_id": "317504",
+        "name": "Kramatjati (Kramat Jati)",
+        "postal_code": "13510"
+    },
+    {
+        "id": "3175041002",
+        "district_id": "317504",
+        "name": "Tengah (Kampung Tengah)",
+        "postal_code": "13540"
+    },
+    {
+        "id": "3175041003",
+        "district_id": "317504",
+        "name": "Dukuh",
+        "postal_code": "13550"
+    },
+    {
+        "id": "3175041004",
+        "district_id": "317504",
+        "name": "Batu Ampar (Batuampar)",
+        "postal_code": "13520"
+    },
+    {
+        "id": "3175041005",
+        "district_id": "317504",
+        "name": "Balekambang",
+        "postal_code": "13530"
+    },
+    {
+        "id": "3175041006",
+        "district_id": "317504",
+        "name": "Cililitan",
+        "postal_code": "13640"
+    },
+    {
+        "id": "3175041007",
+        "district_id": "317504",
+        "name": "Cawang",
+        "postal_code": "13630"
+    }
+]

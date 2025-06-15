@@ -1,0 +1,50 @@
+[
+    {
+        "id": "7501202001",
+        "district_id": "750120",
+        "name": "Biluhu Barat",
+        "postal_code": "96245"
+    },
+    {
+        "id": "7501202002",
+        "district_id": "750120",
+        "name": "Lobuto",
+        "postal_code": "96245"
+    },
+    {
+        "id": "7501202003",
+        "district_id": "750120",
+        "name": "Biluhu Tengah",
+        "postal_code": "96245"
+    },
+    {
+        "id": "7501202004",
+        "district_id": "750120",
+        "name": "Luluo",
+        "postal_code": "96245"
+    },
+    {
+        "id": "7501202005",
+        "district_id": "750120",
+        "name": "Huwongo",
+        "postal_code": "96245"
+    },
+    {
+        "id": "7501202006",
+        "district_id": "750120",
+        "name": "Lobuto Timur",
+        "postal_code": "96245"
+    },
+    {
+        "id": "7501202007",
+        "district_id": "750120",
+        "name": "Botu Boluo (Botubolu'o \/ Botuboluo)",
+        "postal_code": "96245"
+    },
+    {
+        "id": "7501202008",
+        "district_id": "750120",
+        "name": "Olimeyala",
+        "postal_code": "96245"
+    }
+]

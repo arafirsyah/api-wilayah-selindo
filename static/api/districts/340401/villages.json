@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3404012001",
+        "district_id": "340401",
+        "name": "Balecatur",
+        "postal_code": "55295"
+    },
+    {
+        "id": "3404012002",
+        "district_id": "340401",
+        "name": "Ambarketawang",
+        "postal_code": "55294"
+    },
+    {
+        "id": "3404012003",
+        "district_id": "340401",
+        "name": "Banyuraden",
+        "postal_code": "55293"
+    },
+    {
+        "id": "3404012004",
+        "district_id": "340401",
+        "name": "Nogotirto",
+        "postal_code": "55592"
+    },
+    {
+        "id": "3404012005",
+        "district_id": "340401",
+        "name": "Trihanggo",
+        "postal_code": "55291"
+    }
+]

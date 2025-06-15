@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3402052001",
+        "district_id": "340205",
+        "name": "Sidomulyo",
+        "postal_code": "55764"
+    },
+    {
+        "id": "3402052002",
+        "district_id": "340205",
+        "name": "Mulyodadi",
+        "postal_code": "55764"
+    },
+    {
+        "id": "3402052003",
+        "district_id": "340205",
+        "name": "Sumbermulyo",
+        "postal_code": "55764"
+    }
+]

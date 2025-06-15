@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1501072004",
+        "district_id": "150107",
+        "name": "Tarutung",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072006",
+        "district_id": "150107",
+        "name": "Lubuk Paku",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072007",
+        "district_id": "150107",
+        "name": "Tamiai",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072008",
+        "district_id": "150107",
+        "name": "Pematang Lingkung",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072009",
+        "district_id": "150107",
+        "name": "Pasar Tamiai",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072010",
+        "district_id": "150107",
+        "name": "Seberang Merangin",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072011",
+        "district_id": "150107",
+        "name": "Baru Pulau Sangkar",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072013",
+        "district_id": "150107",
+        "name": "Batang Merangin",
+        "postal_code": "37175"
+    },
+    {
+        "id": "1501072014",
+        "district_id": "150107",
+        "name": "Muara Hemat",
+        "postal_code": "37175"
+    }
+]

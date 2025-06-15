@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3674021001",
+        "district_id": "367402",
+        "name": "Pakulonan",
+        "postal_code": "15325"
+    },
+    {
+        "id": "3674021002",
+        "district_id": "367402",
+        "name": "Pakualam",
+        "postal_code": "15320"
+    },
+    {
+        "id": "3674021003",
+        "district_id": "367402",
+        "name": "Pakujaya (Paku Jaya)",
+        "postal_code": "15324"
+    },
+    {
+        "id": "3674021004",
+        "district_id": "367402",
+        "name": "Pondok Jagung",
+        "postal_code": "15326"
+    },
+    {
+        "id": "3674021005",
+        "district_id": "367402",
+        "name": "Pondok Jagung Timur",
+        "postal_code": "15326"
+    },
+    {
+        "id": "3674021006",
+        "district_id": "367402",
+        "name": "Jelupang",
+        "postal_code": "15323"
+    },
+    {
+        "id": "3674021007",
+        "district_id": "367402",
+        "name": "Lengkong Karya",
+        "postal_code": "15320"
+    }
+]

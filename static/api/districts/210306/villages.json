@@ -1,0 +1,44 @@
+[
+    {
+        "id": "2103061003",
+        "district_id": "210306",
+        "name": "Serasan",
+        "postal_code": ""
+    },
+    {
+        "id": "2103062002",
+        "district_id": "210306",
+        "name": "Kampung Hilir",
+        "postal_code": ""
+    },
+    {
+        "id": "2103062005",
+        "district_id": "210306",
+        "name": "Batu Berlian (Batu Berian)",
+        "postal_code": ""
+    },
+    {
+        "id": "2103062006",
+        "district_id": "210306",
+        "name": "Tanjung Setelung",
+        "postal_code": ""
+    },
+    {
+        "id": "2103062007",
+        "district_id": "210306",
+        "name": "Tanjung Balau",
+        "postal_code": ""
+    },
+    {
+        "id": "2103062010",
+        "district_id": "210306",
+        "name": "Pangkalan",
+        "postal_code": ""
+    },
+    {
+        "id": "2103062011",
+        "district_id": "210306",
+        "name": "Jermalik",
+        "postal_code": ""
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3302251001",
+        "district_id": "330225",
+        "name": "Karanglewas Lor",
+        "postal_code": "53136"
+    },
+    {
+        "id": "3302251002",
+        "district_id": "330225",
+        "name": "Pasir Kidul",
+        "postal_code": "53135"
+    },
+    {
+        "id": "3302251003",
+        "district_id": "330225",
+        "name": "Rejasari",
+        "postal_code": "53134"
+    },
+    {
+        "id": "3302251004",
+        "district_id": "330225",
+        "name": "Pasirmuncang",
+        "postal_code": "53137"
+    },
+    {
+        "id": "3302251005",
+        "district_id": "330225",
+        "name": "Bantarsoka",
+        "postal_code": "53133"
+    },
+    {
+        "id": "3302251006",
+        "district_id": "330225",
+        "name": "Kober",
+        "postal_code": "53132"
+    },
+    {
+        "id": "3302251007",
+        "district_id": "330225",
+        "name": "Kedungwuluh",
+        "postal_code": "53131"
+    }
+]

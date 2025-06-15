@@ -1,0 +1,266 @@
+[
+    {
+        "id": "1107042001",
+        "district_id": "110704",
+        "name": "Tunong",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042002",
+        "district_id": "110704",
+        "name": "Raya",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042003",
+        "district_id": "110704",
+        "name": "Daboh",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042004",
+        "district_id": "110704",
+        "name": "Cut (Gampong Cut \/ Meunasah Cut)",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042005",
+        "district_id": "110704",
+        "name": "Mesjid Reubee",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042006",
+        "district_id": "110704",
+        "name": "Tanjong",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042007",
+        "district_id": "110704",
+        "name": "Geudong",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042008",
+        "district_id": "110704",
+        "name": "Reuntoh (Runtoh)",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042009",
+        "district_id": "110704",
+        "name": "Reuba",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042010",
+        "district_id": "110704",
+        "name": "Krueng Reubee",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042011",
+        "district_id": "110704",
+        "name": "Neulop",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042012",
+        "district_id": "110704",
+        "name": "Glee",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042013",
+        "district_id": "110704",
+        "name": "Kumbang",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042014",
+        "district_id": "110704",
+        "name": "Buloh",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042015",
+        "district_id": "110704",
+        "name": "Bungo",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042016",
+        "district_id": "110704",
+        "name": "Dayah Reubee",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042017",
+        "district_id": "110704",
+        "name": "Jambee",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042018",
+        "district_id": "110704",
+        "name": "Dayah Baro",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042019",
+        "district_id": "110704",
+        "name": "Puuk",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042020",
+        "district_id": "110704",
+        "name": "Lhee Meunasah",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042021",
+        "district_id": "110704",
+        "name": "Ulee Tutue Raya",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042022",
+        "district_id": "110704",
+        "name": "Mesjid Aree",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042023",
+        "district_id": "110704",
+        "name": "Keutapang Aree",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042024",
+        "district_id": "110704",
+        "name": "Pante (Pante Aree)",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042025",
+        "district_id": "110704",
+        "name": "Pulo Tunong",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042026",
+        "district_id": "110704",
+        "name": "Pulo Baroh",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042027",
+        "district_id": "110704",
+        "name": "Krumbok",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042028",
+        "district_id": "110704",
+        "name": "Ceurih Blang Mee",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042029",
+        "district_id": "110704",
+        "name": "Ceurih Keupula",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042030",
+        "district_id": "110704",
+        "name": "Ceurih Alue",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042031",
+        "district_id": "110704",
+        "name": "Ceurih Cot",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042032",
+        "district_id": "110704",
+        "name": "Seupeung",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042033",
+        "district_id": "110704",
+        "name": "Sukon Lhong",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042034",
+        "district_id": "110704",
+        "name": "Dayah Beuah",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042035",
+        "district_id": "110704",
+        "name": "Krueng Cot",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042036",
+        "district_id": "110704",
+        "name": "Mesjid Beuah",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042037",
+        "district_id": "110704",
+        "name": "Lueng Dama",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042038",
+        "district_id": "110704",
+        "name": "Mesjid Bambong",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042039",
+        "district_id": "110704",
+        "name": "Reuseb (Reusep)",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042040",
+        "district_id": "110704",
+        "name": "Sagoe",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042041",
+        "district_id": "110704",
+        "name": "Seukeum",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042042",
+        "district_id": "110704",
+        "name": "Pengoe (Pangoe)",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042043",
+        "district_id": "110704",
+        "name": "Keutapang Bambong",
+        "postal_code": "24162"
+    },
+    {
+        "id": "1107042044",
+        "district_id": "110704",
+        "name": "Metareum",
+        "postal_code": "24162"
+    }
+]

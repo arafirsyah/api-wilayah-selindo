@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1171082001",
+        "district_id": "117108",
+        "name": "Punge Blang Cut",
+        "postal_code": "23234"
+    },
+    {
+        "id": "1171082002",
+        "district_id": "117108",
+        "name": "Bitai",
+        "postal_code": "23235"
+    },
+    {
+        "id": "1171082003",
+        "district_id": "117108",
+        "name": "Lamjamee",
+        "postal_code": "23235"
+    },
+    {
+        "id": "1171082004",
+        "district_id": "117108",
+        "name": "Ulee Pata",
+        "postal_code": "23235"
+    },
+    {
+        "id": "1171082005",
+        "district_id": "117108",
+        "name": "Lampoh Daya",
+        "postal_code": "23235"
+    },
+    {
+        "id": "1171082006",
+        "district_id": "117108",
+        "name": "Emperom",
+        "postal_code": "23236"
+    },
+    {
+        "id": "1171082007",
+        "district_id": "117108",
+        "name": "Geuceu Meunara",
+        "postal_code": "23241"
+    },
+    {
+        "id": "1171082008",
+        "district_id": "117108",
+        "name": "Lamteumen Timur (Lamtemen Timur)",
+        "postal_code": "23230"
+    },
+    {
+        "id": "1171082009",
+        "district_id": "117108",
+        "name": "Lamteumen Barat (Lamtemen Barat)",
+        "postal_code": "23230"
+    }
+]

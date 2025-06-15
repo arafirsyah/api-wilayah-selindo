@@ -1,0 +1,14 @@
+{
+    "name": "Wilayah Indonesia API",
+    "description": "Static API for Indonesian administrative divisions",
+    "endpoints": {
+        "\/api\/provinces.json": "Get all provinces",
+        "\/api\/provinces\/{id}\/regencies.json": "Get regencies by province ID",
+        "\/api\/regencies\/{id}\/districts.json": "Get districts by regency ID",
+        "\/api\/districts\/{id}\/villages.json": "Get villages by district ID",
+        "\/api\/postal_codes.json": "Get all postal codes by village ID",
+        "\/api\/postal_codes_search.json": "Search villages by postal code"
+    },
+    "github": "https:\/\/github.com\/arafirsyah\/api-wilayah-selindo",
+    "version": "1.0.0"
+}

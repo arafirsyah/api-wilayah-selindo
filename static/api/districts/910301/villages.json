@@ -1,0 +1,62 @@
+[
+    {
+        "id": "9103011001",
+        "district_id": "910301",
+        "name": "Sentani Kota",
+        "postal_code": ""
+    },
+    {
+        "id": "9103011002",
+        "district_id": "910301",
+        "name": "Dobonsolo",
+        "postal_code": ""
+    },
+    {
+        "id": "9103011003",
+        "district_id": "910301",
+        "name": "Hinekombe",
+        "postal_code": ""
+    },
+    {
+        "id": "9103012004",
+        "district_id": "910301",
+        "name": "Sereh",
+        "postal_code": ""
+    },
+    {
+        "id": "9103012005",
+        "district_id": "910301",
+        "name": "Yobeh",
+        "postal_code": ""
+    },
+    {
+        "id": "9103012006",
+        "district_id": "910301",
+        "name": "Ifale (Ilfele)",
+        "postal_code": ""
+    },
+    {
+        "id": "9103012007",
+        "district_id": "910301",
+        "name": "Keheran (Kehiran)",
+        "postal_code": ""
+    },
+    {
+        "id": "9103012010",
+        "district_id": "910301",
+        "name": "Ifar Besar",
+        "postal_code": ""
+    },
+    {
+        "id": "9103012011",
+        "district_id": "910301",
+        "name": "Hobong",
+        "postal_code": ""
+    },
+    {
+        "id": "9103012017",
+        "district_id": "910301",
+        "name": "Yahim",
+        "postal_code": ""
+    }
+]

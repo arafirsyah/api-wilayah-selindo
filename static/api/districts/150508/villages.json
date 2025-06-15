@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1505082001",
+        "district_id": "150508",
+        "name": "Kebon IX",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082002",
+        "district_id": "150508",
+        "name": "Talang Belido",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082003",
+        "district_id": "150508",
+        "name": "Talang Kerinci",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082004",
+        "district_id": "150508",
+        "name": "Ladang Panjang",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082005",
+        "district_id": "150508",
+        "name": "Tangkit",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082006",
+        "district_id": "150508",
+        "name": "Tangkit Baru",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082007",
+        "district_id": "150508",
+        "name": "Sungai Gelam",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082008",
+        "district_id": "150508",
+        "name": "Parit",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082009",
+        "district_id": "150508",
+        "name": "Petaling Jaya",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082010",
+        "district_id": "150508",
+        "name": "Sumber Agung",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082011",
+        "district_id": "150508",
+        "name": "Mingkung Jaya",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082012",
+        "district_id": "150508",
+        "name": "Trimulya Jaya",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082013",
+        "district_id": "150508",
+        "name": "Mekar Jaya",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082014",
+        "district_id": "150508",
+        "name": "Sido Mukti",
+        "postal_code": "36363"
+    },
+    {
+        "id": "1505082015",
+        "district_id": "150508",
+        "name": "Gambut Jaya",
+        "postal_code": "36363"
+    }
+]

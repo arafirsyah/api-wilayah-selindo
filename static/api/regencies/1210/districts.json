@@ -1,0 +1,47 @@
+[
+    {
+        "id": "121001",
+        "regency_id": "1210",
+        "name": "Rantau Utara"
+    },
+    {
+        "id": "121002",
+        "regency_id": "1210",
+        "name": "Rantau Selatan"
+    },
+    {
+        "id": "121007",
+        "regency_id": "1210",
+        "name": "Bilah Barat"
+    },
+    {
+        "id": "121008",
+        "regency_id": "1210",
+        "name": "Bilah Hilir"
+    },
+    {
+        "id": "121009",
+        "regency_id": "1210",
+        "name": "Bilah Hulu"
+    },
+    {
+        "id": "121014",
+        "regency_id": "1210",
+        "name": "Pangkatan"
+    },
+    {
+        "id": "121018",
+        "regency_id": "1210",
+        "name": "Panai Tengah"
+    },
+    {
+        "id": "121019",
+        "regency_id": "1210",
+        "name": "Panai Hilir"
+    },
+    {
+        "id": "121020",
+        "regency_id": "1210",
+        "name": "Panai Hulu"
+    }
+]

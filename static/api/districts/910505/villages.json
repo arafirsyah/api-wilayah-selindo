@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9105052001",
+        "district_id": "910505",
+        "name": "Poom I",
+        "postal_code": ""
+    },
+    {
+        "id": "9105052003",
+        "district_id": "910505",
+        "name": "Serewen",
+        "postal_code": ""
+    },
+    {
+        "id": "9105052006",
+        "district_id": "910505",
+        "name": "Poom II",
+        "postal_code": ""
+    },
+    {
+        "id": "9105052007",
+        "district_id": "910505",
+        "name": "Mokiroan",
+        "postal_code": ""
+    },
+    {
+        "id": "9105052011",
+        "district_id": "910505",
+        "name": "Rasiri (Woisiri)",
+        "postal_code": ""
+    },
+    {
+        "id": "9105052012",
+        "district_id": "910505",
+        "name": "Warioi",
+        "postal_code": ""
+    },
+    {
+        "id": "9105052015",
+        "district_id": "910505",
+        "name": "Humbe Awai",
+        "postal_code": ""
+    },
+    {
+        "id": "9105052016",
+        "district_id": "910505",
+        "name": "Nurawi",
+        "postal_code": ""
+    }
+]

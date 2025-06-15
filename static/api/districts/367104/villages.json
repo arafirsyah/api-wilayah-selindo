@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3671041001",
+        "district_id": "367104",
+        "name": "Belendung",
+        "postal_code": "15123"
+    },
+    {
+        "id": "3671041002",
+        "district_id": "367104",
+        "name": "Jurumudi",
+        "postal_code": "15124"
+    },
+    {
+        "id": "3671041003",
+        "district_id": "367104",
+        "name": "Benda",
+        "postal_code": "15125"
+    },
+    {
+        "id": "3671041004",
+        "district_id": "367104",
+        "name": "Pajang",
+        "postal_code": "15126"
+    },
+    {
+        "id": "3671041005",
+        "district_id": "367104",
+        "name": "Jurumudi Baru",
+        "postal_code": "15124"
+    }
+]

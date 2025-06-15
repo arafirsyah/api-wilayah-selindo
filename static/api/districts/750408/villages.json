@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7504082001",
+        "district_id": "750408",
+        "name": "Popaya",
+        "postal_code": "96361"
+    },
+    {
+        "id": "7504082002",
+        "district_id": "750408",
+        "name": "Karya Baru",
+        "postal_code": "96361"
+    },
+    {
+        "id": "7504082003",
+        "district_id": "750408",
+        "name": "Karangetan (Karangetang)",
+        "postal_code": "96361"
+    },
+    {
+        "id": "7504082004",
+        "district_id": "750408",
+        "name": "Padengo",
+        "postal_code": "96361"
+    },
+    {
+        "id": "7504082005",
+        "district_id": "750408",
+        "name": "Hutamoputi (Huta Moputi)",
+        "postal_code": "96361"
+    }
+]

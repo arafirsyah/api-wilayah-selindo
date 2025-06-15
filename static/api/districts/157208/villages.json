@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1572081005",
+        "district_id": "157208",
+        "name": "Dusun Baru",
+        "postal_code": "37112"
+    },
+    {
+        "id": "1572082001",
+        "district_id": "157208",
+        "name": "Sumur Anyir",
+        "postal_code": "37111"
+    },
+    {
+        "id": "1572082002",
+        "district_id": "157208",
+        "name": "Koto Tinggi",
+        "postal_code": "37111"
+    },
+    {
+        "id": "1572082003",
+        "district_id": "157208",
+        "name": "Talang Lindung",
+        "postal_code": "37111"
+    },
+    {
+        "id": "1572082004",
+        "district_id": "157208",
+        "name": "Pelayang Raya",
+        "postal_code": "37111"
+    },
+    {
+        "id": "1572082006",
+        "district_id": "157208",
+        "name": "Sungai Ning",
+        "postal_code": "37111"
+    }
+]

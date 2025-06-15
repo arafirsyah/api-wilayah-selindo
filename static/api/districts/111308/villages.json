@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1113082001",
+        "district_id": "111308",
+        "name": "Pangur",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082002",
+        "district_id": "111308",
+        "name": "Badak",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082003",
+        "district_id": "111308",
+        "name": "Kendawi",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082004",
+        "district_id": "111308",
+        "name": "Sangir",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082005",
+        "district_id": "111308",
+        "name": "Panglima\/Panglime Linting",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082006",
+        "district_id": "111308",
+        "name": "Blangtemung",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082007",
+        "district_id": "111308",
+        "name": "Rerebe",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082008",
+        "district_id": "111308",
+        "name": "Uning Gelung",
+        "postal_code": "24652"
+    },
+    {
+        "id": "1113082009",
+        "district_id": "111308",
+        "name": "Uning Sepakat",
+        "postal_code": "24652"
+    }
+]

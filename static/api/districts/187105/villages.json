@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1871051002",
+        "district_id": "187105",
+        "name": "Kota Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "1871051003",
+        "district_id": "187105",
+        "name": "Tanjung Agung",
+        "postal_code": ""
+    },
+    {
+        "id": "1871051004",
+        "district_id": "187105",
+        "name": "Kebon Jeruk (Kebonjeruk)",
+        "postal_code": ""
+    },
+    {
+        "id": "1871051005",
+        "district_id": "187105",
+        "name": "Sawah Lama",
+        "postal_code": ""
+    },
+    {
+        "id": "1871051006",
+        "district_id": "187105",
+        "name": "Sawah Brebes",
+        "postal_code": ""
+    }
+]

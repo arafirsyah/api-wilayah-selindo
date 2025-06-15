@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1571101001",
+        "district_id": "157110",
+        "name": "Sungai Putri",
+        "postal_code": "36122"
+    },
+    {
+        "id": "1571101002",
+        "district_id": "157110",
+        "name": "Murni",
+        "postal_code": "36121"
+    },
+    {
+        "id": "1571101003",
+        "district_id": "157110",
+        "name": "Legok",
+        "postal_code": "36121"
+    },
+    {
+        "id": "1571101004",
+        "district_id": "157110",
+        "name": "Selamat",
+        "postal_code": "36129"
+    },
+    {
+        "id": "1571101005",
+        "district_id": "157110",
+        "name": "Solok Sipin",
+        "postal_code": "36121"
+    }
+]

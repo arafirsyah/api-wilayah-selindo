@@ -1,0 +1,302 @@
+[
+    {
+        "id": "1106102001",
+        "district_id": "110610",
+        "name": "Lambaro",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102002",
+        "district_id": "110610",
+        "name": "Meunasah Manyang Lam Garot (LG)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102003",
+        "district_id": "110610",
+        "name": "Bakoy",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102004",
+        "district_id": "110610",
+        "name": "Meunasah Baro",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102005",
+        "district_id": "110610",
+        "name": "Meunasah Deyah (Meunasah Dayah)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102006",
+        "district_id": "110610",
+        "name": "Meunasah Tutong (Meunasah Teutong)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102007",
+        "district_id": "110610",
+        "name": "Siron",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102008",
+        "district_id": "110610",
+        "name": "Pasie Lamgarot (Pasie LG)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102009",
+        "district_id": "110610",
+        "name": "Dham Ceukok",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102010",
+        "district_id": "110610",
+        "name": "Dham Pulo",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102011",
+        "district_id": "110610",
+        "name": "Leubok Sukon (Lhok Sukon)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102012",
+        "district_id": "110610",
+        "name": "Lubok Gapuy",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102013",
+        "district_id": "110610",
+        "name": "Pasie Lubuk (Pasie Lubok)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102014",
+        "district_id": "110610",
+        "name": "Bueng Ceukok (Bung Ceukok)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102015",
+        "district_id": "110610",
+        "name": "Teubang Phuy (Teubang Phui)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102016",
+        "district_id": "110610",
+        "name": "Ateuk Anggok",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102017",
+        "district_id": "110610",
+        "name": "Ajee Rayeuk",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102018",
+        "district_id": "110610",
+        "name": "Ajee Cut",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102019",
+        "district_id": "110610",
+        "name": "Gani",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102020",
+        "district_id": "110610",
+        "name": "Ateuk Lueng Ie",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102021",
+        "district_id": "110610",
+        "name": "Cot Alue",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102022",
+        "district_id": "110610",
+        "name": "Cot Suruy",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102023",
+        "district_id": "110610",
+        "name": "Cot Bada",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102024",
+        "district_id": "110610",
+        "name": "Ajee Pagar Air",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102025",
+        "district_id": "110610",
+        "name": "Meunasah Krueng",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102026",
+        "district_id": "110610",
+        "name": "Jurong Peujera (Jurong Peujeura)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102027",
+        "district_id": "110610",
+        "name": "Lubok Batee (Lubuk Batee)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102028",
+        "district_id": "110610",
+        "name": "Bineh Blang (Bineeh Blang)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102029",
+        "district_id": "110610",
+        "name": "Pantee",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102030",
+        "district_id": "110610",
+        "name": "Kalut",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102031",
+        "district_id": "110610",
+        "name": "Meunasah Manyang Pagar Air",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102032",
+        "district_id": "110610",
+        "name": "Meunasah Manyet",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102033",
+        "district_id": "110610",
+        "name": "Santan",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102034",
+        "district_id": "110610",
+        "name": "Tanjong",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102035",
+        "district_id": "110610",
+        "name": "Reuloh",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102041",
+        "district_id": "110610",
+        "name": "Paleuh Blang",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102042",
+        "district_id": "110610",
+        "name": "Cot Mentiwan (Cot Montiwan)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102043",
+        "district_id": "110610",
+        "name": "Lampreh Lam Jampok (Lampreh Lam Jamprok)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102044",
+        "district_id": "110610",
+        "name": "Paleuh Pulo",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102045",
+        "district_id": "110610",
+        "name": "Lamcot (lam Cot)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102046",
+        "district_id": "110610",
+        "name": "Lamsinyeu (Lam Sinyeu)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102047",
+        "district_id": "110610",
+        "name": "Lam Ue",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102048",
+        "district_id": "110610",
+        "name": "Cot Gud (Cot Got)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102049",
+        "district_id": "110610",
+        "name": "Lamdaya",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102050",
+        "district_id": "110610",
+        "name": "Lambada",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102051",
+        "district_id": "110610",
+        "name": "Ujong XII",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102052",
+        "district_id": "110610",
+        "name": "Bada",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102053",
+        "district_id": "110610",
+        "name": "Lamteungoh (Lam Teungoh)",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102054",
+        "district_id": "110610",
+        "name": "Kayee Lee",
+        "postal_code": "23371"
+    },
+    {
+        "id": "1106102056",
+        "district_id": "110610",
+        "name": "Lampreh Lamteungoh (Lampreh L. Teungoh)",
+        "postal_code": "23371"
+    }
+]

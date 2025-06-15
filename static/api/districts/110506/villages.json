@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1105062001",
+        "district_id": "110506",
+        "name": "Alue Lhok",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062002",
+        "district_id": "110506",
+        "name": "Alue Bakong",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062003",
+        "district_id": "110506",
+        "name": "Berawang (Beurawang)",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062004",
+        "district_id": "110506",
+        "name": "Blang Sibeutong",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062005",
+        "district_id": "110506",
+        "name": "Cot Keumuneng",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062006",
+        "district_id": "110506",
+        "name": "Cot Lada",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062007",
+        "district_id": "110506",
+        "name": "Gunong Panah",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062008",
+        "district_id": "110506",
+        "name": "Kuta Padang",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062009",
+        "district_id": "110506",
+        "name": "Kuala Pling",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062010",
+        "district_id": "110506",
+        "name": "Layung",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062011",
+        "district_id": "110506",
+        "name": "Liceh",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062012",
+        "district_id": "110506",
+        "name": "Peulanteu SP (Peulanteu Sp)",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062013",
+        "district_id": "110506",
+        "name": "Rambong",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062014",
+        "district_id": "110506",
+        "name": "Seumuleng",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062015",
+        "district_id": "110506",
+        "name": "Suak Pangkat",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062016",
+        "district_id": "110506",
+        "name": "Seuneubok Trap",
+        "postal_code": "23651"
+    },
+    {
+        "id": "1105062017",
+        "district_id": "110506",
+        "name": "Ulee Blang",
+        "postal_code": "23651"
+    }
+]

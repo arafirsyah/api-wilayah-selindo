@@ -1,0 +1,32 @@
+[
+    {
+        "id": "9601",
+        "name": "Sorong",
+        "province_id": "96"
+    },
+    {
+        "id": "9604",
+        "name": "Sorong Selatan",
+        "province_id": "96"
+    },
+    {
+        "id": "9605",
+        "name": "Raja Ampat",
+        "province_id": "96"
+    },
+    {
+        "id": "9609",
+        "name": "Tambrauw",
+        "province_id": "96"
+    },
+    {
+        "id": "9610",
+        "name": "Maybrat",
+        "province_id": "96"
+    },
+    {
+        "id": "9671",
+        "name": "Kota Sorong",
+        "province_id": "96"
+    }
+]

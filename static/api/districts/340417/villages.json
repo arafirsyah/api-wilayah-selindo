@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3404172001",
+        "district_id": "340417",
+        "name": "Argomulyo (Argo Mulyo)",
+        "postal_code": "55583"
+    },
+    {
+        "id": "3404172002",
+        "district_id": "340417",
+        "name": "Wukirsari (Wukir Sari)",
+        "postal_code": "55583"
+    },
+    {
+        "id": "3404172003",
+        "district_id": "340417",
+        "name": "Glagaharjo (Glagah Harjo)",
+        "postal_code": "55583"
+    },
+    {
+        "id": "3404172004",
+        "district_id": "340417",
+        "name": "Kepuharjo (Kepuh Harjo)",
+        "postal_code": "55583"
+    },
+    {
+        "id": "3404172005",
+        "district_id": "340417",
+        "name": "Umbulharjo (Umbul Harjo)",
+        "postal_code": "55583"
+    }
+]

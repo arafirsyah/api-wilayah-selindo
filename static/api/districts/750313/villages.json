@@ -1,0 +1,38 @@
+[
+    {
+        "id": "7503132001",
+        "district_id": "750313",
+        "name": "Lompotoo",
+        "postal_code": "96564"
+    },
+    {
+        "id": "7503132002",
+        "district_id": "750313",
+        "name": "Lombongo",
+        "postal_code": "96564"
+    },
+    {
+        "id": "7503132003",
+        "district_id": "750313",
+        "name": "Duano",
+        "postal_code": "96564"
+    },
+    {
+        "id": "7503132004",
+        "district_id": "750313",
+        "name": "Tolomato",
+        "postal_code": "96564"
+    },
+    {
+        "id": "7503132005",
+        "district_id": "750313",
+        "name": "Alale (Alele)",
+        "postal_code": "96564"
+    },
+    {
+        "id": "7503132006",
+        "district_id": "750313",
+        "name": "Tapadaa",
+        "postal_code": "96564"
+    }
+]

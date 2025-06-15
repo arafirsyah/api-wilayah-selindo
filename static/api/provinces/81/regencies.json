@@ -1,0 +1,57 @@
+[
+    {
+        "id": "8101",
+        "name": "Maluku Tengah",
+        "province_id": "81"
+    },
+    {
+        "id": "8102",
+        "name": "Maluku Tenggara",
+        "province_id": "81"
+    },
+    {
+        "id": "8103",
+        "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+        "province_id": "81"
+    },
+    {
+        "id": "8104",
+        "name": "Buru",
+        "province_id": "81"
+    },
+    {
+        "id": "8105",
+        "name": "Seram Bagian Timur",
+        "province_id": "81"
+    },
+    {
+        "id": "8106",
+        "name": "Seram Bagian Barat",
+        "province_id": "81"
+    },
+    {
+        "id": "8107",
+        "name": "Kepulauan Aru",
+        "province_id": "81"
+    },
+    {
+        "id": "8108",
+        "name": "Maluku Barat Daya",
+        "province_id": "81"
+    },
+    {
+        "id": "8109",
+        "name": "Buru Selatan",
+        "province_id": "81"
+    },
+    {
+        "id": "8171",
+        "name": "Kota Ambon",
+        "province_id": "81"
+    },
+    {
+        "id": "8172",
+        "name": "Kota Tual",
+        "province_id": "81"
+    }
+]

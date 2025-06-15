@@ -1,0 +1,368 @@
+[
+    {
+        "id": "9506052001",
+        "district_id": "950605",
+        "name": "Welarek",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052002",
+        "district_id": "950605",
+        "name": "Werenggik",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052003",
+        "district_id": "950605",
+        "name": "Saly",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052004",
+        "district_id": "950605",
+        "name": "Mabualem",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052005",
+        "district_id": "950605",
+        "name": "Pisanggo",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052006",
+        "district_id": "950605",
+        "name": "Welarekpunu (Welearekpunu)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052007",
+        "district_id": "950605",
+        "name": "Hindalimuhuk (Hindalimukuk)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052008",
+        "district_id": "950605",
+        "name": "Menepini",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052009",
+        "district_id": "950605",
+        "name": "Soharam",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052010",
+        "district_id": "950605",
+        "name": "Kampol",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052011",
+        "district_id": "950605",
+        "name": "Tahamak",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052012",
+        "district_id": "950605",
+        "name": "Punui (Funui)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052013",
+        "district_id": "950605",
+        "name": "Sakam",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052014",
+        "district_id": "950605",
+        "name": "Sinahal",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052015",
+        "district_id": "950605",
+        "name": "Samaria",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052016",
+        "district_id": "950605",
+        "name": "Hamboik",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052017",
+        "district_id": "950605",
+        "name": "Mohobiye",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052018",
+        "district_id": "950605",
+        "name": "Halialo",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052019",
+        "district_id": "950605",
+        "name": "Walingkapma",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052020",
+        "district_id": "950605",
+        "name": "Kayalem",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052021",
+        "district_id": "950605",
+        "name": "Seherek",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052022",
+        "district_id": "950605",
+        "name": "Halisek",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052023",
+        "district_id": "950605",
+        "name": "Wompoli",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052024",
+        "district_id": "950605",
+        "name": "Fikfak",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052025",
+        "district_id": "950605",
+        "name": "Mohonu",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052026",
+        "district_id": "950605",
+        "name": "Pikohofari (Dikohobari)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052027",
+        "district_id": "950605",
+        "name": "Feingkama",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052028",
+        "district_id": "950605",
+        "name": "Holowi",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052029",
+        "district_id": "950605",
+        "name": "Poik (Poik Satu)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052030",
+        "district_id": "950605",
+        "name": "Koum",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052031",
+        "district_id": "950605",
+        "name": "Hobut",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052032",
+        "district_id": "950605",
+        "name": "Mondek (Montek)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052033",
+        "district_id": "950605",
+        "name": "Mamion (Mamioan)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052034",
+        "district_id": "950605",
+        "name": "Selek",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052035",
+        "district_id": "950605",
+        "name": "Ambiliki",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052036",
+        "district_id": "950605",
+        "name": "Ubalihi",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052038",
+        "district_id": "950605",
+        "name": "Salema",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052039",
+        "district_id": "950605",
+        "name": "Selebi",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052040",
+        "district_id": "950605",
+        "name": "Langam",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052041",
+        "district_id": "950605",
+        "name": "Pami",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052042",
+        "district_id": "950605",
+        "name": "Pirang",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052043",
+        "district_id": "950605",
+        "name": "Poholanggen",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052044",
+        "district_id": "950605",
+        "name": "Nangkulamulan",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052045",
+        "district_id": "950605",
+        "name": "Irarek",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052046",
+        "district_id": "950605",
+        "name": "Ampolongsili",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052047",
+        "district_id": "950605",
+        "name": "Sumtan (Suntam)",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052048",
+        "district_id": "950605",
+        "name": "Ulum",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052049",
+        "district_id": "950605",
+        "name": "Kayo",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052050",
+        "district_id": "950605",
+        "name": "Panal",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052051",
+        "district_id": "950605",
+        "name": "Hilariki",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052052",
+        "district_id": "950605",
+        "name": "Tinmuhuk",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052053",
+        "district_id": "950605",
+        "name": "Yahamer",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052054",
+        "district_id": "950605",
+        "name": "Helebol",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052055",
+        "district_id": "950605",
+        "name": "Silfal",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052056",
+        "district_id": "950605",
+        "name": "Sukalimi",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052057",
+        "district_id": "950605",
+        "name": "Nohonil",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052058",
+        "district_id": "950605",
+        "name": "Lasik",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052059",
+        "district_id": "950605",
+        "name": "Panalulun",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052060",
+        "district_id": "950605",
+        "name": "Wasupahik",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052061",
+        "district_id": "950605",
+        "name": "Folongsili",
+        "postal_code": ""
+    },
+    {
+        "id": "9506052062",
+        "district_id": "950605",
+        "name": "Amuluk",
+        "postal_code": ""
+    }
+]

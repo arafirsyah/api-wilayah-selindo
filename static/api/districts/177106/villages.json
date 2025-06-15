@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1771061001",
+        "district_id": "177106",
+        "name": "Kebun Tebeng",
+        "postal_code": "38227"
+    },
+    {
+        "id": "1771061002",
+        "district_id": "177106",
+        "name": "Tanah Patah",
+        "postal_code": "38224"
+    },
+    {
+        "id": "1771061003",
+        "district_id": "177106",
+        "name": "Nusa Indah",
+        "postal_code": "38224"
+    },
+    {
+        "id": "1771061004",
+        "district_id": "177106",
+        "name": "Kebun Beler",
+        "postal_code": "38223"
+    },
+    {
+        "id": "1771061005",
+        "district_id": "177106",
+        "name": "Kebun Kenanga",
+        "postal_code": "38223"
+    },
+    {
+        "id": "1771061006",
+        "district_id": "177106",
+        "name": "Sawah Lebar",
+        "postal_code": "38228"
+    },
+    {
+        "id": "1771061007",
+        "district_id": "177106",
+        "name": "Sawah Lebar Baru",
+        "postal_code": "38223"
+    },
+    {
+        "id": "1771061008",
+        "district_id": "177106",
+        "name": "Lempuing",
+        "postal_code": "38223"
+    }
+]

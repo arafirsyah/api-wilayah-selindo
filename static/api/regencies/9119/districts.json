@@ -1,0 +1,27 @@
+[
+    {
+        "id": "911901",
+        "regency_id": "9119",
+        "name": "Supiori Selatan"
+    },
+    {
+        "id": "911902",
+        "regency_id": "9119",
+        "name": "Supiori Utara"
+    },
+    {
+        "id": "911903",
+        "regency_id": "9119",
+        "name": "Supiori Timur"
+    },
+    {
+        "id": "911904",
+        "regency_id": "9119",
+        "name": "Kepulauan Aruri"
+    },
+    {
+        "id": "911905",
+        "regency_id": "9119",
+        "name": "Supiori Barat"
+    }
+]

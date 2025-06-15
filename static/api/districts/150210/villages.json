@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1502102001",
+        "district_id": "150210",
+        "name": "Pulau Rengas",
+        "postal_code": "37315"
+    },
+    {
+        "id": "1502102002",
+        "district_id": "150210",
+        "name": "Biuku Tanjung",
+        "postal_code": "37315"
+    },
+    {
+        "id": "1502102003",
+        "district_id": "150210",
+        "name": "Bedeng Rejo",
+        "postal_code": "37315"
+    },
+    {
+        "id": "1502102004",
+        "district_id": "150210",
+        "name": "Sungai Putih",
+        "postal_code": "37315"
+    },
+    {
+        "id": "1502102005",
+        "district_id": "150210",
+        "name": "Bukit Beringin",
+        "postal_code": "37315"
+    },
+    {
+        "id": "1502102006",
+        "district_id": "150210",
+        "name": "Pulau Rengas Ulu",
+        "postal_code": "37315"
+    }
+]

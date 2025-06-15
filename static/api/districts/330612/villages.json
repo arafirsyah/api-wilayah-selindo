@@ -1,0 +1,242 @@
+[
+    {
+        "id": "3306122001",
+        "district_id": "330612",
+        "name": "Waled",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122002",
+        "district_id": "330612",
+        "name": "Kroyokulon (Kroyo Kulon)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122003",
+        "district_id": "330612",
+        "name": "Rejosari",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122004",
+        "district_id": "330612",
+        "name": "Gesikan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122005",
+        "district_id": "330612",
+        "name": "Paitan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122006",
+        "district_id": "330612",
+        "name": "Gedong",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122007",
+        "district_id": "330612",
+        "name": "Rowobayem",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122008",
+        "district_id": "330612",
+        "name": "Kemiri Kidul",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122009",
+        "district_id": "330612",
+        "name": "Bedono Kluwung",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122010",
+        "district_id": "330612",
+        "name": "Bedono Pageron",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122011",
+        "district_id": "330612",
+        "name": "Bedono Karangduwur",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122012",
+        "district_id": "330612",
+        "name": "Rebug",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122013",
+        "district_id": "330612",
+        "name": "Loning",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122014",
+        "district_id": "330612",
+        "name": "Winong",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122015",
+        "district_id": "330612",
+        "name": "Sutoragan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122016",
+        "district_id": "330612",
+        "name": "Jatiwangsan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122017",
+        "district_id": "330612",
+        "name": "Girimulyo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122018",
+        "district_id": "330612",
+        "name": "Girijoyo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122019",
+        "district_id": "330612",
+        "name": "Turus",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122020",
+        "district_id": "330612",
+        "name": "Dilem",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122021",
+        "district_id": "330612",
+        "name": "Kedunglo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122022",
+        "district_id": "330612",
+        "name": "Wonosuko",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122023",
+        "district_id": "330612",
+        "name": "Sidodadi",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122024",
+        "district_id": "330612",
+        "name": "Kalimeneng",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122025",
+        "district_id": "330612",
+        "name": "Kemirilor (Kemiri Lor)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122026",
+        "district_id": "330612",
+        "name": "Kerep",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122027",
+        "district_id": "330612",
+        "name": "Kroyolor (Kroyo Lor)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122028",
+        "district_id": "330612",
+        "name": "Samping",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122029",
+        "district_id": "330612",
+        "name": "Wonosari",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122030",
+        "district_id": "330612",
+        "name": "Kaliglagah",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122031",
+        "district_id": "330612",
+        "name": "Kapiteran",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122032",
+        "district_id": "330612",
+        "name": "Wanurojo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122033",
+        "district_id": "330612",
+        "name": "Rejowinangun",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122034",
+        "district_id": "330612",
+        "name": "Kaliurip",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122035",
+        "district_id": "330612",
+        "name": "Kedungpomahanweta n",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122036",
+        "district_id": "330612",
+        "name": "Karangluas",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122037",
+        "district_id": "330612",
+        "name": "Kedungpomahankulo n",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122038",
+        "district_id": "330612",
+        "name": "Sukogelap (Sokogelap)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122039",
+        "district_id": "330612",
+        "name": "Gunungteges",
+        "postal_code": ""
+    },
+    {
+        "id": "3306122040",
+        "district_id": "330612",
+        "name": "Purbayan",
+        "postal_code": ""
+    }
+]

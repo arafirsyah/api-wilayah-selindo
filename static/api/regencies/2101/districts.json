@@ -1,0 +1,52 @@
+[
+    {
+        "id": "210104",
+        "regency_id": "2101",
+        "name": "Gunung Kijang"
+    },
+    {
+        "id": "210106",
+        "regency_id": "2101",
+        "name": "Bintan Timur"
+    },
+    {
+        "id": "210107",
+        "regency_id": "2101",
+        "name": "Bintan Utara"
+    },
+    {
+        "id": "210108",
+        "regency_id": "2101",
+        "name": "Teluk Bintan"
+    },
+    {
+        "id": "210109",
+        "regency_id": "2101",
+        "name": "Tambelan"
+    },
+    {
+        "id": "210110",
+        "regency_id": "2101",
+        "name": "Telok Sebong (Teluk Sebong)"
+    },
+    {
+        "id": "210112",
+        "regency_id": "2101",
+        "name": "Toapaya"
+    },
+    {
+        "id": "210113",
+        "regency_id": "2101",
+        "name": "Mantang"
+    },
+    {
+        "id": "210114",
+        "regency_id": "2101",
+        "name": "Bintan Pesisir"
+    },
+    {
+        "id": "210115",
+        "regency_id": "2101",
+        "name": "Seri Kuala Lobam (Sri)"
+    }
+]

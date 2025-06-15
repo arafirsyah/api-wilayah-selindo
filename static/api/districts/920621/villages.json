@@ -1,0 +1,32 @@
+[
+    {
+        "id": "9206212001",
+        "district_id": "920621",
+        "name": "Weriagar",
+        "postal_code": ""
+    },
+    {
+        "id": "9206212002",
+        "district_id": "920621",
+        "name": "Mogotira (Mogmesa)",
+        "postal_code": ""
+    },
+    {
+        "id": "9206212003",
+        "district_id": "920621",
+        "name": "Weriagar Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "9206212004",
+        "district_id": "920621",
+        "name": "Weriagar Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "9206212005",
+        "district_id": "920621",
+        "name": "Tuanaikin",
+        "postal_code": ""
+    }
+]

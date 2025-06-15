@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7571021010",
+        "district_id": "757102",
+        "name": "Biawao",
+        "postal_code": "96111"
+    },
+    {
+        "id": "7571021012",
+        "district_id": "757102",
+        "name": "Biawu",
+        "postal_code": "96111"
+    },
+    {
+        "id": "7571021013",
+        "district_id": "757102",
+        "name": "Limba B",
+        "postal_code": "96115"
+    },
+    {
+        "id": "7571021019",
+        "district_id": "757102",
+        "name": "Limba U Satu (Limba U I)",
+        "postal_code": "96115"
+    },
+    {
+        "id": "7571021020",
+        "district_id": "757102",
+        "name": "Limba U Dua (Limba U II)",
+        "postal_code": "96115"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "7206122001",
+        "district_id": "720612",
+        "name": "Sampeantaba",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122002",
+        "district_id": "720612",
+        "name": "Emea",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122006",
+        "district_id": "720612",
+        "name": "Moahino",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122007",
+        "district_id": "720612",
+        "name": "Solonsa",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122008",
+        "district_id": "720612",
+        "name": "Lantula Jaya",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122009",
+        "district_id": "720612",
+        "name": "Puntari Makmur",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122010",
+        "district_id": "720612",
+        "name": "Bumi Harapan",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122011",
+        "district_id": "720612",
+        "name": "Solonsa Jaya",
+        "postal_code": ""
+    },
+    {
+        "id": "7206122012",
+        "district_id": "720612",
+        "name": "Ungkaya",
+        "postal_code": ""
+    }
+]

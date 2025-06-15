@@ -1,0 +1,57 @@
+[
+    {
+        "id": "630601",
+        "regency_id": "6306",
+        "name": "Sungai Raya"
+    },
+    {
+        "id": "630602",
+        "regency_id": "6306",
+        "name": "Padang Batung"
+    },
+    {
+        "id": "630603",
+        "regency_id": "6306",
+        "name": "Telaga Langsat"
+    },
+    {
+        "id": "630604",
+        "regency_id": "6306",
+        "name": "Angkinang"
+    },
+    {
+        "id": "630605",
+        "regency_id": "6306",
+        "name": "Kandangan"
+    },
+    {
+        "id": "630606",
+        "regency_id": "6306",
+        "name": "Simpur"
+    },
+    {
+        "id": "630607",
+        "regency_id": "6306",
+        "name": "Daha Selatan"
+    },
+    {
+        "id": "630608",
+        "regency_id": "6306",
+        "name": "Daha Utara"
+    },
+    {
+        "id": "630609",
+        "regency_id": "6306",
+        "name": "Kalumpang (Kelumpang)"
+    },
+    {
+        "id": "630610",
+        "regency_id": "6306",
+        "name": "Loksado"
+    },
+    {
+        "id": "630611",
+        "regency_id": "6306",
+        "name": "Daha Barat"
+    }
+]

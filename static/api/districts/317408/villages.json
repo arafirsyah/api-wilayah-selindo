@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3174081001",
+        "district_id": "317408",
+        "name": "Pancoran",
+        "postal_code": "12780"
+    },
+    {
+        "id": "3174081002",
+        "district_id": "317408",
+        "name": "Kalibata",
+        "postal_code": "12740"
+    },
+    {
+        "id": "3174081003",
+        "district_id": "317408",
+        "name": "Rawajati (Rawa Jati)",
+        "postal_code": "12750"
+    },
+    {
+        "id": "3174081004",
+        "district_id": "317408",
+        "name": "Duren Tiga",
+        "postal_code": "12760"
+    },
+    {
+        "id": "3174081005",
+        "district_id": "317408",
+        "name": "Pengadegan",
+        "postal_code": "12770"
+    },
+    {
+        "id": "3174081006",
+        "district_id": "317408",
+        "name": "Cikoko",
+        "postal_code": "12770"
+    }
+]

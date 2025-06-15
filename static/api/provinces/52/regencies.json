@@ -1,0 +1,52 @@
+[
+    {
+        "id": "5201",
+        "name": "Lombok Barat",
+        "province_id": "52"
+    },
+    {
+        "id": "5202",
+        "name": "Lombok Tengah",
+        "province_id": "52"
+    },
+    {
+        "id": "5203",
+        "name": "Lombok Timur",
+        "province_id": "52"
+    },
+    {
+        "id": "5204",
+        "name": "Sumbawa",
+        "province_id": "52"
+    },
+    {
+        "id": "5205",
+        "name": "Dompu",
+        "province_id": "52"
+    },
+    {
+        "id": "5206",
+        "name": "Bima",
+        "province_id": "52"
+    },
+    {
+        "id": "5207",
+        "name": "Sumbawa Barat",
+        "province_id": "52"
+    },
+    {
+        "id": "5208",
+        "name": "Lombok Utara",
+        "province_id": "52"
+    },
+    {
+        "id": "5271",
+        "name": "Kota Mataram",
+        "province_id": "52"
+    },
+    {
+        "id": "5272",
+        "name": "Kota Bima",
+        "province_id": "52"
+    }
+]

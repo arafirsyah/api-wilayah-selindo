@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1501232001",
+        "district_id": "150123",
+        "name": "Pancuran Tiga",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232002",
+        "district_id": "150123",
+        "name": "Tanjungpauh Mudik (Tanjung Pauh Mudik)",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232003",
+        "district_id": "150123",
+        "name": "Bukit Pulai (Bukitpulai)",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232004",
+        "district_id": "150123",
+        "name": "Punai Merindu",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232005",
+        "district_id": "150123",
+        "name": "Sumur Jauh",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232006",
+        "district_id": "150123",
+        "name": "Permai Baru",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232007",
+        "district_id": "150123",
+        "name": "Tanjungpauh Hilir (Tanjung Pauh Hilir)",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232008",
+        "district_id": "150123",
+        "name": "Serumpun Pauh",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232009",
+        "district_id": "150123",
+        "name": "Pondok Siguang",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232010",
+        "district_id": "150123",
+        "name": "Koto Tengah",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232011",
+        "district_id": "150123",
+        "name": "Semerap",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232012",
+        "district_id": "150123",
+        "name": "Koto Baru Semerap",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232013",
+        "district_id": "150123",
+        "name": "Pasar Semerap",
+        "postal_code": "37173"
+    },
+    {
+        "id": "1501232014",
+        "district_id": "150123",
+        "name": "Koto Patah",
+        "postal_code": "37173"
+    }
+]

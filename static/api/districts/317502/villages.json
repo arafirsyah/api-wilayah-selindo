@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3175021001",
+        "district_id": "317502",
+        "name": "Pulo Gadung",
+        "postal_code": "13260"
+    },
+    {
+        "id": "3175021002",
+        "district_id": "317502",
+        "name": "Pisangan Timur",
+        "postal_code": "13230"
+    },
+    {
+        "id": "3175021003",
+        "district_id": "317502",
+        "name": "Cipinang",
+        "postal_code": "13240"
+    },
+    {
+        "id": "3175021004",
+        "district_id": "317502",
+        "name": "Jatinegara Kaum",
+        "postal_code": "13250"
+    },
+    {
+        "id": "3175021005",
+        "district_id": "317502",
+        "name": "Rawamangun",
+        "postal_code": "13220"
+    },
+    {
+        "id": "3175021006",
+        "district_id": "317502",
+        "name": "Kayu Putih",
+        "postal_code": "13210"
+    },
+    {
+        "id": "3175021007",
+        "district_id": "317502",
+        "name": "Jati",
+        "postal_code": "13220"
+    }
+]

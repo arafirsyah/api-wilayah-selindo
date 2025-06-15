@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3401082001",
+        "district_id": "340108",
+        "name": "Hargomulyo",
+        "postal_code": "55653"
+    },
+    {
+        "id": "3401082002",
+        "district_id": "340108",
+        "name": "Hargorejo",
+        "postal_code": "55653"
+    },
+    {
+        "id": "3401082003",
+        "district_id": "340108",
+        "name": "Hargowilis",
+        "postal_code": "55653"
+    },
+    {
+        "id": "3401082004",
+        "district_id": "340108",
+        "name": "Kalirejo",
+        "postal_code": "55653"
+    },
+    {
+        "id": "3401082005",
+        "district_id": "340108",
+        "name": "Hargotirto",
+        "postal_code": "55653"
+    }
+]

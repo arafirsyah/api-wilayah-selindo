@@ -1,0 +1,38 @@
+[
+    {
+        "id": "7571031003",
+        "district_id": "757103",
+        "name": "Dembe II",
+        "postal_code": "96121"
+    },
+    {
+        "id": "7571031004",
+        "district_id": "757103",
+        "name": "Wongkaditi Timur",
+        "postal_code": "96122"
+    },
+    {
+        "id": "7571031005",
+        "district_id": "757103",
+        "name": "Wongkaditi Barat",
+        "postal_code": "96122"
+    },
+    {
+        "id": "7571031010",
+        "district_id": "757103",
+        "name": "Dulomo Selatan",
+        "postal_code": "96123"
+    },
+    {
+        "id": "7571031014",
+        "district_id": "757103",
+        "name": "Dulomo Utara",
+        "postal_code": "96123"
+    },
+    {
+        "id": "7571031015",
+        "district_id": "757103",
+        "name": "Dembe Jaya",
+        "postal_code": "96121"
+    }
+]

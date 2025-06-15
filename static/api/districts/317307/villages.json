@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3173071001",
+        "district_id": "317307",
+        "name": "Palmerah",
+        "postal_code": "11480"
+    },
+    {
+        "id": "3173071002",
+        "district_id": "317307",
+        "name": "Slipi",
+        "postal_code": "11410"
+    },
+    {
+        "id": "3173071003",
+        "district_id": "317307",
+        "name": "Kota Bambu Utara",
+        "postal_code": "11420"
+    },
+    {
+        "id": "3173071004",
+        "district_id": "317307",
+        "name": "Jatipulo",
+        "postal_code": "11430"
+    },
+    {
+        "id": "3173071005",
+        "district_id": "317307",
+        "name": "Kemanggisan",
+        "postal_code": "11480"
+    },
+    {
+        "id": "3173071006",
+        "district_id": "317307",
+        "name": "Kota Bambu Selatan",
+        "postal_code": "11420"
+    }
+]

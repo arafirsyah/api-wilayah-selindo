@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1106152001",
+        "district_id": "110615",
+        "name": "Teureubeh",
+        "postal_code": "23913"
+    },
+    {
+        "id": "1106152002",
+        "district_id": "110615",
+        "name": "Barueh",
+        "postal_code": "23911"
+    },
+    {
+        "id": "1106152003",
+        "district_id": "110615",
+        "name": "Jantho",
+        "postal_code": "23912"
+    },
+    {
+        "id": "1106152004",
+        "district_id": "110615",
+        "name": "Awek (Awee)",
+        "postal_code": "23917"
+    },
+    {
+        "id": "1106152005",
+        "district_id": "110615",
+        "name": "Data Cut",
+        "postal_code": "23917"
+    },
+    {
+        "id": "1106152006",
+        "district_id": "110615",
+        "name": "Bueng (Beung)",
+        "postal_code": "23917"
+    },
+    {
+        "id": "1106152007",
+        "district_id": "110615",
+        "name": "Weu",
+        "postal_code": "23917"
+    },
+    {
+        "id": "1106152008",
+        "district_id": "110615",
+        "name": "Jalin",
+        "postal_code": "23915"
+    },
+    {
+        "id": "1106152009",
+        "district_id": "110615",
+        "name": "Suka Tani",
+        "postal_code": "23917"
+    },
+    {
+        "id": "1106152010",
+        "district_id": "110615",
+        "name": "Cucum",
+        "postal_code": "23918"
+    },
+    {
+        "id": "1106152011",
+        "district_id": "110615",
+        "name": "Jantho Baru",
+        "postal_code": "23917"
+    },
+    {
+        "id": "1106152012",
+        "district_id": "110615",
+        "name": "Jantho Makmur",
+        "postal_code": "23917"
+    },
+    {
+        "id": "1106152013",
+        "district_id": "110615",
+        "name": "Bukit Meusara",
+        "postal_code": "23919"
+    }
+]

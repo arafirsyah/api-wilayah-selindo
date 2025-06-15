@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1206112001",
+        "district_id": "120611",
+        "name": "Payung",
+        "postal_code": ""
+    },
+    {
+        "id": "1206112004",
+        "district_id": "120611",
+        "name": "Rimo Kayu (Rimokayu)",
+        "postal_code": ""
+    },
+    {
+        "id": "1206112007",
+        "district_id": "120611",
+        "name": "Selandi",
+        "postal_code": ""
+    },
+    {
+        "id": "1206112012",
+        "district_id": "120611",
+        "name": "Batukarang",
+        "postal_code": ""
+    },
+    {
+        "id": "1206112015",
+        "district_id": "120611",
+        "name": "Gurukinayan",
+        "postal_code": ""
+    },
+    {
+        "id": "1206112017",
+        "district_id": "120611",
+        "name": "Cimbang",
+        "postal_code": ""
+    },
+    {
+        "id": "1206112025",
+        "district_id": "120611",
+        "name": "Ujung Payung",
+        "postal_code": ""
+    }
+]

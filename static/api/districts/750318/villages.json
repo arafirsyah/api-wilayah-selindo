@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7503182001",
+        "district_id": "750318",
+        "name": "Pinogu",
+        "postal_code": "96561"
+    },
+    {
+        "id": "7503182002",
+        "district_id": "750318",
+        "name": "Bangio",
+        "postal_code": "96561"
+    },
+    {
+        "id": "7503182003",
+        "district_id": "750318",
+        "name": "Dataran Hijau",
+        "postal_code": "96561"
+    },
+    {
+        "id": "7503182004",
+        "district_id": "750318",
+        "name": "Pinogu Permai",
+        "postal_code": "96561"
+    },
+    {
+        "id": "7503182005",
+        "district_id": "750318",
+        "name": "Tilonggibila",
+        "postal_code": "96561"
+    }
+]

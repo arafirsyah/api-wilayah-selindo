@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1174022005",
+        "district_id": "117402",
+        "name": "Lhok Banie",
+        "postal_code": "24415"
+    },
+    {
+        "id": "1174022006",
+        "district_id": "117402",
+        "name": "Paya Bujok Teungoh",
+        "postal_code": "24415"
+    },
+    {
+        "id": "1174022007",
+        "district_id": "117402",
+        "name": "Paya Bujok Beuramo (Beuramoe)",
+        "postal_code": "24414"
+    },
+    {
+        "id": "1174022008",
+        "district_id": "117402",
+        "name": "Simpang Lhee",
+        "postal_code": "24451"
+    },
+    {
+        "id": "1174022009",
+        "district_id": "117402",
+        "name": "Seuriget",
+        "postal_code": "24415"
+    },
+    {
+        "id": "1174022015",
+        "district_id": "117402",
+        "name": "Matang Seulimeng",
+        "postal_code": "24413"
+    },
+    {
+        "id": "1174022016",
+        "district_id": "117402",
+        "name": "Sungai Pauh",
+        "postal_code": "24410"
+    },
+    {
+        "id": "1174022017",
+        "district_id": "117402",
+        "name": "Kuala Langsa",
+        "postal_code": "24410"
+    },
+    {
+        "id": "1174022018",
+        "district_id": "117402",
+        "name": "Teulaga Tujuh (Telaga Tujuh)",
+        "postal_code": "24410"
+    },
+    {
+        "id": "1174022019",
+        "district_id": "117402",
+        "name": "Serambi Indah",
+        "postal_code": "24410"
+    },
+    {
+        "id": "1174022020",
+        "district_id": "117402",
+        "name": "Sungai Pauh Pusaka (Sungai Paus Pusaka)",
+        "postal_code": "24410"
+    },
+    {
+        "id": "1174022021",
+        "district_id": "117402",
+        "name": "Sungai Pauh Tanjong (Sungai Paus Tanjong)",
+        "postal_code": "24410"
+    },
+    {
+        "id": "1174022022",
+        "district_id": "117402",
+        "name": "Sungai Pauh Firdaus (Sungai Paus Firdaus)",
+        "postal_code": "24410"
+    }
+]

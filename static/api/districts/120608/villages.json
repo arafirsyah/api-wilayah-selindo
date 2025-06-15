@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1206081019",
+        "district_id": "120608",
+        "name": "Tiga Binanga",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082001",
+        "district_id": "120608",
+        "name": "Gunung",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082002",
+        "district_id": "120608",
+        "name": "Kem Kem",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082003",
+        "district_id": "120608",
+        "name": "Pertumbuken",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082004",
+        "district_id": "120608",
+        "name": "Kuala",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082005",
+        "district_id": "120608",
+        "name": "Limang",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082006",
+        "district_id": "120608",
+        "name": "Perbesi",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082007",
+        "district_id": "120608",
+        "name": "Lau Kapur",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082008",
+        "district_id": "120608",
+        "name": "Kuta Bangun",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082009",
+        "district_id": "120608",
+        "name": "Kuta Raya",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082010",
+        "district_id": "120608",
+        "name": "Pergendangen",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082011",
+        "district_id": "120608",
+        "name": "Simolap",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082012",
+        "district_id": "120608",
+        "name": "Simpang Pergendangen (Perlambe)",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082013",
+        "district_id": "120608",
+        "name": "Kuta Gerat",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082014",
+        "district_id": "120608",
+        "name": "Suka Julu (Kuta Julu)",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082015",
+        "district_id": "120608",
+        "name": "Kuta Galoh (Kuta Galuh)",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082016",
+        "district_id": "120608",
+        "name": "Bunga Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082017",
+        "district_id": "120608",
+        "name": "Kutambaru Punti (Kutambaru Punti Batu Mama)",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082018",
+        "district_id": "120608",
+        "name": "Kuta Buara",
+        "postal_code": ""
+    },
+    {
+        "id": "1206082020",
+        "district_id": "120608",
+        "name": "Batumamak (Batumanak)",
+        "postal_code": ""
+    }
+]

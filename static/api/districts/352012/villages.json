@@ -1,0 +1,86 @@
+[
+    {
+        "id": "3520121005",
+        "district_id": "352012",
+        "name": "Mangge",
+        "postal_code": ""
+    },
+    {
+        "id": "3520121006",
+        "district_id": "352012",
+        "name": "Tebon",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122001",
+        "district_id": "352012",
+        "name": "Bogorejo",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122002",
+        "district_id": "352012",
+        "name": "Banjarejo",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122003",
+        "district_id": "352012",
+        "name": "Karangsono",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122004",
+        "district_id": "352012",
+        "name": "Purwodadi",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122007",
+        "district_id": "352012",
+        "name": "Manjung",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122008",
+        "district_id": "352012",
+        "name": "Ngumpul",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122009",
+        "district_id": "352012",
+        "name": "Panggung",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122010",
+        "district_id": "352012",
+        "name": "Blaran",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122011",
+        "district_id": "352012",
+        "name": "Jonggrang",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122012",
+        "district_id": "352012",
+        "name": "Rejomulyo",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122013",
+        "district_id": "352012",
+        "name": "Bangunasri",
+        "postal_code": ""
+    },
+    {
+        "id": "3520122014",
+        "district_id": "352012",
+        "name": "Klagen",
+        "postal_code": ""
+    }
+]

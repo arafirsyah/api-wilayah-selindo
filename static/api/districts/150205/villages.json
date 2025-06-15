@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1502051002",
+        "district_id": "150205",
+        "name": "Dusun Baru",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502051003",
+        "district_id": "150205",
+        "name": "Pasar Rantau Panjang",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502051005",
+        "district_id": "150205",
+        "name": "Kampung Baruh",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502051020",
+        "district_id": "150205",
+        "name": "Mampun",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502051036",
+        "district_id": "150205",
+        "name": "Pasar Baru Rantau",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502052007",
+        "district_id": "150205",
+        "name": "Kandang",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502052008",
+        "district_id": "150205",
+        "name": "Koto Rayo",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502052011",
+        "district_id": "150205",
+        "name": "Tanjung Ilir",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502052014",
+        "district_id": "150205",
+        "name": "Beluran Panjang (Buluran)",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502052015",
+        "district_id": "150205",
+        "name": "Seling",
+        "postal_code": "37350"
+    },
+    {
+        "id": "1502052035",
+        "district_id": "150205",
+        "name": "Lubuk Napal",
+        "postal_code": "37350"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5107072001",
+        "district_id": "510707",
+        "name": "Muncan",
+        "postal_code": "80862"
+    },
+    {
+        "id": "5107072002",
+        "district_id": "510707",
+        "name": "Selat",
+        "postal_code": "80862"
+    },
+    {
+        "id": "5107072003",
+        "district_id": "510707",
+        "name": "Duda",
+        "postal_code": "80862"
+    },
+    {
+        "id": "5107072004",
+        "district_id": "510707",
+        "name": "Sebudi",
+        "postal_code": "80862"
+    },
+    {
+        "id": "5107072005",
+        "district_id": "510707",
+        "name": "Duda Utara",
+        "postal_code": "80862"
+    },
+    {
+        "id": "5107072006",
+        "district_id": "510707",
+        "name": "Duda Timur",
+        "postal_code": "80862"
+    },
+    {
+        "id": "5107072007",
+        "district_id": "510707",
+        "name": "Pering Sari",
+        "postal_code": "80862"
+    },
+    {
+        "id": "5107072008",
+        "district_id": "510707",
+        "name": "Amerta Bhuana",
+        "postal_code": "80862"
+    }
+]

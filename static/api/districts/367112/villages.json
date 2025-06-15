@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3671121001",
+        "district_id": "367112",
+        "name": "Karang Tengah",
+        "postal_code": "15157"
+    },
+    {
+        "id": "3671121002",
+        "district_id": "367112",
+        "name": "Karang Mulya",
+        "postal_code": "15157"
+    },
+    {
+        "id": "3671121003",
+        "district_id": "367112",
+        "name": "Pondok Bahar",
+        "postal_code": "15159"
+    },
+    {
+        "id": "3671121004",
+        "district_id": "367112",
+        "name": "Pondok Pucung",
+        "postal_code": "15158"
+    },
+    {
+        "id": "3671121005",
+        "district_id": "367112",
+        "name": "Karang Timur",
+        "postal_code": "15157"
+    },
+    {
+        "id": "3671121006",
+        "district_id": "367112",
+        "name": "Padurenan (Pedurenan)",
+        "postal_code": "15159"
+    },
+    {
+        "id": "3671121007",
+        "district_id": "367112",
+        "name": "Parung Jaya",
+        "postal_code": "15159"
+    }
+]

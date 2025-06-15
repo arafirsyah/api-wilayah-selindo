@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3671101001",
+        "district_id": "367110",
+        "name": "Neglasari",
+        "postal_code": "15129"
+    },
+    {
+        "id": "3671101002",
+        "district_id": "367110",
+        "name": "Karang Sari",
+        "postal_code": "15121"
+    },
+    {
+        "id": "3671101003",
+        "district_id": "367110",
+        "name": "Selapajang Jaya",
+        "postal_code": "15127"
+    },
+    {
+        "id": "3671101004",
+        "district_id": "367110",
+        "name": "Kedaung Wetan",
+        "postal_code": "15128"
+    },
+    {
+        "id": "3671101005",
+        "district_id": "367110",
+        "name": "Mekarsari (Mekar Sari)",
+        "postal_code": "15129"
+    },
+    {
+        "id": "3671101006",
+        "district_id": "367110",
+        "name": "Karang Anyar",
+        "postal_code": "15121"
+    },
+    {
+        "id": "3671101007",
+        "district_id": "367110",
+        "name": "Kedaung Baru",
+        "postal_code": "15128"
+    }
+]

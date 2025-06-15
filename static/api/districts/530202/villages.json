@@ -1,0 +1,44 @@
+[
+    {
+        "id": "5302022001",
+        "district_id": "530202",
+        "name": "Biloto",
+        "postal_code": ""
+    },
+    {
+        "id": "5302022003",
+        "district_id": "530202",
+        "name": "Kesetnana",
+        "postal_code": ""
+    },
+    {
+        "id": "5302022006",
+        "district_id": "530202",
+        "name": "Tuasene",
+        "postal_code": ""
+    },
+    {
+        "id": "5302022008",
+        "district_id": "530202",
+        "name": "Oinlasi",
+        "postal_code": ""
+    },
+    {
+        "id": "5302022010",
+        "district_id": "530202",
+        "name": "Bisene",
+        "postal_code": ""
+    },
+    {
+        "id": "5302022012",
+        "district_id": "530202",
+        "name": "Noinbila",
+        "postal_code": ""
+    },
+    {
+        "id": "5302022013",
+        "district_id": "530202",
+        "name": "Bikekneno",
+        "postal_code": ""
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1502212001",
+        "district_id": "150221",
+        "name": "Tanjung Rejo",
+        "postal_code": "37359"
+    },
+    {
+        "id": "1502212002",
+        "district_id": "150221",
+        "name": "Sumber Agung",
+        "postal_code": "37359"
+    },
+    {
+        "id": "1502212003",
+        "district_id": "150221",
+        "name": "Suko Rejo",
+        "postal_code": "37359"
+    },
+    {
+        "id": "1502212004",
+        "district_id": "150221",
+        "name": "Sido Rukun",
+        "postal_code": "37359"
+    },
+    {
+        "id": "1502212005",
+        "district_id": "150221",
+        "name": "Lubuk Bumbun",
+        "postal_code": "37359"
+    },
+    {
+        "id": "1502212006",
+        "district_id": "150221",
+        "name": "Tegal Rejo",
+        "postal_code": "37359"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "2105061005",
+        "district_id": "210506",
+        "name": "Letung",
+        "postal_code": ""
+    },
+    {
+        "id": "2105062001",
+        "district_id": "210506",
+        "name": "Mampok",
+        "postal_code": ""
+    },
+    {
+        "id": "2105062002",
+        "district_id": "210506",
+        "name": "Rewak",
+        "postal_code": ""
+    },
+    {
+        "id": "2105062006",
+        "district_id": "210506",
+        "name": "Air Biru",
+        "postal_code": ""
+    },
+    {
+        "id": "2105062008",
+        "district_id": "210506",
+        "name": "Batu Berapit",
+        "postal_code": ""
+    },
+    {
+        "id": "2105062009",
+        "district_id": "210506",
+        "name": "Landak",
+        "postal_code": ""
+    }
+]

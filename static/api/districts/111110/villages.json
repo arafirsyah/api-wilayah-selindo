@@ -1,0 +1,278 @@
+[
+    {
+        "id": "1111102001",
+        "district_id": "111110",
+        "name": "Jangka Mesjid",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102002",
+        "district_id": "111110",
+        "name": "Jangka Keutapang",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102003",
+        "district_id": "111110",
+        "name": "Jangka Alue U",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102004",
+        "district_id": "111110",
+        "name": "Jangka Alue",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102005",
+        "district_id": "111110",
+        "name": "Jangka Alue Bie",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102006",
+        "district_id": "111110",
+        "name": "Gampong Meulinteung",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102007",
+        "district_id": "111110",
+        "name": "Paya Bieng",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102008",
+        "district_id": "111110",
+        "name": "Meunasah Krueng",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102009",
+        "district_id": "111110",
+        "name": "Barat Lanyan",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102010",
+        "district_id": "111110",
+        "name": "Lamkuta",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102011",
+        "district_id": "111110",
+        "name": "Geundot",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102012",
+        "district_id": "111110",
+        "name": "Lueng",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102013",
+        "district_id": "111110",
+        "name": "Kambuk (Kambuek)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102014",
+        "district_id": "111110",
+        "name": "Ruseb Ara",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102015",
+        "district_id": "111110",
+        "name": "Ruseb Dayah",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102016",
+        "district_id": "111110",
+        "name": "Bada Barat",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102017",
+        "district_id": "111110",
+        "name": "Bada Timu (Bada Timur)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102018",
+        "district_id": "111110",
+        "name": "Tanjongan",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102019",
+        "district_id": "111110",
+        "name": "Tanah Anoe (Tanoh Anoe)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102020",
+        "district_id": "111110",
+        "name": "Lhok Bugeng",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102021",
+        "district_id": "111110",
+        "name": "Lampoh Rayeuk",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102022",
+        "district_id": "111110",
+        "name": "Pulo Reudeup",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102023",
+        "district_id": "111110",
+        "name": "Pulo Seuna",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102024",
+        "district_id": "111110",
+        "name": "Linggong",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102025",
+        "district_id": "111110",
+        "name": "Pulo Blang",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102026",
+        "district_id": "111110",
+        "name": "Pulo Iboih (Pulo Iboh \/ Iboeh)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102027",
+        "district_id": "111110",
+        "name": "Abeuk Jaloh",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102028",
+        "district_id": "111110",
+        "name": "Pulo U",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102029",
+        "district_id": "111110",
+        "name": "Alue Buya",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102030",
+        "district_id": "111110",
+        "name": "Alue Buya Pasi",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102031",
+        "district_id": "111110",
+        "name": "Pante Sukon",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102032",
+        "district_id": "111110",
+        "name": "Pante Paku",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102033",
+        "district_id": "111110",
+        "name": "Bugak Blang",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102034",
+        "district_id": "111110",
+        "name": "Bugak Mesjid",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102035",
+        "district_id": "111110",
+        "name": "Bugak Krueng Matee (Bugak Krueng Mate)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102036",
+        "district_id": "111110",
+        "name": "Bugak Krueng",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102037",
+        "district_id": "111110",
+        "name": "Pante Ranub",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102038",
+        "district_id": "111110",
+        "name": "Pulo Pineung Meunasah Dua (II)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102039",
+        "district_id": "111110",
+        "name": "Punjot",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102040",
+        "district_id": "111110",
+        "name": "Bugeng",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102041",
+        "district_id": "111110",
+        "name": "Alue Kuta",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102042",
+        "district_id": "111110",
+        "name": "Alue Bayeu Utang",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102043",
+        "district_id": "111110",
+        "name": "Ulee Ceu (Ulee Ceue)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102044",
+        "district_id": "111110",
+        "name": "Kuala Cerape (Kuala Ceurape)",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102045",
+        "district_id": "111110",
+        "name": "Pante Peusangan",
+        "postal_code": "24261"
+    },
+    {
+        "id": "1111102046",
+        "district_id": "111110",
+        "name": "Alue Bie Pusong",
+        "postal_code": "24261"
+    }
+]

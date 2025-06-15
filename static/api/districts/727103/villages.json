@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7271031001",
+        "district_id": "727103",
+        "name": "Tatura Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "7271031002",
+        "district_id": "727103",
+        "name": "Birobuli Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "7271031003",
+        "district_id": "727103",
+        "name": "Petobo",
+        "postal_code": ""
+    },
+    {
+        "id": "7271031011",
+        "district_id": "727103",
+        "name": "Birobuli Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "7271031012",
+        "district_id": "727103",
+        "name": "Tatura Selatan",
+        "postal_code": ""
+    }
+]

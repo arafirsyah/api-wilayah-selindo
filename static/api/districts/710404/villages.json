@@ -1,0 +1,50 @@
+[
+    {
+        "id": "7104042006",
+        "district_id": "710404",
+        "name": "Essang",
+        "postal_code": ""
+    },
+    {
+        "id": "7104042007",
+        "district_id": "710404",
+        "name": "Lalue",
+        "postal_code": ""
+    },
+    {
+        "id": "7104042008",
+        "district_id": "710404",
+        "name": "Bulude",
+        "postal_code": ""
+    },
+    {
+        "id": "7104042016",
+        "district_id": "710404",
+        "name": "Maririk",
+        "postal_code": ""
+    },
+    {
+        "id": "7104042018",
+        "district_id": "710404",
+        "name": "Essang Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "7104042019",
+        "district_id": "710404",
+        "name": "Bulude Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "7104042020",
+        "district_id": "710404",
+        "name": "Lalue Tengah",
+        "postal_code": ""
+    },
+    {
+        "id": "7104042021",
+        "district_id": "710404",
+        "name": "Lalue Utara",
+        "postal_code": ""
+    }
+]

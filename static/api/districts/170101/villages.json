@@ -1,0 +1,116 @@
+[
+    {
+        "id": "1701012001",
+        "district_id": "170101",
+        "name": "Batu Ampar",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012002",
+        "district_id": "170101",
+        "name": "Rantau Sialang",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012003",
+        "district_id": "170101",
+        "name": "Bumi Agung",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012004",
+        "district_id": "170101",
+        "name": "Palak Siring",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012005",
+        "district_id": "170101",
+        "name": "Keban Agung I",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012006",
+        "district_id": "170101",
+        "name": "Keban Agung II",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012007",
+        "district_id": "170101",
+        "name": "Tanjung Alam",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012008",
+        "district_id": "170101",
+        "name": "Tanjung Negara",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012009",
+        "district_id": "170101",
+        "name": "Keban Agung III",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012010",
+        "district_id": "170101",
+        "name": "Suka Nanti (Tanjung Nanti \/ Sukananti)",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012011",
+        "district_id": "170101",
+        "name": "Muara Tiga",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012012",
+        "district_id": "170101",
+        "name": "Tanjung Besar",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012013",
+        "district_id": "170101",
+        "name": "Pajar Bulan",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012014",
+        "district_id": "170101",
+        "name": "Durian Sebatang",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012015",
+        "district_id": "170101",
+        "name": "Lawang Agung",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012027",
+        "district_id": "170101",
+        "name": "Nanti Agung",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012028",
+        "district_id": "170101",
+        "name": "Karang Agung",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012029",
+        "district_id": "170101",
+        "name": "Lubuk Resam",
+        "postal_code": "38553"
+    },
+    {
+        "id": "1701012030",
+        "district_id": "170101",
+        "name": "Muara Tiga Ilir",
+        "postal_code": "38553"
+    }
+]

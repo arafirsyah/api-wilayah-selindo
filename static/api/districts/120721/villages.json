@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1207212001",
+        "district_id": "120721",
+        "name": "Lantasan Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "1207212002",
+        "district_id": "120721",
+        "name": "Patumbak I (Patumbak Satu)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207212003",
+        "district_id": "120721",
+        "name": "Patumbak II (Patumbak Dua)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207212004",
+        "district_id": "120721",
+        "name": "Lantasan Lama",
+        "postal_code": ""
+    },
+    {
+        "id": "1207212005",
+        "district_id": "120721",
+        "name": "Sigara Gara",
+        "postal_code": ""
+    },
+    {
+        "id": "1207212006",
+        "district_id": "120721",
+        "name": "Marendal I (Marindal Satu)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207212007",
+        "district_id": "120721",
+        "name": "Marindal II (Marindal Dua)",
+        "postal_code": ""
+    },
+    {
+        "id": "1207212008",
+        "district_id": "120721",
+        "name": "Patumbak Kampung",
+        "postal_code": ""
+    }
+]

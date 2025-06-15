@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1110162001",
+        "district_id": "111016",
+        "name": "Haloban",
+        "postal_code": "24790"
+    },
+    {
+        "id": "1110162002",
+        "district_id": "111016",
+        "name": "Asantola",
+        "postal_code": "24790"
+    },
+    {
+        "id": "1110162003",
+        "district_id": "111016",
+        "name": "Ujung Sialit",
+        "postal_code": "24790"
+    },
+    {
+        "id": "1110162004",
+        "district_id": "111016",
+        "name": "Suka Makmur",
+        "postal_code": "24790"
+    }
+]

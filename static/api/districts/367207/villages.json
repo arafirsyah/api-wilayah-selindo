@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3672071001",
+        "district_id": "367207",
+        "name": "Ramanuju",
+        "postal_code": "42431"
+    },
+    {
+        "id": "3672071002",
+        "district_id": "367207",
+        "name": "Kotabumi",
+        "postal_code": "42434"
+    },
+    {
+        "id": "3672071003",
+        "district_id": "367207",
+        "name": "Kebon Dalem (Kebondalem)",
+        "postal_code": "42433"
+    },
+    {
+        "id": "3672071004",
+        "district_id": "367207",
+        "name": "Purwakarta",
+        "postal_code": "42437"
+    },
+    {
+        "id": "3672071005",
+        "district_id": "367207",
+        "name": "Tegal Bunder",
+        "postal_code": "42437"
+    },
+    {
+        "id": "3672071006",
+        "district_id": "367207",
+        "name": "Pabean",
+        "postal_code": "42437"
+    }
+]

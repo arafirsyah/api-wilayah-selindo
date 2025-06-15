@@ -1,0 +1,52 @@
+[
+    {
+        "id": "820201",
+        "regency_id": "8202",
+        "name": "Weda"
+    },
+    {
+        "id": "820202",
+        "regency_id": "8202",
+        "name": "Patani"
+    },
+    {
+        "id": "820203",
+        "regency_id": "8202",
+        "name": "Pulau Gebe"
+    },
+    {
+        "id": "820204",
+        "regency_id": "8202",
+        "name": "Weda Utara"
+    },
+    {
+        "id": "820205",
+        "regency_id": "8202",
+        "name": "Weda Selatan"
+    },
+    {
+        "id": "820206",
+        "regency_id": "8202",
+        "name": "Patani Utara"
+    },
+    {
+        "id": "820207",
+        "regency_id": "8202",
+        "name": "Weda Tengah"
+    },
+    {
+        "id": "820208",
+        "regency_id": "8202",
+        "name": "Patani Barat"
+    },
+    {
+        "id": "820209",
+        "regency_id": "8202",
+        "name": "Weda Timur"
+    },
+    {
+        "id": "820210",
+        "regency_id": "8202",
+        "name": "Patani Timur"
+    }
+]

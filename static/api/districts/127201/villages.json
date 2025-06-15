@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1272011001",
+        "district_id": "127201",
+        "name": "Kebun Sayur",
+        "postal_code": ""
+    },
+    {
+        "id": "1272011002",
+        "district_id": "127201",
+        "name": "Tomuan",
+        "postal_code": ""
+    },
+    {
+        "id": "1272011003",
+        "district_id": "127201",
+        "name": "Pahlawan",
+        "postal_code": ""
+    },
+    {
+        "id": "1272011004",
+        "district_id": "127201",
+        "name": "Asuhan",
+        "postal_code": ""
+    },
+    {
+        "id": "1272011005",
+        "district_id": "127201",
+        "name": "Merdeka",
+        "postal_code": ""
+    },
+    {
+        "id": "1272011006",
+        "district_id": "127201",
+        "name": "Pardomuan",
+        "postal_code": ""
+    },
+    {
+        "id": "1272011007",
+        "district_id": "127201",
+        "name": "Siopat Suhu",
+        "postal_code": ""
+    }
+]

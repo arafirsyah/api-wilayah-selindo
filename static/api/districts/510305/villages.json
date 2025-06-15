@@ -1,0 +1,38 @@
+[
+    {
+        "id": "5103051004",
+        "district_id": "510305",
+        "name": "Benoa",
+        "postal_code": "80362"
+    },
+    {
+        "id": "5103051005",
+        "district_id": "510305",
+        "name": "Tanjung Benoa",
+        "postal_code": "80362"
+    },
+    {
+        "id": "5103051006",
+        "district_id": "510305",
+        "name": "Jimbaran",
+        "postal_code": "80362"
+    },
+    {
+        "id": "5103052001",
+        "district_id": "510305",
+        "name": "Pecatu",
+        "postal_code": "80362"
+    },
+    {
+        "id": "5103052002",
+        "district_id": "510305",
+        "name": "Ungasan",
+        "postal_code": "80362"
+    },
+    {
+        "id": "5103052003",
+        "district_id": "510305",
+        "name": "Kutuh",
+        "postal_code": "80362"
+    }
+]

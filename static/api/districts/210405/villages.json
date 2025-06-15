@@ -1,0 +1,62 @@
+[
+    {
+        "id": "2104051007",
+        "district_id": "210405",
+        "name": "Pancur",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052001",
+        "district_id": "210405",
+        "name": "Bukit Harapan",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052002",
+        "district_id": "210405",
+        "name": "Duara",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052003",
+        "district_id": "210405",
+        "name": "Limbung",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052004",
+        "district_id": "210405",
+        "name": "Resun",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052005",
+        "district_id": "210405",
+        "name": "Sekanah",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052008",
+        "district_id": "210405",
+        "name": "Linau",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052009",
+        "district_id": "210405",
+        "name": "Sungaibesar (Sungai Besar)",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052010",
+        "district_id": "210405",
+        "name": "Rantau Panjang",
+        "postal_code": ""
+    },
+    {
+        "id": "2104052012",
+        "district_id": "210405",
+        "name": "Resun Pesisir",
+        "postal_code": ""
+    }
+]

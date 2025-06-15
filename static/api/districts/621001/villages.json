@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6210011001",
+        "district_id": "621001",
+        "name": "Sepang Simin",
+        "postal_code": ""
+    },
+    {
+        "id": "6210012002",
+        "district_id": "621001",
+        "name": "Sepang Kota",
+        "postal_code": ""
+    },
+    {
+        "id": "6210012003",
+        "district_id": "621001",
+        "name": "Tewai Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "6210012004",
+        "district_id": "621001",
+        "name": "Tanjung Karitak",
+        "postal_code": ""
+    },
+    {
+        "id": "6210012011",
+        "district_id": "621001",
+        "name": "Pamatang Limau (Pematang Limau)",
+        "postal_code": ""
+    },
+    {
+        "id": "6210012012",
+        "district_id": "621001",
+        "name": "Tampelas",
+        "postal_code": ""
+    },
+    {
+        "id": "6210012014",
+        "district_id": "621001",
+        "name": "Rabauh",
+        "postal_code": ""
+    }
+]

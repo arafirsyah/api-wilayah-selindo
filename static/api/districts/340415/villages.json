@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3404152001",
+        "district_id": "340415",
+        "name": "Bangunkerto (Bangun Kerto)",
+        "postal_code": "55551"
+    },
+    {
+        "id": "3404152002",
+        "district_id": "340415",
+        "name": "Donokerto",
+        "postal_code": "55551"
+    },
+    {
+        "id": "3404152003",
+        "district_id": "340415",
+        "name": "Girikerto (Giri Kerto)",
+        "postal_code": "55551"
+    },
+    {
+        "id": "3404152004",
+        "district_id": "340415",
+        "name": "Wonokerto (Wono Kerto)",
+        "postal_code": "55551"
+    }
+]

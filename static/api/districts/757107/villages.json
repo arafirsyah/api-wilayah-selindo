@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7571071001",
+        "district_id": "757107",
+        "name": "Tanggikiki",
+        "postal_code": "96126"
+    },
+    {
+        "id": "7571071002",
+        "district_id": "757107",
+        "name": "Tapa",
+        "postal_code": "96125"
+    },
+    {
+        "id": "7571071003",
+        "district_id": "757107",
+        "name": "Bulotadaa Barat",
+        "postal_code": "96124"
+    },
+    {
+        "id": "7571071004",
+        "district_id": "757107",
+        "name": "Bulotadaa Timur",
+        "postal_code": "96121"
+    },
+    {
+        "id": "7571071005",
+        "district_id": "757107",
+        "name": "Molosifat U (Molosipat U)",
+        "postal_code": "96126"
+    }
+]

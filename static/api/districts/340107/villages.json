@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3401072001",
+        "district_id": "340107",
+        "name": "Tawangsari",
+        "postal_code": "55652"
+    },
+    {
+        "id": "3401072002",
+        "district_id": "340107",
+        "name": "Karangsari",
+        "postal_code": "55652"
+    },
+    {
+        "id": "3401072003",
+        "district_id": "340107",
+        "name": "Kedungsari",
+        "postal_code": "55652"
+    },
+    {
+        "id": "3401072004",
+        "district_id": "340107",
+        "name": "Margosari",
+        "postal_code": "55652"
+    },
+    {
+        "id": "3401072005",
+        "district_id": "340107",
+        "name": "Pengasih",
+        "postal_code": "55652"
+    },
+    {
+        "id": "3401072006",
+        "district_id": "340107",
+        "name": "Sendangsari",
+        "postal_code": "55652"
+    },
+    {
+        "id": "3401072007",
+        "district_id": "340107",
+        "name": "Sidomulyo",
+        "postal_code": "55652"
+    }
+]

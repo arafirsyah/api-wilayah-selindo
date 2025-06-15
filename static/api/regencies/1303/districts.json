@@ -1,0 +1,42 @@
+[
+    {
+        "id": "130303",
+        "regency_id": "1303",
+        "name": "Tanjung Gadang"
+    },
+    {
+        "id": "130304",
+        "regency_id": "1303",
+        "name": "Sijunjung"
+    },
+    {
+        "id": "130305",
+        "regency_id": "1303",
+        "name": "IV Nagari"
+    },
+    {
+        "id": "130306",
+        "regency_id": "1303",
+        "name": "Kamang Baru"
+    },
+    {
+        "id": "130307",
+        "regency_id": "1303",
+        "name": "Lubuak Tarok"
+    },
+    {
+        "id": "130308",
+        "regency_id": "1303",
+        "name": "Koto VII"
+    },
+    {
+        "id": "130309",
+        "regency_id": "1303",
+        "name": "Sumpur Kudus"
+    },
+    {
+        "id": "130310",
+        "regency_id": "1303",
+        "name": "Kupitan"
+    }
+]

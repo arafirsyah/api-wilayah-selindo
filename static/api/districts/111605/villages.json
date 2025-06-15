@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1116052001",
+        "district_id": "111605",
+        "name": "Kota Kualasimpang (Kota Kuala Simpang)",
+        "postal_code": "24475"
+    },
+    {
+        "id": "1116052002",
+        "district_id": "111605",
+        "name": "Perdamaian",
+        "postal_code": "24475"
+    },
+    {
+        "id": "1116052003",
+        "district_id": "111605",
+        "name": "Sriwijaya",
+        "postal_code": "24475"
+    },
+    {
+        "id": "1116052004",
+        "district_id": "111605",
+        "name": "Bukit Tempurung",
+        "postal_code": "24475"
+    },
+    {
+        "id": "1116052005",
+        "district_id": "111605",
+        "name": "Kota Lintang",
+        "postal_code": "24475"
+    }
+]

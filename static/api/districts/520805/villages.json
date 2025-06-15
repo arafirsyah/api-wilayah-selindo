@@ -1,0 +1,32 @@
+[
+    {
+        "id": "5208052001",
+        "district_id": "520805",
+        "name": "Pemenang Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "5208052002",
+        "district_id": "520805",
+        "name": "Pemenang Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "5208052003",
+        "district_id": "520805",
+        "name": "Gili Indah",
+        "postal_code": ""
+    },
+    {
+        "id": "5208052004",
+        "district_id": "520805",
+        "name": "Malaka",
+        "postal_code": ""
+    },
+    {
+        "id": "5208052005",
+        "district_id": "520805",
+        "name": "Menggala",
+        "postal_code": ""
+    }
+]

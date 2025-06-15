@@ -1,0 +1,26 @@
+[
+    {
+        "id": "2105052001",
+        "district_id": "210505",
+        "name": "Kuala Maras",
+        "postal_code": ""
+    },
+    {
+        "id": "2105052002",
+        "district_id": "210505",
+        "name": "Ulu Maras",
+        "postal_code": ""
+    },
+    {
+        "id": "2105052003",
+        "district_id": "210505",
+        "name": "Bukit Padi",
+        "postal_code": ""
+    },
+    {
+        "id": "2105052004",
+        "district_id": "210505",
+        "name": "Genting Pulur",
+        "postal_code": ""
+    }
+]

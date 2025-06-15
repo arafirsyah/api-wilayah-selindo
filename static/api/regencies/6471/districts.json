@@ -1,0 +1,32 @@
+[
+    {
+        "id": "647101",
+        "regency_id": "6471",
+        "name": "Balikpapan Timur"
+    },
+    {
+        "id": "647102",
+        "regency_id": "6471",
+        "name": "Balikpapan Barat"
+    },
+    {
+        "id": "647103",
+        "regency_id": "6471",
+        "name": "Balikpapan Utara"
+    },
+    {
+        "id": "647104",
+        "regency_id": "6471",
+        "name": "Balikpapan Tengah"
+    },
+    {
+        "id": "647105",
+        "regency_id": "6471",
+        "name": "Balikpapan Selatan"
+    },
+    {
+        "id": "647106",
+        "regency_id": "6471",
+        "name": "Balikpapan Kota"
+    }
+]

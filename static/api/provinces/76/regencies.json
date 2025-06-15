@@ -1,0 +1,32 @@
+[
+    {
+        "id": "7601",
+        "name": "Pasangkayu (Mamuju Utara)",
+        "province_id": "76"
+    },
+    {
+        "id": "7602",
+        "name": "Mamuju",
+        "province_id": "76"
+    },
+    {
+        "id": "7603",
+        "name": "Mamasa",
+        "province_id": "76"
+    },
+    {
+        "id": "7604",
+        "name": "Polewali Mandar",
+        "province_id": "76"
+    },
+    {
+        "id": "7605",
+        "name": "Majene",
+        "province_id": "76"
+    },
+    {
+        "id": "7606",
+        "name": "Mamuju Tengah",
+        "province_id": "76"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1508111001",
+        "district_id": "150811",
+        "name": "Manggis",
+        "postal_code": "37211"
+    },
+    {
+        "id": "1508111003",
+        "district_id": "150811",
+        "name": "Bungo Taman Agung",
+        "postal_code": "37211"
+    },
+    {
+        "id": "1508111004",
+        "district_id": "150811",
+        "name": "Sungai Binjai",
+        "postal_code": "37211"
+    },
+    {
+        "id": "1508112002",
+        "district_id": "150811",
+        "name": "Lubuk Benteng",
+        "postal_code": "37211"
+    },
+    {
+        "id": "1508112005",
+        "district_id": "150811",
+        "name": "Air Gemuruh",
+        "postal_code": "37211"
+    },
+    {
+        "id": "1508112006",
+        "district_id": "150811",
+        "name": "Purwo Bakti",
+        "postal_code": "37211"
+    },
+    {
+        "id": "1508112007",
+        "district_id": "150811",
+        "name": "Sarana Jaya",
+        "postal_code": "37211"
+    },
+    {
+        "id": "1508112008",
+        "district_id": "150811",
+        "name": "Teluk Panjang",
+        "postal_code": "37211"
+    }
+]

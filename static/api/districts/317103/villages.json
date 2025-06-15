@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3171031001",
+        "district_id": "317103",
+        "name": "Kemayoran",
+        "postal_code": "10620"
+    },
+    {
+        "id": "3171031002",
+        "district_id": "317103",
+        "name": "Kebon Kosong",
+        "postal_code": "10630"
+    },
+    {
+        "id": "3171031003",
+        "district_id": "317103",
+        "name": "Harapan Mulia (Harapan Mulya)",
+        "postal_code": "10640"
+    },
+    {
+        "id": "3171031004",
+        "district_id": "317103",
+        "name": "Serdang",
+        "postal_code": "10650"
+    },
+    {
+        "id": "3171031005",
+        "district_id": "317103",
+        "name": "Gunung Sahari Selatan",
+        "postal_code": "10610"
+    },
+    {
+        "id": "3171031006",
+        "district_id": "317103",
+        "name": "Cempaka Baru",
+        "postal_code": "10640"
+    },
+    {
+        "id": "3171031007",
+        "district_id": "317103",
+        "name": "Sumur Batu",
+        "postal_code": "10640"
+    },
+    {
+        "id": "3171031008",
+        "district_id": "317103",
+        "name": "Utan Panjang",
+        "postal_code": "10650"
+    }
+]

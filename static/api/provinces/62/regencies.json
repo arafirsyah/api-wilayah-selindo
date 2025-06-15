@@ -1,0 +1,72 @@
+[
+    {
+        "id": "6201",
+        "name": "Kotawaringin Barat",
+        "province_id": "62"
+    },
+    {
+        "id": "6202",
+        "name": "Kotawaringin Timur",
+        "province_id": "62"
+    },
+    {
+        "id": "6203",
+        "name": "Kapuas",
+        "province_id": "62"
+    },
+    {
+        "id": "6204",
+        "name": "Barito Selatan",
+        "province_id": "62"
+    },
+    {
+        "id": "6205",
+        "name": "Barito Utara",
+        "province_id": "62"
+    },
+    {
+        "id": "6206",
+        "name": "Katingan",
+        "province_id": "62"
+    },
+    {
+        "id": "6207",
+        "name": "Seruyan",
+        "province_id": "62"
+    },
+    {
+        "id": "6208",
+        "name": "Sukamara",
+        "province_id": "62"
+    },
+    {
+        "id": "6209",
+        "name": "Lamandau",
+        "province_id": "62"
+    },
+    {
+        "id": "6210",
+        "name": "Gunung Mas",
+        "province_id": "62"
+    },
+    {
+        "id": "6211",
+        "name": "Pulang Pisau",
+        "province_id": "62"
+    },
+    {
+        "id": "6212",
+        "name": "Murung Raya",
+        "province_id": "62"
+    },
+    {
+        "id": "6213",
+        "name": "Barito Timur",
+        "province_id": "62"
+    },
+    {
+        "id": "6271",
+        "name": "Kota Palangkaraya",
+        "province_id": "62"
+    }
+]

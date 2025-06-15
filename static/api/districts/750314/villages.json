@@ -1,0 +1,38 @@
+[
+    {
+        "id": "7503142001",
+        "district_id": "750314",
+        "name": "Mongiilo",
+        "postal_code": "96543"
+    },
+    {
+        "id": "7503142002",
+        "district_id": "750314",
+        "name": "Owata",
+        "postal_code": "96543"
+    },
+    {
+        "id": "7503142003",
+        "district_id": "750314",
+        "name": "Mongiilo Utara",
+        "postal_code": "96543"
+    },
+    {
+        "id": "7503142004",
+        "district_id": "750314",
+        "name": "Pilolaheya",
+        "postal_code": "96543"
+    },
+    {
+        "id": "7503142005",
+        "district_id": "750314",
+        "name": "Ilomata",
+        "postal_code": "96543"
+    },
+    {
+        "id": "7503142006",
+        "district_id": "750314",
+        "name": "Suka Makmur",
+        "postal_code": "96543"
+    }
+]

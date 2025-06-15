@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3601102001",
+        "district_id": "360110",
+        "name": "Mekarsari",
+        "postal_code": "42274"
+    },
+    {
+        "id": "3601102002",
+        "district_id": "360110",
+        "name": "Cijakan",
+        "postal_code": "42274"
+    },
+    {
+        "id": "3601102003",
+        "district_id": "360110",
+        "name": "Geredug",
+        "postal_code": "42274"
+    },
+    {
+        "id": "3601102004",
+        "district_id": "360110",
+        "name": "Bojong",
+        "postal_code": "42274"
+    },
+    {
+        "id": "3601102005",
+        "district_id": "360110",
+        "name": "Banyumas",
+        "postal_code": "42274"
+    },
+    {
+        "id": "3601102006",
+        "district_id": "360110",
+        "name": "Citumenggung",
+        "postal_code": "42274"
+    },
+    {
+        "id": "3601102007",
+        "district_id": "360110",
+        "name": "Manggungjaya",
+        "postal_code": "42274"
+    },
+    {
+        "id": "3601102008",
+        "district_id": "360110",
+        "name": "Cahayamekar",
+        "postal_code": "42274"
+    }
+]

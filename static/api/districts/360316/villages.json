@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3603161001",
+        "district_id": "360316",
+        "name": "Sepatan",
+        "postal_code": "15520"
+    },
+    {
+        "id": "3603162002",
+        "district_id": "360316",
+        "name": "Karet",
+        "postal_code": "15520"
+    },
+    {
+        "id": "3603162003",
+        "district_id": "360316",
+        "name": "Kayu Agung",
+        "postal_code": "15520"
+    },
+    {
+        "id": "3603162004",
+        "district_id": "360316",
+        "name": "Kayu Bongkok",
+        "postal_code": "15520"
+    },
+    {
+        "id": "3603162008",
+        "district_id": "360316",
+        "name": "Pondok Jaya",
+        "postal_code": "15520"
+    },
+    {
+        "id": "3603162011",
+        "district_id": "360316",
+        "name": "Pisangan Jaya",
+        "postal_code": "15520"
+    },
+    {
+        "id": "3603162012",
+        "district_id": "360316",
+        "name": "Mekar Jaya",
+        "postal_code": "15520"
+    },
+    {
+        "id": "3603162015",
+        "district_id": "360316",
+        "name": "Sarakan",
+        "postal_code": "15520"
+    }
+]

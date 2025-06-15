@@ -1,0 +1,97 @@
+[
+    {
+        "id": "720201",
+        "regency_id": "7202",
+        "name": "Poso Kota"
+    },
+    {
+        "id": "720202",
+        "regency_id": "7202",
+        "name": "Poso Pesisir"
+    },
+    {
+        "id": "720203",
+        "regency_id": "7202",
+        "name": "Lage"
+    },
+    {
+        "id": "720204",
+        "regency_id": "7202",
+        "name": "Pamona Puselemba"
+    },
+    {
+        "id": "720205",
+        "regency_id": "7202",
+        "name": "Pamona Timur"
+    },
+    {
+        "id": "720206",
+        "regency_id": "7202",
+        "name": "Pamona Selatan"
+    },
+    {
+        "id": "720207",
+        "regency_id": "7202",
+        "name": "Lore Utara"
+    },
+    {
+        "id": "720208",
+        "regency_id": "7202",
+        "name": "Lore Tengah"
+    },
+    {
+        "id": "720209",
+        "regency_id": "7202",
+        "name": "Lore Selatan"
+    },
+    {
+        "id": "720218",
+        "regency_id": "7202",
+        "name": "Poso Pesisir Utara"
+    },
+    {
+        "id": "720219",
+        "regency_id": "7202",
+        "name": "Poso Pesisir Selatan"
+    },
+    {
+        "id": "720220",
+        "regency_id": "7202",
+        "name": "Pamona Barat"
+    },
+    {
+        "id": "720221",
+        "regency_id": "7202",
+        "name": "Poso Kota Selatan"
+    },
+    {
+        "id": "720222",
+        "regency_id": "7202",
+        "name": "Poso Kota Utara"
+    },
+    {
+        "id": "720223",
+        "regency_id": "7202",
+        "name": "Lore Barat"
+    },
+    {
+        "id": "720224",
+        "regency_id": "7202",
+        "name": "Lore Timur"
+    },
+    {
+        "id": "720225",
+        "regency_id": "7202",
+        "name": "Lore Piore"
+    },
+    {
+        "id": "720226",
+        "regency_id": "7202",
+        "name": "Pamona Tenggara"
+    },
+    {
+        "id": "720227",
+        "regency_id": "7202",
+        "name": "Pamona Utara"
+    }
+]

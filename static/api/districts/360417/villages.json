@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3604172001",
+        "district_id": "360417",
+        "name": "Carenang",
+        "postal_code": "42195"
+    },
+    {
+        "id": "3604172002",
+        "district_id": "360417",
+        "name": "Pamanuk",
+        "postal_code": "42195"
+    },
+    {
+        "id": "3604172003",
+        "district_id": "360417",
+        "name": "Mandaya",
+        "postal_code": "42195"
+    },
+    {
+        "id": "3604172004",
+        "district_id": "360417",
+        "name": "Teras",
+        "postal_code": "42195"
+    },
+    {
+        "id": "3604172006",
+        "district_id": "360417",
+        "name": "Ragasmasigit (Ragasmesigit)",
+        "postal_code": "42195"
+    },
+    {
+        "id": "3604172007",
+        "district_id": "360417",
+        "name": "Walikukun",
+        "postal_code": "42195"
+    },
+    {
+        "id": "3604172009",
+        "district_id": "360417",
+        "name": "Panenjoan",
+        "postal_code": "42195"
+    },
+    {
+        "id": "3604172010",
+        "district_id": "360417",
+        "name": "Mekarsari",
+        "postal_code": "42195"
+    }
+]

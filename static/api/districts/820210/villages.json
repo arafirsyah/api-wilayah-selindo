@@ -1,0 +1,38 @@
+[
+    {
+        "id": "8202102001",
+        "district_id": "820210",
+        "name": "Sakam",
+        "postal_code": ""
+    },
+    {
+        "id": "8202102002",
+        "district_id": "820210",
+        "name": "Nursifa",
+        "postal_code": ""
+    },
+    {
+        "id": "8202102003",
+        "district_id": "820210",
+        "name": "Damuli",
+        "postal_code": ""
+    },
+    {
+        "id": "8202102004",
+        "district_id": "820210",
+        "name": "Peniti",
+        "postal_code": ""
+    },
+    {
+        "id": "8202102005",
+        "district_id": "820210",
+        "name": "Masure",
+        "postal_code": ""
+    },
+    {
+        "id": "8202102006",
+        "district_id": "820210",
+        "name": "Palo",
+        "postal_code": ""
+    }
+]

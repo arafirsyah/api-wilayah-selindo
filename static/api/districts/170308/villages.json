@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1703082001",
+        "district_id": "170308",
+        "name": "Tanjung Anom",
+        "postal_code": "38655"
+    },
+    {
+        "id": "1703082002",
+        "district_id": "170308",
+        "name": "Suka Makmur (Sukamakmur)",
+        "postal_code": "38655"
+    },
+    {
+        "id": "1703082003",
+        "district_id": "170308",
+        "name": "Wono Harjo (Wonoharjo)",
+        "postal_code": "38655"
+    },
+    {
+        "id": "1703082004",
+        "district_id": "170308",
+        "name": "Giri Mulya",
+        "postal_code": "38655"
+    },
+    {
+        "id": "1703082005",
+        "district_id": "170308",
+        "name": "Rena Jaya",
+        "postal_code": "38655"
+    },
+    {
+        "id": "1703082006",
+        "district_id": "170308",
+        "name": "Suka Mulya",
+        "postal_code": "38655"
+    }
+]

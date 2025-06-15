@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1172032001",
+        "district_id": "117203",
+        "name": "Iboih",
+        "postal_code": "23518"
+    },
+    {
+        "id": "1172032002",
+        "district_id": "117203",
+        "name": "Batee Shok (Batee Shoek)",
+        "postal_code": "23517"
+    },
+    {
+        "id": "1172032003",
+        "district_id": "117203",
+        "name": "Paya Seunara",
+        "postal_code": "23516"
+    },
+    {
+        "id": "1172032004",
+        "district_id": "117203",
+        "name": "Paya",
+        "postal_code": "23529"
+    },
+    {
+        "id": "1172032005",
+        "district_id": "117203",
+        "name": "Keunekai (Keuneukai)",
+        "postal_code": "23528"
+    },
+    {
+        "id": "1172032006",
+        "district_id": "117203",
+        "name": "Beurawang",
+        "postal_code": "23527"
+    }
+]

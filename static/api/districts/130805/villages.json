@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1308052001",
+        "district_id": "130805",
+        "name": "Tanjuang Baringin",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052002",
+        "district_id": "130805",
+        "name": "Jambak",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052003",
+        "district_id": "130805",
+        "name": "Durian Tinggi",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052004",
+        "district_id": "130805",
+        "name": "Pauah",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052005",
+        "district_id": "130805",
+        "name": "Aia Manggih",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052006",
+        "district_id": "130805",
+        "name": "Sundata",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052007",
+        "district_id": "130805",
+        "name": "Tanjuang Baringin Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052008",
+        "district_id": "130805",
+        "name": "Tanjuang Baringin Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052009",
+        "district_id": "130805",
+        "name": "Aia Manggih Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052010",
+        "district_id": "130805",
+        "name": "Aia Manggih Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052011",
+        "district_id": "130805",
+        "name": "Aia Manggih Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052012",
+        "district_id": "130805",
+        "name": "Sundata Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "1308052013",
+        "district_id": "130805",
+        "name": "Sundata Selatan",
+        "postal_code": ""
+    }
+]

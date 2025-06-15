@@ -1,0 +1,56 @@
+[
+    {
+        "id": "9203022001",
+        "district_id": "920302",
+        "name": "Werba",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022002",
+        "district_id": "920302",
+        "name": "Kiat",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022003",
+        "district_id": "920302",
+        "name": "Purwasak",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022008",
+        "district_id": "920302",
+        "name": "Wurkendik",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022010",
+        "district_id": "920302",
+        "name": "Kwuhkendak",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022011",
+        "district_id": "920302",
+        "name": "Purwahab Tonggo",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022012",
+        "district_id": "920302",
+        "name": "Pahger Nkindik",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022013",
+        "district_id": "920302",
+        "name": "Werba Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "9203022014",
+        "district_id": "920302",
+        "name": "Porum",
+        "postal_code": ""
+    }
+]

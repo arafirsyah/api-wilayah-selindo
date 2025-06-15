@@ -1,0 +1,86 @@
+[
+    {
+        "id": "9601071001",
+        "district_id": "960107",
+        "name": "Aimas",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071002",
+        "district_id": "960107",
+        "name": "Malawili",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071003",
+        "district_id": "960107",
+        "name": "Malawele",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071006",
+        "district_id": "960107",
+        "name": "Mariat Pantai",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071026",
+        "district_id": "960107",
+        "name": "Mariat Gunung",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071029",
+        "district_id": "960107",
+        "name": "Warmon",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071030",
+        "district_id": "960107",
+        "name": "Klabinain",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071031",
+        "district_id": "960107",
+        "name": "Malasom",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071032",
+        "district_id": "960107",
+        "name": "Klaigit",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071034",
+        "district_id": "960107",
+        "name": "Malagusa",
+        "postal_code": ""
+    },
+    {
+        "id": "9601071035",
+        "district_id": "960107",
+        "name": "Klafma",
+        "postal_code": ""
+    },
+    {
+        "id": "9601072028",
+        "district_id": "960107",
+        "name": "Maibo",
+        "postal_code": ""
+    },
+    {
+        "id": "9601072033",
+        "district_id": "960107",
+        "name": "Aimo",
+        "postal_code": ""
+    },
+    {
+        "id": "9601072038",
+        "district_id": "960107",
+        "name": "Malasaum",
+        "postal_code": ""
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "id": "1116022001",
+        "district_id": "111602",
+        "name": "Mesjid Sungai Iyu",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022002",
+        "district_id": "111602",
+        "name": "Alur Cantik (Alur Cantek)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022003",
+        "district_id": "111602",
+        "name": "Tanjung Lipat I (Tanjong Lipat I)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022004",
+        "district_id": "111602",
+        "name": "Tanjung Lipat II (Tanjong Lipat II)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022005",
+        "district_id": "111602",
+        "name": "Seuneubok Dalam (Seuneubok Dalam Mesjid)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022006",
+        "district_id": "111602",
+        "name": "Bandar Baru",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022007",
+        "district_id": "111602",
+        "name": "Cinta Raja",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022008",
+        "district_id": "111602",
+        "name": "Kuala Genting",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022009",
+        "district_id": "111602",
+        "name": "Bandar Khalifah",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022010",
+        "district_id": "111602",
+        "name": "Suka Mulia Bendahara",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022011",
+        "district_id": "111602",
+        "name": "Seuneubok Aceh",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022012",
+        "district_id": "111602",
+        "name": "Tengku Tinggi",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022013",
+        "district_id": "111602",
+        "name": "Perkebunan Sungai Iyu",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022014",
+        "district_id": "111602",
+        "name": "Marlempang",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022015",
+        "district_id": "111602",
+        "name": "Balai",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022016",
+        "district_id": "111602",
+        "name": "Lubuk Batil (Lubok Bathil)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022017",
+        "district_id": "111602",
+        "name": "Lambung Blang",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022018",
+        "district_id": "111602",
+        "name": "Tanjung Parit (Tanjong Parit)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022019",
+        "district_id": "111602",
+        "name": "Tanjung (Tanjong)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022020",
+        "district_id": "111602",
+        "name": "Raja",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022021",
+        "district_id": "111602",
+        "name": "Tumpok Tengoh (Tumpok Teungoh)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022029",
+        "district_id": "111602",
+        "name": "Upah",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022030",
+        "district_id": "111602",
+        "name": "Perkebunan Upah",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022031",
+        "district_id": "111602",
+        "name": "Matang Tepah (Matang Teupah)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022035",
+        "district_id": "111602",
+        "name": "Seuneubok Dalam Upah",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022036",
+        "district_id": "111602",
+        "name": "Mesjid Bendahara",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022037",
+        "district_id": "111602",
+        "name": "Teluk Kemiri",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022038",
+        "district_id": "111602",
+        "name": "Teluk Kepayang",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022039",
+        "district_id": "111602",
+        "name": "Teluk Halban",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022040",
+        "district_id": "111602",
+        "name": "Rantau Pakam",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022041",
+        "district_id": "111602",
+        "name": "Tanjung Binjai (Tanjong Binjei)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022042",
+        "district_id": "111602",
+        "name": "Tanjung Mulia (Tanjong Mulia)",
+        "postal_code": "24470"
+    },
+    {
+        "id": "1116022043",
+        "district_id": "111602",
+        "name": "Kuala Penaga",
+        "postal_code": "24470"
+    }
+]

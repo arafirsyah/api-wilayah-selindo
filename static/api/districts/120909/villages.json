@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1209091001",
+        "district_id": "120909",
+        "name": "Binjai Serbangan",
+        "postal_code": ""
+    },
+    {
+        "id": "1209092002",
+        "district_id": "120909",
+        "name": "Air Joman",
+        "postal_code": ""
+    },
+    {
+        "id": "1209092003",
+        "district_id": "120909",
+        "name": "Air Joman Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "1209092005",
+        "district_id": "120909",
+        "name": "Banjar",
+        "postal_code": ""
+    },
+    {
+        "id": "1209092007",
+        "district_id": "120909",
+        "name": "Pasar Lembu",
+        "postal_code": ""
+    },
+    {
+        "id": "1209092008",
+        "district_id": "120909",
+        "name": "Punggulan",
+        "postal_code": ""
+    },
+    {
+        "id": "1209092012",
+        "district_id": "120909",
+        "name": "Subur",
+        "postal_code": ""
+    }
+]

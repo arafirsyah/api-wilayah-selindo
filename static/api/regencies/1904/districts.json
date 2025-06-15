@@ -1,0 +1,32 @@
+[
+    {
+        "id": "190401",
+        "regency_id": "1904",
+        "name": "Koba"
+    },
+    {
+        "id": "190402",
+        "regency_id": "1904",
+        "name": "Pangkalan Baru"
+    },
+    {
+        "id": "190403",
+        "regency_id": "1904",
+        "name": "Sungai Selan"
+    },
+    {
+        "id": "190404",
+        "regency_id": "1904",
+        "name": "Simpang Katis"
+    },
+    {
+        "id": "190405",
+        "regency_id": "1904",
+        "name": "Namang"
+    },
+    {
+        "id": "190406",
+        "regency_id": "1904",
+        "name": "Lubuk Besar"
+    }
+]

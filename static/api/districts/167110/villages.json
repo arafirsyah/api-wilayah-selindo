@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1671101001",
+        "district_id": "167110",
+        "name": "Bukit Sangkal",
+        "postal_code": ""
+    },
+    {
+        "id": "1671101002",
+        "district_id": "167110",
+        "name": "Kalidoni",
+        "postal_code": ""
+    },
+    {
+        "id": "1671101003",
+        "district_id": "167110",
+        "name": "Sei Selayur",
+        "postal_code": ""
+    },
+    {
+        "id": "1671101004",
+        "district_id": "167110",
+        "name": "Sei Selincah",
+        "postal_code": ""
+    },
+    {
+        "id": "1671101005",
+        "district_id": "167110",
+        "name": "Sei Lais",
+        "postal_code": ""
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "3371011003",
+        "district_id": "337101",
+        "name": "Rejowinangun Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "3371011007",
+        "district_id": "337101",
+        "name": "Magersari",
+        "postal_code": ""
+    },
+    {
+        "id": "3371011008",
+        "district_id": "337101",
+        "name": "Jurangombo Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "3371011009",
+        "district_id": "337101",
+        "name": "Jurangombo Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "3371011010",
+        "district_id": "337101",
+        "name": "Tidar Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "3371011011",
+        "district_id": "337101",
+        "name": "Tidar Selatan",
+        "postal_code": ""
+    }
+]

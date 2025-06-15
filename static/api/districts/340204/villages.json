@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3402042001",
+        "district_id": "340204",
+        "name": "Seloharjo",
+        "postal_code": "55771"
+    },
+    {
+        "id": "3402042002",
+        "district_id": "340204",
+        "name": "Panjangrejo",
+        "postal_code": "55771"
+    },
+    {
+        "id": "3402042003",
+        "district_id": "340204",
+        "name": "Srihardono",
+        "postal_code": "55771"
+    }
+]

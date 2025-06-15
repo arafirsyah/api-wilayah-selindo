@@ -1,0 +1,344 @@
+[
+    {
+        "id": "3306022001",
+        "district_id": "330602",
+        "name": "Ngentak",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022002",
+        "district_id": "330602",
+        "name": "Girirejo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022003",
+        "district_id": "330602",
+        "name": "Wero",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022004",
+        "district_id": "330602",
+        "name": "Pagak",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022005",
+        "district_id": "330602",
+        "name": "Malang",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022006",
+        "district_id": "330602",
+        "name": "Depokrejo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022007",
+        "district_id": "330602",
+        "name": "Keburuhan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022008",
+        "district_id": "330602",
+        "name": "Awu-awu (Awuawu)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022009",
+        "district_id": "330602",
+        "name": "Kumpulsari",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022010",
+        "district_id": "330602",
+        "name": "Kesidan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022011",
+        "district_id": "330602",
+        "name": "Wonoroto",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022012",
+        "district_id": "330602",
+        "name": "Pejagran",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022013",
+        "district_id": "330602",
+        "name": "Wonosari",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022014",
+        "district_id": "330602",
+        "name": "Wonosri",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022015",
+        "district_id": "330602",
+        "name": "Jeruken",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022016",
+        "district_id": "330602",
+        "name": "Tanjungrejo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022017",
+        "district_id": "330602",
+        "name": "Kalitanjung",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022018",
+        "district_id": "330602",
+        "name": "Kuwukan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022019",
+        "district_id": "330602",
+        "name": "Kedondong",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022020",
+        "district_id": "330602",
+        "name": "Rasukan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022021",
+        "district_id": "330602",
+        "name": "Laban",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022022",
+        "district_id": "330602",
+        "name": "Wasiat",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022023",
+        "district_id": "330602",
+        "name": "Tunjungan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022024",
+        "district_id": "330602",
+        "name": "Ringgit",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022025",
+        "district_id": "330602",
+        "name": "Kaliwungukidul (Kaliwungu Kidul)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022026",
+        "district_id": "330602",
+        "name": "Kaliwungulor (Kaliwungu Lor)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022027",
+        "district_id": "330602",
+        "name": "Cokroyasan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022028",
+        "district_id": "330602",
+        "name": "Bojong",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022029",
+        "district_id": "330602",
+        "name": "Karangtalun",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022030",
+        "district_id": "330602",
+        "name": "Susuk",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022031",
+        "district_id": "330602",
+        "name": "Klandaran",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022032",
+        "district_id": "330602",
+        "name": "Briyan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022033",
+        "district_id": "330602",
+        "name": "Ngombol",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022034",
+        "district_id": "330602",
+        "name": "Joso",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022035",
+        "district_id": "330602",
+        "name": "Candi",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022036",
+        "district_id": "330602",
+        "name": "Pulutan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022037",
+        "district_id": "330602",
+        "name": "Walikoro",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022038",
+        "district_id": "330602",
+        "name": "Sruwoh",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022039",
+        "district_id": "330602",
+        "name": "Wonoboyo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022040",
+        "district_id": "330602",
+        "name": "Kembangkuning",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022041",
+        "district_id": "330602",
+        "name": "Jombang",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022042",
+        "district_id": "330602",
+        "name": "Mendiro",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022043",
+        "district_id": "330602",
+        "name": "Wunut",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022044",
+        "district_id": "330602",
+        "name": "Sumberrejo (Sumberejo)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022045",
+        "district_id": "330602",
+        "name": "Wingkosigromulyo (Wingko Sigromulyo)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022046",
+        "district_id": "330602",
+        "name": "Wingkoharjo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022047",
+        "district_id": "330602",
+        "name": "Singkilkulon (Singkil Kulon)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022048",
+        "district_id": "330602",
+        "name": "Singkilwetan (Singkil Wetan)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022049",
+        "district_id": "330602",
+        "name": "Tumenggungan",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022050",
+        "district_id": "330602",
+        "name": "Curug",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022051",
+        "district_id": "330602",
+        "name": "Wingkosanggrahan (Wingko Sanggrahan)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022052",
+        "district_id": "330602",
+        "name": "Wingkomulyo",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022053",
+        "district_id": "330602",
+        "name": "Wingkotinumpuk (Wingko Tinumpuk)",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022054",
+        "district_id": "330602",
+        "name": "Piyono",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022055",
+        "district_id": "330602",
+        "name": "Tanjung",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022056",
+        "district_id": "330602",
+        "name": "Secang",
+        "postal_code": ""
+    },
+    {
+        "id": "3306022057",
+        "district_id": "330602",
+        "name": "Seboropasar (Seboro Pasar)",
+        "postal_code": ""
+    }
+]

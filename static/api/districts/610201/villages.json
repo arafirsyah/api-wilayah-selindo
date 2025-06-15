@@ -1,0 +1,50 @@
+[
+    {
+        "id": "6102011006",
+        "district_id": "610201",
+        "name": "Tanjung",
+        "postal_code": ""
+    },
+    {
+        "id": "6102011007",
+        "district_id": "610201",
+        "name": "Tengah",
+        "postal_code": ""
+    },
+    {
+        "id": "6102011009",
+        "district_id": "610201",
+        "name": "Terusan",
+        "postal_code": ""
+    },
+    {
+        "id": "6102012001",
+        "district_id": "610201",
+        "name": "Sengkubang",
+        "postal_code": ""
+    },
+    {
+        "id": "6102012002",
+        "district_id": "610201",
+        "name": "Penibung (Penibungan)",
+        "postal_code": ""
+    },
+    {
+        "id": "6102012003",
+        "district_id": "610201",
+        "name": "Pasir",
+        "postal_code": ""
+    },
+    {
+        "id": "6102012013",
+        "district_id": "610201",
+        "name": "Kuala Secapah",
+        "postal_code": ""
+    },
+    {
+        "id": "6102012015",
+        "district_id": "610201",
+        "name": "Malikian",
+        "postal_code": ""
+    }
+]

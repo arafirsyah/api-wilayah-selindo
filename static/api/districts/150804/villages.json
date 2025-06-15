@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1508042001",
+        "district_id": "150804",
+        "name": "Tanjung Belit",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042002",
+        "district_id": "150804",
+        "name": "Rantau Ikil",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042003",
+        "district_id": "150804",
+        "name": "Pulau Jelmu",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042004",
+        "district_id": "150804",
+        "name": "Sirih Sekapur",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042005",
+        "district_id": "150804",
+        "name": "Ujung Tanjung",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042007",
+        "district_id": "150804",
+        "name": "Jumbak",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042009",
+        "district_id": "150804",
+        "name": "Rantau Panjang",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042013",
+        "district_id": "150804",
+        "name": "Talang Pemesun (Pamesun)",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042014",
+        "district_id": "150804",
+        "name": "Baru Balai Panjang",
+        "postal_code": "37256"
+    },
+    {
+        "id": "1508042015",
+        "district_id": "150804",
+        "name": "Sirih Sekapur Perkembangan",
+        "postal_code": "37256"
+    }
+]

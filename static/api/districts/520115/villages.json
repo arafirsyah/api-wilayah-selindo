@@ -1,0 +1,38 @@
+[
+    {
+        "id": "5201152001",
+        "district_id": "520115",
+        "name": "Kuripan",
+        "postal_code": ""
+    },
+    {
+        "id": "5201152002",
+        "district_id": "520115",
+        "name": "Jagaraga",
+        "postal_code": ""
+    },
+    {
+        "id": "5201152003",
+        "district_id": "520115",
+        "name": "Kuripan Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "5201152004",
+        "district_id": "520115",
+        "name": "Kuripan Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "5201152005",
+        "district_id": "520115",
+        "name": "Kuripan Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "5201152006",
+        "district_id": "520115",
+        "name": "Giri Sasak",
+        "postal_code": ""
+    }
+]

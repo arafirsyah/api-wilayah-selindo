@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1201071001",
+        "district_id": "120107",
+        "name": "Tapian Nauli II",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072002",
+        "district_id": "120107",
+        "name": "Tapian Nauli I",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072003",
+        "district_id": "120107",
+        "name": "Tapian Nauli III",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072004",
+        "district_id": "120107",
+        "name": "Tapian Nauli IV",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072005",
+        "district_id": "120107",
+        "name": "Aloban Bair (Aloban)",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072006",
+        "district_id": "120107",
+        "name": "Mela Dolok",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072007",
+        "district_id": "120107",
+        "name": "Mela I",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072008",
+        "district_id": "120107",
+        "name": "Mela II",
+        "postal_code": ""
+    },
+    {
+        "id": "1201072009",
+        "district_id": "120107",
+        "name": "Bair",
+        "postal_code": ""
+    }
+]

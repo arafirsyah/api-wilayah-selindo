@@ -1,0 +1,50 @@
+[
+    {
+        "id": "7105212001",
+        "district_id": "710521",
+        "name": "Tondey (Tondei)",
+        "postal_code": ""
+    },
+    {
+        "id": "7105212002",
+        "district_id": "710521",
+        "name": "Tondei Satu (Tondey Satu)",
+        "postal_code": ""
+    },
+    {
+        "id": "7105212003",
+        "district_id": "710521",
+        "name": "Tondei Dua (Tondey Dua)",
+        "postal_code": ""
+    },
+    {
+        "id": "7105212004",
+        "district_id": "710521",
+        "name": "Raanan Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "7105212005",
+        "district_id": "710521",
+        "name": "Ranaan Baru Satu (Raanan Baru Satu)",
+        "postal_code": ""
+    },
+    {
+        "id": "7105212006",
+        "district_id": "710521",
+        "name": "Ranaan Baru Dua (Raanan Baru Dua)",
+        "postal_code": ""
+    },
+    {
+        "id": "7105212007",
+        "district_id": "710521",
+        "name": "Toyopon",
+        "postal_code": ""
+    },
+    {
+        "id": "7105212008",
+        "district_id": "710521",
+        "name": "Keroit",
+        "postal_code": ""
+    }
+]

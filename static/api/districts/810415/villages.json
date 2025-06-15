@@ -1,0 +1,32 @@
+[
+    {
+        "id": "8104152001",
+        "district_id": "810415",
+        "name": "Ubung",
+        "postal_code": ""
+    },
+    {
+        "id": "8104152002",
+        "district_id": "810415",
+        "name": "Jikumarasa (Jikumerasa)",
+        "postal_code": ""
+    },
+    {
+        "id": "8104152003",
+        "district_id": "810415",
+        "name": "Waimiting (Waemiting)",
+        "postal_code": ""
+    },
+    {
+        "id": "8104152004",
+        "district_id": "810415",
+        "name": "Sawa",
+        "postal_code": ""
+    },
+    {
+        "id": "8104152005",
+        "district_id": "810415",
+        "name": "Waeperang",
+        "postal_code": ""
+    }
+]

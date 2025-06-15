@@ -1,0 +1,92 @@
+[
+    {
+        "id": "3604192001",
+        "district_id": "360419",
+        "name": "Petir",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192002",
+        "district_id": "360419",
+        "name": "Cirangkong",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192003",
+        "district_id": "360419",
+        "name": "Tambiluk",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192004",
+        "district_id": "360419",
+        "name": "Sindangsari",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192005",
+        "district_id": "360419",
+        "name": "Padasuka",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192006",
+        "district_id": "360419",
+        "name": "Seuat",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192007",
+        "district_id": "360419",
+        "name": "Nagarapadang (Nagara Padang)",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192008",
+        "district_id": "360419",
+        "name": "Kadugenep",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192009",
+        "district_id": "360419",
+        "name": "Cirendeu (Cireundeu)",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192010",
+        "district_id": "360419",
+        "name": "Sanding",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192011",
+        "district_id": "360419",
+        "name": "Kampung Baru",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192012",
+        "district_id": "360419",
+        "name": "Mekar Baru (Mekarbaru)",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192013",
+        "district_id": "360419",
+        "name": "Seuat Jaya",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192014",
+        "district_id": "360419",
+        "name": "Kubang Jaya",
+        "postal_code": "42172"
+    },
+    {
+        "id": "3604192015",
+        "district_id": "360419",
+        "name": "Bojong Nangka",
+        "postal_code": "42172"
+    }
+]

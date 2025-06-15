@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1571071001",
+        "district_id": "157107",
+        "name": "Suka Karya",
+        "postal_code": "36127"
+    },
+    {
+        "id": "1571071002",
+        "district_id": "157107",
+        "name": "Simpang III Sipin (Simpang Tiga Sipin)",
+        "postal_code": "36126"
+    },
+    {
+        "id": "1571071004",
+        "district_id": "157107",
+        "name": "Paal Lima",
+        "postal_code": "36128"
+    },
+    {
+        "id": "1571071005",
+        "district_id": "157107",
+        "name": "Kenali Asam Bawah",
+        "postal_code": "36128"
+    },
+    {
+        "id": "1571071006",
+        "district_id": "157107",
+        "name": "Kenali Asam Atas",
+        "postal_code": "36128"
+    },
+    {
+        "id": "1571071011",
+        "district_id": "157107",
+        "name": "Talang Gulo",
+        "postal_code": "36128"
+    },
+    {
+        "id": "1571071012",
+        "district_id": "157107",
+        "name": "Kenali Asam",
+        "postal_code": "36128"
+    }
+]

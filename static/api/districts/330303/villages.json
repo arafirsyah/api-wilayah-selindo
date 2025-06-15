@@ -1,0 +1,80 @@
+[
+    {
+        "id": "3303032001",
+        "district_id": "330303",
+        "name": "Bandingan",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032002",
+        "district_id": "330303",
+        "name": "Lamuk",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032003",
+        "district_id": "330303",
+        "name": "Sokanegara",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032004",
+        "district_id": "330303",
+        "name": "Gumiwang",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032005",
+        "district_id": "330303",
+        "name": "Krenceng",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032006",
+        "district_id": "330303",
+        "name": "Nangkasawit",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032007",
+        "district_id": "330303",
+        "name": "Pandansari",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032008",
+        "district_id": "330303",
+        "name": "Kejobong",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032009",
+        "district_id": "330303",
+        "name": "Langgar",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032010",
+        "district_id": "330303",
+        "name": "Timbang",
+        "postal_code": "53314"
+    },
+    {
+        "id": "3303032011",
+        "district_id": "330303",
+        "name": "Nangkod",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032012",
+        "district_id": "330303",
+        "name": "Kedarpan",
+        "postal_code": "53392"
+    },
+    {
+        "id": "3303032013",
+        "district_id": "330303",
+        "name": "Pangempon",
+        "postal_code": "53392"
+    }
+]

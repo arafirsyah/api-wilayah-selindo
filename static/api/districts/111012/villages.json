@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1110122001",
+        "district_id": "111012",
+        "name": "Suro (Suro Baru)",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122002",
+        "district_id": "111012",
+        "name": "Pangkalan Sulampi",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122003",
+        "district_id": "111012",
+        "name": "Bulu Sema",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122004",
+        "district_id": "111012",
+        "name": "Lae Bangun",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122005",
+        "district_id": "111012",
+        "name": "Alur Linci",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122006",
+        "district_id": "111012",
+        "name": "Siompin",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122007",
+        "district_id": "111012",
+        "name": "Ketangkuhan (Ketangkihan)",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122008",
+        "district_id": "111012",
+        "name": "Keras",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122009",
+        "district_id": "111012",
+        "name": "Mandumpang",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122010",
+        "district_id": "111012",
+        "name": "Sirimo Mungkur",
+        "postal_code": "24787"
+    },
+    {
+        "id": "1110122011",
+        "district_id": "111012",
+        "name": "Bulu Ara",
+        "postal_code": "24787"
+    }
+]

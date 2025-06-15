@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3403072001",
+        "district_id": "340307",
+        "name": "Giripanggung",
+        "postal_code": "55882"
+    },
+    {
+        "id": "3403072002",
+        "district_id": "340307",
+        "name": "Sumberwungu (Sumber Wungu)",
+        "postal_code": "55882"
+    },
+    {
+        "id": "3403072003",
+        "district_id": "340307",
+        "name": "Sidoharjo",
+        "postal_code": "55882"
+    },
+    {
+        "id": "3403072004",
+        "district_id": "340307",
+        "name": "Tepus",
+        "postal_code": "55882"
+    },
+    {
+        "id": "3403072005",
+        "district_id": "340307",
+        "name": "Purwodadi",
+        "postal_code": "55882"
+    }
+]

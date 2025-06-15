@@ -1,0 +1,44 @@
+[
+    {
+        "id": "9105082001",
+        "district_id": "910508",
+        "name": "Waindu",
+        "postal_code": ""
+    },
+    {
+        "id": "9105082008",
+        "district_id": "910508",
+        "name": "Barawai",
+        "postal_code": ""
+    },
+    {
+        "id": "9105082009",
+        "district_id": "910508",
+        "name": "Woda",
+        "postal_code": ""
+    },
+    {
+        "id": "9105082010",
+        "district_id": "910508",
+        "name": "Kororompui",
+        "postal_code": ""
+    },
+    {
+        "id": "9105082011",
+        "district_id": "910508",
+        "name": "Aisau",
+        "postal_code": ""
+    },
+    {
+        "id": "9105082012",
+        "district_id": "910508",
+        "name": "Sewenui",
+        "postal_code": ""
+    },
+    {
+        "id": "9105082013",
+        "district_id": "910508",
+        "name": "Sawendui",
+        "postal_code": ""
+    }
+]

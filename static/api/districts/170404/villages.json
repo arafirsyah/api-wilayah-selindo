@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1704041007",
+        "district_id": "170404",
+        "name": "Tanjung Iman",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042001",
+        "district_id": "170404",
+        "name": "Sukarami",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042002",
+        "district_id": "170404",
+        "name": "Pajar Bulan",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042003",
+        "district_id": "170404",
+        "name": "Padang Hangat",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042004",
+        "district_id": "170404",
+        "name": "Kemang Manis",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042005",
+        "district_id": "170404",
+        "name": "Penyandingan",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042006",
+        "district_id": "170404",
+        "name": "Sinar Jaya",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042008",
+        "district_id": "170404",
+        "name": "Tanjung Pandan",
+        "postal_code": "38961"
+    },
+    {
+        "id": "1704042009",
+        "district_id": "170404",
+        "name": "Padang Baru",
+        "postal_code": "38961"
+    }
+]

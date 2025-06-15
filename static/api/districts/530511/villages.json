@@ -1,0 +1,38 @@
+[
+    {
+        "id": "5305111001",
+        "district_id": "530511",
+        "name": "Pura",
+        "postal_code": ""
+    },
+    {
+        "id": "5305112002",
+        "district_id": "530511",
+        "name": "Maru",
+        "postal_code": ""
+    },
+    {
+        "id": "5305112003",
+        "district_id": "530511",
+        "name": "Pura Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "5305112004",
+        "district_id": "530511",
+        "name": "Pura Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "5305112005",
+        "district_id": "530511",
+        "name": "Pura Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "5305112006",
+        "district_id": "530511",
+        "name": "Pura Barat",
+        "postal_code": ""
+    }
+]

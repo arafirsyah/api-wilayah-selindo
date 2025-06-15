@@ -1,0 +1,50 @@
+[
+    {
+        "id": "5104051005",
+        "district_id": "510405",
+        "name": "Ubud",
+        "postal_code": "80571"
+    },
+    {
+        "id": "5104052001",
+        "district_id": "510405",
+        "name": "Lodtunduh",
+        "postal_code": "80571"
+    },
+    {
+        "id": "5104052002",
+        "district_id": "510405",
+        "name": "Mas",
+        "postal_code": "80571"
+    },
+    {
+        "id": "5104052003",
+        "district_id": "510405",
+        "name": "Singakerta (Singekerta)",
+        "postal_code": "80571"
+    },
+    {
+        "id": "5104052004",
+        "district_id": "510405",
+        "name": "Kedewatan",
+        "postal_code": "80571"
+    },
+    {
+        "id": "5104052006",
+        "district_id": "510405",
+        "name": "Peliatan",
+        "postal_code": "80571"
+    },
+    {
+        "id": "5104052007",
+        "district_id": "510405",
+        "name": "Petulu",
+        "postal_code": "80571"
+    },
+    {
+        "id": "5104052008",
+        "district_id": "510405",
+        "name": "Sayan",
+        "postal_code": "80571"
+    }
+]

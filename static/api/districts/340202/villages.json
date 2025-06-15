@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3402022001",
+        "district_id": "340202",
+        "name": "Gadingsari",
+        "postal_code": "55763"
+    },
+    {
+        "id": "3402022002",
+        "district_id": "340202",
+        "name": "Gadingharjo",
+        "postal_code": "55763"
+    },
+    {
+        "id": "3402022003",
+        "district_id": "340202",
+        "name": "Srigading",
+        "postal_code": "55763"
+    },
+    {
+        "id": "3402022004",
+        "district_id": "340202",
+        "name": "Murtigading",
+        "postal_code": "55763"
+    }
+]

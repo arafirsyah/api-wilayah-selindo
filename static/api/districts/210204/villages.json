@@ -1,0 +1,38 @@
+[
+    {
+        "id": "2102041001",
+        "district_id": "210204",
+        "name": "Meral Kota",
+        "postal_code": ""
+    },
+    {
+        "id": "2102041002",
+        "district_id": "210204",
+        "name": "Baran Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "2102041003",
+        "district_id": "210204",
+        "name": "Sungai Raya",
+        "postal_code": ""
+    },
+    {
+        "id": "2102041006",
+        "district_id": "210204",
+        "name": "Baran Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "2102041007",
+        "district_id": "210204",
+        "name": "Sungai Pasir",
+        "postal_code": ""
+    },
+    {
+        "id": "2102041008",
+        "district_id": "210204",
+        "name": "Parit Benut (Pasir Benut)",
+        "postal_code": ""
+    }
+]

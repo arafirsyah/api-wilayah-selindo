@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1171012001",
+        "district_id": "117101",
+        "name": "Kampung Baru",
+        "postal_code": "23242"
+    },
+    {
+        "id": "1171012002",
+        "district_id": "117101",
+        "name": "Neusu Jaya",
+        "postal_code": "23243"
+    },
+    {
+        "id": "1171012003",
+        "district_id": "117101",
+        "name": "Sukaramai",
+        "postal_code": "23243"
+    },
+    {
+        "id": "1171012004",
+        "district_id": "117101",
+        "name": "Seutui",
+        "postal_code": "23243"
+    },
+    {
+        "id": "1171012005",
+        "district_id": "117101",
+        "name": "Peuniti",
+        "postal_code": "23241"
+    },
+    {
+        "id": "1171012006",
+        "district_id": "117101",
+        "name": "Neusu Aceh",
+        "postal_code": "23244"
+    },
+    {
+        "id": "1171012007",
+        "district_id": "117101",
+        "name": "Ateuk Pahlawan",
+        "postal_code": "23241"
+    },
+    {
+        "id": "1171012008",
+        "district_id": "117101",
+        "name": "Ateuk Jawo",
+        "postal_code": "23245"
+    },
+    {
+        "id": "1171012009",
+        "district_id": "117101",
+        "name": "Ateuk Deah Tanoh",
+        "postal_code": "23244"
+    },
+    {
+        "id": "1171012010",
+        "district_id": "117101",
+        "name": "Ateuk Munjeng",
+        "postal_code": "23244"
+    }
+]

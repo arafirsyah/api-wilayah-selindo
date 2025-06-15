@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1703012001",
+        "district_id": "170301",
+        "name": "Banjar Sari",
+        "postal_code": "38387"
+    },
+    {
+        "id": "1703012002",
+        "district_id": "170301",
+        "name": "Meok",
+        "postal_code": "38387"
+    },
+    {
+        "id": "1703012003",
+        "district_id": "170301",
+        "name": "Malakoni",
+        "postal_code": "38387"
+    },
+    {
+        "id": "1703012004",
+        "district_id": "170301",
+        "name": "Kaana",
+        "postal_code": "38387"
+    },
+    {
+        "id": "1703012005",
+        "district_id": "170301",
+        "name": "Kahyapu (Khayapu)",
+        "postal_code": "38387"
+    },
+    {
+        "id": "1703012006",
+        "district_id": "170301",
+        "name": "Apoho",
+        "postal_code": "38387"
+    }
+]

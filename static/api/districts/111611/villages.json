@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1116112001",
+        "district_id": "111611",
+        "name": "Tebing Tinggi",
+        "postal_code": "24477"
+    },
+    {
+        "id": "1116112002",
+        "district_id": "111611",
+        "name": "Rimba Sawang",
+        "postal_code": "24477"
+    },
+    {
+        "id": "1116112003",
+        "district_id": "111611",
+        "name": "Tenggulun",
+        "postal_code": "24477"
+    },
+    {
+        "id": "1116112004",
+        "district_id": "111611",
+        "name": "Selamat",
+        "postal_code": "24477"
+    },
+    {
+        "id": "1116112005",
+        "district_id": "111611",
+        "name": "Simpang Kiri",
+        "postal_code": "24477"
+    },
+    {
+        "id": "1116112006",
+        "district_id": "111611",
+        "name": "Sumber Makmur",
+        "postal_code": "24477"
+    }
+]

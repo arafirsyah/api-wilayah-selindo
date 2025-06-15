@@ -1,0 +1,56 @@
+[
+    {
+        "id": "3603062001",
+        "district_id": "360306",
+        "name": "Pasir Ampo",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062003",
+        "district_id": "360306",
+        "name": "Rancailat (Ranca Ilat)",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062007",
+        "district_id": "360306",
+        "name": "Kemuning",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062009",
+        "district_id": "360306",
+        "name": "Renged",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062011",
+        "district_id": "360306",
+        "name": "Talok",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062013",
+        "district_id": "360306",
+        "name": "Koper",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062014",
+        "district_id": "360306",
+        "name": "Jengkol",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062015",
+        "district_id": "360306",
+        "name": "Patrasana (Patra Sana)",
+        "postal_code": "15621"
+    },
+    {
+        "id": "3603062018",
+        "district_id": "360306",
+        "name": "Kresek",
+        "postal_code": "15621"
+    }
+]

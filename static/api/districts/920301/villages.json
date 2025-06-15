@@ -1,0 +1,32 @@
+[
+    {
+        "id": "9203011001",
+        "district_id": "920301",
+        "name": "Fak Fak Selatan",
+        "postal_code": ""
+    },
+    {
+        "id": "9203011002",
+        "district_id": "920301",
+        "name": "Fak Fak Utara",
+        "postal_code": ""
+    },
+    {
+        "id": "9203012007",
+        "district_id": "920301",
+        "name": "Gewerpe",
+        "postal_code": ""
+    },
+    {
+        "id": "9203012011",
+        "district_id": "920301",
+        "name": "Lusi Peri",
+        "postal_code": ""
+    },
+    {
+        "id": "9203012012",
+        "district_id": "920301",
+        "name": "Wrikapal",
+        "postal_code": ""
+    }
+]

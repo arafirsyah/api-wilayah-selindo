@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3401021008",
+        "district_id": "340102",
+        "name": "Wates",
+        "postal_code": "55651"
+    },
+    {
+        "id": "3401022001",
+        "district_id": "340102",
+        "name": "Karangwuni (Karang Wuni)",
+        "postal_code": "55651"
+    },
+    {
+        "id": "3401022002",
+        "district_id": "340102",
+        "name": "Sogan",
+        "postal_code": "55651"
+    },
+    {
+        "id": "3401022003",
+        "district_id": "340102",
+        "name": "Kulwaru",
+        "postal_code": "55651"
+    },
+    {
+        "id": "3401022004",
+        "district_id": "340102",
+        "name": "Ngestiharjo",
+        "postal_code": "55651"
+    },
+    {
+        "id": "3401022005",
+        "district_id": "340102",
+        "name": "Bendungan",
+        "postal_code": "55651"
+    },
+    {
+        "id": "3401022006",
+        "district_id": "340102",
+        "name": "Triharjo",
+        "postal_code": "55651"
+    },
+    {
+        "id": "3401022007",
+        "district_id": "340102",
+        "name": "Giripeni (Giri Peni)",
+        "postal_code": "55651"
+    }
+]

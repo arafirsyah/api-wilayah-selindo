@@ -1,0 +1,38 @@
+[
+    {
+        "id": "6474021001",
+        "district_id": "647402",
+        "name": "Tanjung Laut",
+        "postal_code": ""
+    },
+    {
+        "id": "6474021002",
+        "district_id": "647402",
+        "name": "Berebas Tengah (Berbas Tengah)",
+        "postal_code": ""
+    },
+    {
+        "id": "6474021003",
+        "district_id": "647402",
+        "name": "Berebas Pantai (Berbas Pantai)",
+        "postal_code": ""
+    },
+    {
+        "id": "6474021004",
+        "district_id": "647402",
+        "name": "Satimpo",
+        "postal_code": ""
+    },
+    {
+        "id": "6474021005",
+        "district_id": "647402",
+        "name": "Bontang Lestari",
+        "postal_code": ""
+    },
+    {
+        "id": "6474021006",
+        "district_id": "647402",
+        "name": "Tanjung Laut Indah",
+        "postal_code": ""
+    }
+]

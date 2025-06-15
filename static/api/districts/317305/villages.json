@@ -1,0 +1,44 @@
+[
+    {
+        "id": "3173051001",
+        "district_id": "317305",
+        "name": "Kebon Jeruk",
+        "postal_code": "11530"
+    },
+    {
+        "id": "3173051002",
+        "district_id": "317305",
+        "name": "Sukabumi Utara (Ilir)",
+        "postal_code": "11540"
+    },
+    {
+        "id": "3173051003",
+        "district_id": "317305",
+        "name": "Sukabumi Selatan (Udik)",
+        "postal_code": "11560"
+    },
+    {
+        "id": "3173051004",
+        "district_id": "317305",
+        "name": "Kelapa Dua",
+        "postal_code": "11550"
+    },
+    {
+        "id": "3173051005",
+        "district_id": "317305",
+        "name": "Duri Kepa",
+        "postal_code": "11510"
+    },
+    {
+        "id": "3173051006",
+        "district_id": "317305",
+        "name": "Kedoya Utara",
+        "postal_code": "11520"
+    },
+    {
+        "id": "3173051007",
+        "district_id": "317305",
+        "name": "Kedoya Selatan",
+        "postal_code": "11520"
+    }
+]

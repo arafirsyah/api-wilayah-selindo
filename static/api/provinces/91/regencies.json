@@ -1,0 +1,47 @@
+[
+    {
+        "id": "9103",
+        "name": "Jayapura",
+        "province_id": "91"
+    },
+    {
+        "id": "9105",
+        "name": "Kepulauan Yapen",
+        "province_id": "91"
+    },
+    {
+        "id": "9106",
+        "name": "Biak Numfor",
+        "province_id": "91"
+    },
+    {
+        "id": "9110",
+        "name": "Sarmi",
+        "province_id": "91"
+    },
+    {
+        "id": "9111",
+        "name": "Keerom",
+        "province_id": "91"
+    },
+    {
+        "id": "9115",
+        "name": "Waropen",
+        "province_id": "91"
+    },
+    {
+        "id": "9119",
+        "name": "Supiori",
+        "province_id": "91"
+    },
+    {
+        "id": "9120",
+        "name": "Mamberamo Raya",
+        "province_id": "91"
+    },
+    {
+        "id": "9171",
+        "name": "Kota Jayapura",
+        "province_id": "91"
+    }
+]

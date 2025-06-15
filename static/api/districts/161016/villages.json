@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1610161012",
+        "district_id": "161016",
+        "name": "Payaraman Barat",
+        "postal_code": ""
+    },
+    {
+        "id": "1610161013",
+        "district_id": "161016",
+        "name": "Payaraman Timur",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162001",
+        "district_id": "161016",
+        "name": "Tebedak I",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162002",
+        "district_id": "161016",
+        "name": "Lubuk Bandung",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162003",
+        "district_id": "161016",
+        "name": "Talang Seleman",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162004",
+        "district_id": "161016",
+        "name": "Tebedak II",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162005",
+        "district_id": "161016",
+        "name": "Tanjung Lalang",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162006",
+        "district_id": "161016",
+        "name": "Seri Kembang I",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162007",
+        "district_id": "161016",
+        "name": "Rengas I",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162008",
+        "district_id": "161016",
+        "name": "Paya Besar",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162009",
+        "district_id": "161016",
+        "name": "Rengas II",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162010",
+        "district_id": "161016",
+        "name": "Seri Kembang II",
+        "postal_code": ""
+    },
+    {
+        "id": "1610162011",
+        "district_id": "161016",
+        "name": "Seri Kembang III",
+        "postal_code": ""
+    }
+]

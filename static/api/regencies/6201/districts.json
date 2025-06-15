@@ -1,0 +1,32 @@
+[
+    {
+        "id": "620101",
+        "regency_id": "6201",
+        "name": "Kumai"
+    },
+    {
+        "id": "620102",
+        "regency_id": "6201",
+        "name": "Arut Selatan"
+    },
+    {
+        "id": "620103",
+        "regency_id": "6201",
+        "name": "Kotawaringin Lama"
+    },
+    {
+        "id": "620104",
+        "regency_id": "6201",
+        "name": "Arut Utara"
+    },
+    {
+        "id": "620105",
+        "regency_id": "6201",
+        "name": "Pangkalan Lada"
+    },
+    {
+        "id": "620106",
+        "regency_id": "6201",
+        "name": "Pangkalan Banteng"
+    }
+]

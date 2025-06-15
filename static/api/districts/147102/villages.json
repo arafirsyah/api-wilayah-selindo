@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1471021001",
+        "district_id": "147102",
+        "name": "Simpang Empat",
+        "postal_code": ""
+    },
+    {
+        "id": "1471021002",
+        "district_id": "147102",
+        "name": "Sumahilang (Suma Hilang)",
+        "postal_code": ""
+    },
+    {
+        "id": "1471021003",
+        "district_id": "147102",
+        "name": "Tanah Datar",
+        "postal_code": ""
+    },
+    {
+        "id": "1471021004",
+        "district_id": "147102",
+        "name": "Kota Baru",
+        "postal_code": ""
+    },
+    {
+        "id": "1471021005",
+        "district_id": "147102",
+        "name": "Sukaramai (Suka Ramai)",
+        "postal_code": ""
+    },
+    {
+        "id": "1471021006",
+        "district_id": "147102",
+        "name": "Kota Tinggi",
+        "postal_code": ""
+    }
+]

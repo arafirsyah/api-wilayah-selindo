@@ -1,0 +1,80 @@
+[
+    {
+        "id": "3303112001",
+        "district_id": "330311",
+        "name": "Ponjen",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112002",
+        "district_id": "330311",
+        "name": "Buara",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112003",
+        "district_id": "330311",
+        "name": "Brakas",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112004",
+        "district_id": "330311",
+        "name": "Bungkanel",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112005",
+        "district_id": "330311",
+        "name": "Lumpang",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112006",
+        "district_id": "330311",
+        "name": "Karanggedang",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112007",
+        "district_id": "330311",
+        "name": "Kabunderan",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112008",
+        "district_id": "330311",
+        "name": "Jambudesa",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112009",
+        "district_id": "330311",
+        "name": "Maribaya",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112010",
+        "district_id": "330311",
+        "name": "Karanganyar",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112012",
+        "district_id": "330311",
+        "name": "Banjarkerta",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112013",
+        "district_id": "330311",
+        "name": "Kalijaran",
+        "postal_code": "53354"
+    },
+    {
+        "id": "3303112014",
+        "district_id": "330311",
+        "name": "Kaliori",
+        "postal_code": "53354"
+    }
+]
