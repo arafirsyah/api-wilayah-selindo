@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - master
+    tags:
+      - 'v*' # Trigger juga ketika ada tag baru (contoh: v1.0.0)
   workflow_dispatch:
 
 jobs:
@@ -13,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Diperlukan untuk changelogithub agar bisa melihat riwayat commit
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -22,18 +26,27 @@ jobs:
       - name: Install changelogithub
         run: npm install -g changelogithub
 
-      - name: Generate Release with changelog
-        run: changelogithub
+      - name: Generate Changelog and Release
+        if: github.ref == 'refs/heads/master' # Hanya jalankan jika push ke branch master
+        run: |
+          # Generate changelog dan coba buat release
+          changelogithub || echo "Skipping release (no changes or not a tag)"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build Static Site (Optional)
+        run: |
+          # Tambahkan perintah build jika proyek Anda memerlukannya
+          # Contoh: npm run build
+          echo "Build step (adjust according to your project)"
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload build to GitHub Pages
+      - name: Upload to GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
+          path: ./ # Ganti dengan folder build jika ada (contoh: ./dist)
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
