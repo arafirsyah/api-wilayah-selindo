@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # Set base URL
-RewriteBase /api-wilayah-selindo/
+RewriteBase /wilayah-selindo/
 
 # If the request is for a file or directory that exists, serve it directly
 RewriteCond %{REQUEST_FILENAME} -f [OR]
@@ -14,7 +14,7 @@ RewriteRule ^(static/api/.*)$ $1 [L]
 RewriteRule ^assets/(.*)$ assets/$1 [L]
 
 # Route all other requests to public/index.php
-RewriteRule ^(.*)$ public/index.php [QSA,L]
+RewriteRule ^(.*)$ index.html [QSA,L]
 
 # Set CORS headers
 <IfModule mod_headers.c>
@@ -32,4 +32,4 @@ RewriteRule ^(.*)$ public/index.php [QSA,L]
 Options -Indexes
 
 # Set default index file
-DirectoryIndex public/index.php
+DirectoryIndex index.html
