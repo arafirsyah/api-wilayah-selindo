@@ -5,52 +5,59 @@ on:
     branches:
       - master
     tags:
-      - 'v*' # Trigger juga ketika ada tag baru (contoh: v1.0.0)
+      - 'v*'  # Trigger for semantic version tags (e.g., v1.0.0)
   workflow_dispatch:
+
+permissions:
+  contents: write  # For releases and commits
+  pages: write     # For GitHub Pages deployment
+  id-token: write  # For OIDC token authentication
 
 jobs:
   build-release-deploy:
     runs-on: ubuntu-latest
-permissions:  # Tambahkan block ini!
-      id-token: write  # Untuk OIDC token
-      contents: write  # Untuk upload artifact dan deploy
-      pages: write     # Khusus akses GitHub Pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      # --- Checkout & Setup ---
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Diperlukan untuk changelogithub agar bisa melihat riwayat commit
+          fetch-depth: 0  # Required for full commit history (changelog generation)
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
+      # --- Release Generation ---
       - name: Install changelogithub
         run: npm install -g changelogithub
 
-      - name: Generate Changelog and Release
-        if: github.ref == 'refs/heads/master' # Hanya jalankan jika push ke branch master
-        run: |
-          # Generate changelog dan coba buat release
-          changelogithub || echo "Skipping release (no changes or not a tag)"
+      - name: Generate Changelog and Release (Tags Only)
+        if: startsWith(github.ref, 'refs/tags/')  # Only run for tags
+        run: changelogithub
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build Static Site (Optional)
+      # --- Build Step (Customize for your project) ---
+      - name: Build Static Site
         run: |
-          # Tambahkan perintah build jika proyek Anda memerlukannya
-          # Contoh: npm run build
-          echo "Build step (adjust according to your project)"
+          npm install
+          npm run build  # Replace with your build command
+          echo "Build completed!"
 
-      - name: Setup GitHub Pages
+      # --- GitHub Pages Deployment ---
+      - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload to GitHub Pages
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./ # Ganti dengan folder build jika ada (contoh: ./dist)
+          path: './'  # Update to your build output directory
 
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
