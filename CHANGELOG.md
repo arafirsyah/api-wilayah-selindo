@@ -1,3 +1,7 @@
+# [](https://github.com/arafirsyah/api-wilayah-selindo/compare/v1.0.2...v) (2025-06-15)
+
+
+
 # 📦 CHANGELOG
 
 Semua perubahan penting dalam proyek ini akan didokumentasikan di sini.
