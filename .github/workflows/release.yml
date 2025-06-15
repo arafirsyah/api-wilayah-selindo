@@ -1,10 +1,9 @@
 name: Release & Deploy to GitHub Pages
 
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - master
+    branches: [master]
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,47 +11,40 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-release:
+  release:
     name: Build, Release, Deploy
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Important for changelog and tagging
+    - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
 
-      - name: Install changelogithub
-        run: npm install -g changelogithub
+    - name: Install dependencies
+      run: npm install
 
-      - name: Generate Changelog & Create Release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: changelogithub
+    - name: Bump & Tag
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git tag v$(date +'%Y%m%d%H%M%S')
+        git push origin --tags
 
-      - name: Build site (if applicable)
-        run: |
-          echo "No build step defined. Add here if needed."
+    - name: Generate changelog and release
+      run: changelogithub
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./  # Replace if you have a build output directory
+    - name: Build static files
+      run: |
+        mkdir dist
+        echo "API Wilayah Selindo" > dist/index.html
 
-  deploy-pages:
-    name: Deploy to GitHub Pages
-    needs: build-and-release
-    runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GH_TOKEN }}
+        publish_dir: ./dist
