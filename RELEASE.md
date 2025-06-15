@@ -1,5 +1,10 @@
-Wilayah Indonesia Static API
+# 🎉 v1.0.0 - Initial Release
+
+**Tanggal Rilis:** 15 Juni 2025  
+**URL Halaman:** [https://arafirsyah.github.io/api-wilayah-selindo/](https://arafirsyah.github.io/api-wilayah-selindo/)
+
 ---
+
 ## 🔍 Deskripsi
 `api-wilayah-selindo` adalah API berbasis data wilayah administratif Indonesia dalam format JSON yang dihasilkan dari file CSV. Menyediakan data provinsi, kabupaten/kota, kecamatan, dan kelurahan untuk integrasi ke sistem informasi atau website.
 
