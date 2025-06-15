@@ -11,6 +11,10 @@ on:
 jobs:
   build-release-deploy:
     runs-on: ubuntu-latest
+permissions:  # Tambahkan block ini!
+      id-token: write  # Untuk OIDC token
+      contents: write  # Untuk upload artifact dan deploy
+      pages: write     # Khusus akses GitHub Pages
 
     steps:
       - name: Checkout Repository
