@@ -1,70 +1,58 @@
-name: 🚀 Release & Deploy to GitHub Pages
+name: Release & Deploy to GitHub Pages
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  release-and-deploy:
+  build-and-release:
+    name: Build, Release, Deploy
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-
     steps:
-      - name: 🧾 Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Important for changelog and tagging
 
-      - name: ⚙️ Setup Git
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install changelogithub
+        run: npm install -g changelogithub
+
+      - name: Generate Changelog & Create Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: changelogithub
+
+      - name: Build site (if applicable)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "No build step defined. Add here if needed."
 
-      - name: 🔖 Get latest tag
-        id: get_tag
-        run: |
-          TAG=$(git tag --sort=-creatordate | head -n 1)
-          echo "latest_tag=$TAG" >> $GITHUB_OUTPUT
-
-      - name: 🔢 Calculate next version
-        id: version
-        run: |
-          LATEST="${{ steps.get_tag.outputs.latest_tag }}"
-          if [[ "$LATEST" =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
-            MAJOR=${BASH_REMATCH[1]}
-            MINOR=${BASH_REMATCH[2]}
-            PATCH=${BASH_REMATCH[3]}
-            PATCH=$((PATCH+1))
-            NEXT_TAG="v$MAJOR.$MINOR.$PATCH"
-          else
-            NEXT_TAG="v1.0.0"
-          fi
-          echo "next_tag=$NEXT_TAG" >> $GITHUB_OUTPUT
-
-      - name: 📝 Generate CHANGELOG
-        run: |
-          npm install -g changelogithub
-          changelogithub --token ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 📌 Commit changelog
-        run: |
-          git add CHANGELOG.md
-          git commit -m "docs: update CHANGELOG [skip ci]" || echo "No changes to commit"
-
-      - name: 🏷️ Create new tag
-        run: |
-          git tag ${{ steps.version.outputs.next_tag }}
-          git push origin ${{ steps.version.outputs.next_tag }}
-
-      - name: 🚀 Push changes
-        run: |
-          git push origin HEAD:master
-
-      - name: 📦 Upload GitHub Pages artifact
+      - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
+          path: ./  # Replace if you have a build output directory
 
-      - name: 🌍 Deploy to GitHub Pages
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    needs: build-and-release
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
