@@ -3,18 +3,18 @@
         "id": "9508052001",
         "district_id": "950805",
         "name": "Geselma (Geselema)",
-        "postal_code": ""
+        "postal_code": "99903"
     },
     {
         "id": "9508052006",
         "district_id": "950805",
         "name": "Talem",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9508052007",
         "district_id": "950805",
         "name": "Kosolpem",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

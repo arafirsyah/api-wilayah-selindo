@@ -3,54 +3,54 @@
         "id": "9604042001",
         "district_id": "960404",
         "name": "Mate",
-        "postal_code": ""
+        "postal_code": "98474"
     },
     {
         "id": "9604042004",
         "district_id": "960404",
         "name": "Serkos",
-        "postal_code": ""
+        "postal_code": "98474"
     },
     {
         "id": "9604042006",
         "district_id": "960404",
         "name": "Solta Baru",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604042008",
         "district_id": "960404",
         "name": "Wadoi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604042009",
         "district_id": "960404",
         "name": "Isogo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604042013",
         "district_id": "960404",
         "name": "Sibae",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604042020",
         "district_id": "960404",
         "name": "Mogibi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604042026",
         "district_id": "960404",
         "name": "Odeare",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604042027",
         "district_id": "960404",
         "name": "Siri-siri",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

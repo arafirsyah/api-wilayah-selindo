@@ -3,24 +3,24 @@
         "id": "9605082001",
         "district_id": "960508",
         "name": "Puper",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9605082002",
         "district_id": "960508",
         "name": "Yenbekaki (Yembekaki)",
-        "postal_code": ""
+        "postal_code": "98058"
     },
     {
         "id": "9605082003",
         "district_id": "960508",
         "name": "Urbinasopen",
-        "postal_code": ""
+        "postal_code": "98058"
     },
     {
         "id": "9605082004",
         "district_id": "960508",
         "name": "Yensener (Yesner)",
-        "postal_code": ""
+        "postal_code": "98058"
     }
 ]

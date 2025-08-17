@@ -3,42 +3,42 @@
         "id": "9601522001",
         "district_id": "960152",
         "name": "Hobard",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601522002",
         "district_id": "960152",
         "name": "Brianlo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601522003",
         "district_id": "960152",
         "name": "Floyi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601522004",
         "district_id": "960152",
         "name": "Klazelt (Klazelth)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601522005",
         "district_id": "960152",
         "name": "Sfadon",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601522006",
         "district_id": "960152",
         "name": "Selol",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601522007",
         "district_id": "960152",
         "name": "Dais",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

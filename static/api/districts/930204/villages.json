@@ -3,18 +3,18 @@
         "id": "9302042001",
         "district_id": "930204",
         "name": "Kouh",
-        "postal_code": ""
+        "postal_code": "99655"
     },
     {
         "id": "9302042007",
         "district_id": "930204",
         "name": "Jair",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9302042008",
         "district_id": "930204",
         "name": "Mandobo",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

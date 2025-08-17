@@ -9,7 +9,7 @@
         "id": "1701111004",
         "district_id": "170111",
         "name": "Pasar Mulia",
-        "postal_code": "38513"
+        "postal_code": "38518"
     },
     {
         "id": "1701111005",
@@ -27,13 +27,13 @@
         "id": "1701111007",
         "district_id": "170111",
         "name": "Padang Sialang",
-        "postal_code": "38516"
+        "postal_code": "38517"
     },
     {
         "id": "1701111008",
         "district_id": "170111",
         "name": "Ketapang Besar",
-        "postal_code": "38517"
+        "postal_code": "38516"
     },
     {
         "id": "1701111009",
@@ -51,6 +51,6 @@
         "id": "1701112002",
         "district_id": "170111",
         "name": "Batu Lambang",
-        "postal_code": "38518"
+        "postal_code": "38513"
     }
 ]

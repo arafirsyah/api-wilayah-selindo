@@ -3,66 +3,66 @@
         "id": "9501011001",
         "district_id": "950101",
         "name": "Wamena Kota",
-        "postal_code": ""
+        "postal_code": "99511"
     },
     {
         "id": "9501011056",
         "district_id": "950101",
         "name": "Sinapuk",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501011057",
         "district_id": "950101",
         "name": "Sinakma",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012015",
         "district_id": "950101",
         "name": "Honelama",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012025",
         "district_id": "950101",
         "name": "Hulekama \/ Hurekama",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012034",
         "district_id": "950101",
         "name": "Batu Merah",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012037",
         "district_id": "950101",
         "name": "Autakma",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012058",
         "district_id": "950101",
         "name": "Honelama Dua",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012059",
         "district_id": "950101",
         "name": "Honaima",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012060",
         "district_id": "950101",
         "name": "Lanitipo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501012061",
         "district_id": "950101",
         "name": "Wamaroma",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

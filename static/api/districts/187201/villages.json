@@ -3,30 +3,30 @@
         "id": "1872011001",
         "district_id": "187201",
         "name": "Metro",
-        "postal_code": ""
+        "postal_code": "34111"
     },
     {
         "id": "1872011002",
         "district_id": "187201",
         "name": "Hadimulyo Timur",
-        "postal_code": ""
+        "postal_code": "34113"
     },
     {
         "id": "1872011003",
         "district_id": "187201",
         "name": "Imopuro",
-        "postal_code": ""
+        "postal_code": "34111"
     },
     {
         "id": "1872011004",
         "district_id": "187201",
         "name": "Hadimulyo Barat",
-        "postal_code": ""
+        "postal_code": "34113"
     },
     {
         "id": "1872011005",
         "district_id": "187201",
         "name": "Yosomulyo",
-        "postal_code": ""
+        "postal_code": "34111"
     }
 ]

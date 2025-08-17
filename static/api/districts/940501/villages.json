@@ -3,54 +3,54 @@
         "id": "9405012002",
         "district_id": "940501",
         "name": "Kago",
-        "postal_code": ""
+        "postal_code": "98965"
     },
     {
         "id": "9405012006",
         "district_id": "940501",
         "name": "Kimak",
-        "postal_code": ""
+        "postal_code": "98965"
     },
     {
         "id": "9405012012",
         "district_id": "940501",
         "name": "Wuloni",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9405012016",
         "district_id": "940501",
         "name": "Nipuralome",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9405012017",
         "district_id": "940501",
         "name": "Tagaloa",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9405012018",
         "district_id": "940501",
         "name": "Jenggerpaga",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9405012019",
         "district_id": "940501",
         "name": "kibogolome",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9405012020",
         "district_id": "940501",
         "name": "Ilambet",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9405012021",
         "district_id": "940501",
         "name": "Kalebut",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

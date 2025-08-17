@@ -3,60 +3,60 @@
         "id": "9507072006",
         "district_id": "950707",
         "name": "Tima",
-        "postal_code": ""
+        "postal_code": "99583"
     },
     {
         "id": "9507072007",
         "district_id": "950707",
         "name": "Balime",
-        "postal_code": ""
+        "postal_code": "99583"
     },
     {
         "id": "9507072008",
         "district_id": "950707",
         "name": "Balingga",
-        "postal_code": ""
+        "postal_code": "99583"
     },
     {
         "id": "9507072010",
         "district_id": "950707",
         "name": "Gume",
-        "postal_code": ""
+        "postal_code": "99583"
     },
     {
         "id": "9507072017",
         "district_id": "950707",
         "name": "Timonikime",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507072018",
         "district_id": "950707",
         "name": "Binolanggen",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507072019",
         "district_id": "950707",
         "name": "Dewaka",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507072020",
         "district_id": "950707",
         "name": "Yialo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507072021",
         "district_id": "950707",
         "name": "Towewak",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507072022",
         "district_id": "950707",
         "name": "Yumaneri",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

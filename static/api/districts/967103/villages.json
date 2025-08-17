@@ -3,24 +3,24 @@
         "id": "9671031002",
         "district_id": "967103",
         "name": "Rufei",
-        "postal_code": ""
+        "postal_code": "98412"
     },
     {
         "id": "9671031005",
         "district_id": "967103",
         "name": "Klawasi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9671031006",
         "district_id": "967103",
         "name": "Puncak Cendrawasih",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9671031007",
         "district_id": "967103",
         "name": "Pal Putih",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

@@ -3,60 +3,60 @@
         "id": "9501032006",
         "district_id": "950103",
         "name": "Kimbin (Kimbim)",
-        "postal_code": ""
+        "postal_code": "99531"
     },
     {
         "id": "9501032008",
         "district_id": "950103",
         "name": "Walak",
-        "postal_code": ""
+        "postal_code": "99531"
     },
     {
         "id": "9501032015",
         "district_id": "950103",
         "name": "Araboda",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501032017",
         "district_id": "950103",
         "name": "Logotpaga",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501032025",
         "district_id": "950103",
         "name": "Wawanca",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501032026",
         "district_id": "950103",
         "name": "Miligatnem",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501032029",
         "district_id": "950103",
         "name": "Loki",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501032034",
         "district_id": "950103",
         "name": "Tikawo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501032044",
         "district_id": "950103",
         "name": "Kombagwe",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9501032045",
         "district_id": "950103",
         "name": "Wanggonoma",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

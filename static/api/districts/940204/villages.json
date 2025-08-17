@@ -3,48 +3,48 @@
         "id": "9402042001",
         "district_id": "940204",
         "name": "Mewoluk",
-        "postal_code": ""
+        "postal_code": "98945"
     },
     {
         "id": "9402042005",
         "district_id": "940204",
         "name": "Gumbru",
-        "postal_code": ""
+        "postal_code": "98945"
     },
     {
         "id": "9402042007",
         "district_id": "940204",
         "name": "Anggolapaga",
-        "postal_code": ""
+        "postal_code": "98945"
     },
     {
         "id": "9402042008",
         "district_id": "940204",
         "name": "Balinggup",
-        "postal_code": ""
+        "postal_code": "98945"
     },
     {
         "id": "9402042009",
         "district_id": "940204",
         "name": "Waliba",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9402042010",
         "district_id": "940204",
         "name": "Nggininik",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9402042011",
         "district_id": "940204",
         "name": "Biak",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9402042023",
         "district_id": "940204",
         "name": "Wutikme",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

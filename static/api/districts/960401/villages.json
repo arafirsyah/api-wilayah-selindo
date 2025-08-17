@@ -3,96 +3,96 @@
         "id": "9604011005",
         "district_id": "960401",
         "name": "Kaibus",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604011006",
         "district_id": "960401",
         "name": "Kohoin",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012004",
         "district_id": "960401",
         "name": "Wersar",
-        "postal_code": ""
+        "postal_code": "98475"
     },
     {
         "id": "9604012009",
         "district_id": "960401",
         "name": "Wehali",
-        "postal_code": ""
+        "postal_code": "98475"
     },
     {
         "id": "9604012010",
         "district_id": "960401",
         "name": "Aibobor",
-        "postal_code": ""
+        "postal_code": "98475"
     },
     {
         "id": "9604012017",
         "district_id": "960401",
         "name": "Wermit",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012018",
         "district_id": "960401",
         "name": "Keyen",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012021",
         "district_id": "960401",
         "name": "Siribau",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012025",
         "district_id": "960401",
         "name": "Magis",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012026",
         "district_id": "960401",
         "name": "Tegirolo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012034",
         "district_id": "960401",
         "name": "Wernas",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012035",
         "district_id": "960401",
         "name": "Tapiri",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012040",
         "district_id": "960401",
         "name": "Gorolo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012041",
         "district_id": "960401",
         "name": "Nambro",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012044",
         "district_id": "960401",
         "name": "Seyolo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9604012045",
         "district_id": "960401",
         "name": "Ani Sesna",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

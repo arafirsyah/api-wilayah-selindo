@@ -3,48 +3,48 @@
         "id": "9507032001",
         "district_id": "950703",
         "name": "Kemiri",
-        "postal_code": ""
+        "postal_code": "99565"
     },
     {
         "id": "9507032016",
         "district_id": "950703",
         "name": "Mamiri",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507032023",
         "district_id": "950703",
         "name": "Kotorambur",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507032024",
         "district_id": "950703",
         "name": "Yorenime",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507032025",
         "district_id": "950703",
         "name": "Waganenga",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507032052",
         "district_id": "950703",
         "name": "Gembilani",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507032053",
         "district_id": "950703",
         "name": "Nambume",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507032054",
         "district_id": "950703",
         "name": "Tengenawi",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

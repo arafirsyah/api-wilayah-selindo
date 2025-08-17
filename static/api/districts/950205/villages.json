@@ -3,66 +3,66 @@
         "id": "9502052001",
         "district_id": "950205",
         "name": "Batom",
-        "postal_code": ""
+        "postal_code": "99442"
     },
     {
         "id": "9502052006",
         "district_id": "950205",
         "name": "Oksip",
-        "postal_code": ""
+        "postal_code": "99442"
     },
     {
         "id": "9502052009",
         "district_id": "950205",
         "name": "Mongham (Mogham)",
-        "postal_code": ""
+        "postal_code": "99442"
     },
     {
         "id": "9502052011",
         "district_id": "950205",
         "name": "Sabi",
-        "postal_code": ""
+        "postal_code": "99442"
     },
     {
         "id": "9502052012",
         "district_id": "950205",
         "name": "Neep",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9502052013",
         "district_id": "950205",
         "name": "Muara",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9502052014",
         "district_id": "950205",
         "name": "Batom Dua",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9502052015",
         "district_id": "950205",
         "name": "Akyako",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9502052016",
         "district_id": "950205",
         "name": "Peteng",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9502052017",
         "district_id": "950205",
         "name": "Belomo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9502052018",
         "district_id": "950205",
         "name": "Abukerom",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

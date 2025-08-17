@@ -3,30 +3,30 @@
         "id": "9609272001",
         "district_id": "960927",
         "name": "Sasui",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609272002",
         "district_id": "960927",
         "name": "Imbuan (Bondopi)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609272003",
         "district_id": "960927",
         "name": "Manggaew",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609272004",
         "district_id": "960927",
         "name": "Saurabon",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609272005",
         "district_id": "960927",
         "name": "Wasawmontem",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

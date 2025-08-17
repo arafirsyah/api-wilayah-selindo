@@ -3,72 +3,72 @@
         "id": "9504242001",
         "district_id": "950424",
         "name": "Geya",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242003",
         "district_id": "950424",
         "name": "Alobaga",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242004",
         "district_id": "950424",
         "name": "Timori",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242005",
         "district_id": "950424",
         "name": "Nawu",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242006",
         "district_id": "950424",
         "name": "Tinagoga",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242007",
         "district_id": "950424",
         "name": "Witipur",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242008",
         "district_id": "950424",
         "name": "Jelepele",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242012",
         "district_id": "950424",
         "name": "Winalo",
-        "postal_code": ""
+        "postal_code": "99024"
     },
     {
         "id": "9504242013",
         "district_id": "950424",
         "name": "Kibu",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504242014",
         "district_id": "950424",
         "name": "Wunggilipur",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504242015",
         "district_id": "950424",
         "name": "Weyambi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504242019",
         "district_id": "950424",
         "name": "Dimbara",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

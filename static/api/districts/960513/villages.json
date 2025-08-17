@@ -3,30 +3,30 @@
         "id": "9605132002",
         "district_id": "960513",
         "name": "Fafanlap",
-        "postal_code": ""
+        "postal_code": "98053"
     },
     {
         "id": "9605132006",
         "district_id": "960513",
         "name": "Yellu",
-        "postal_code": ""
+        "postal_code": "98053"
     },
     {
         "id": "9605132007",
         "district_id": "960513",
         "name": "Harapan Jaya",
-        "postal_code": ""
+        "postal_code": "98053"
     },
     {
         "id": "9605132009",
         "district_id": "960513",
         "name": "Usaha Jaya",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9605132010",
         "district_id": "960513",
         "name": "Dabatan",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

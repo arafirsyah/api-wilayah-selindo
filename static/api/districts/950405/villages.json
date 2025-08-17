@@ -3,114 +3,114 @@
         "id": "9504052001",
         "district_id": "950405",
         "name": "Goyage",
-        "postal_code": ""
+        "postal_code": "99025"
     },
     {
         "id": "9504052003",
         "district_id": "950405",
         "name": "Yemarima (Yemarma)",
-        "postal_code": ""
+        "postal_code": "99025"
     },
     {
         "id": "9504052004",
         "district_id": "950405",
         "name": "Tigikun (Tagikun \/ Tigikum)",
-        "postal_code": ""
+        "postal_code": "99025"
     },
     {
         "id": "9504052007",
         "district_id": "950405",
         "name": "Dugi",
-        "postal_code": ""
+        "postal_code": "99025"
     },
     {
         "id": "9504052008",
         "district_id": "950405",
         "name": "Doge",
-        "postal_code": ""
+        "postal_code": "99025"
     },
     {
         "id": "9504052018",
         "district_id": "950405",
         "name": "Benari",
-        "postal_code": ""
+        "postal_code": "99025"
     },
     {
         "id": "9504052019",
         "district_id": "950405",
         "name": "Wijamurik",
-        "postal_code": ""
+        "postal_code": "99025"
     },
     {
         "id": "9504052021",
         "district_id": "950405",
         "name": "Woji",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052022",
         "district_id": "950405",
         "name": "Mampulaga (Nampulaga)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052023",
         "district_id": "950405",
         "name": "Tidur Mabuk",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052024",
         "district_id": "950405",
         "name": "Bini",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052025",
         "district_id": "950405",
         "name": "Didelonik",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052026",
         "district_id": "950405",
         "name": "Kumbur (Kumbu)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052027",
         "district_id": "950405",
         "name": "Peko (Peku)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052028",
         "district_id": "950405",
         "name": "Tiri",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052029",
         "district_id": "950405",
         "name": "Tigir",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052030",
         "district_id": "950405",
         "name": "Bopa (Bobe)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052031",
         "district_id": "950405",
         "name": "Angkasa",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504052032",
         "district_id": "950405",
         "name": "Gilok",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

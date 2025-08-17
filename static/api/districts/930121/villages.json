@@ -3,30 +3,30 @@
         "id": "9301212001",
         "district_id": "930121",
         "name": "Sabudon",
-        "postal_code": ""
+        "postal_code": "99641"
     },
     {
         "id": "9301212002",
         "district_id": "930121",
         "name": "Padua",
-        "postal_code": ""
+        "postal_code": "99640"
     },
     {
         "id": "9301212003",
         "district_id": "930121",
         "name": "Sigad",
-        "postal_code": ""
+        "postal_code": "99640"
     },
     {
         "id": "9301212004",
         "district_id": "930121",
         "name": "Bamol I",
-        "postal_code": ""
+        "postal_code": "99642"
     },
     {
         "id": "9301212005",
         "district_id": "930121",
         "name": "Bamol II",
-        "postal_code": ""
+        "postal_code": "99642"
     }
 ]

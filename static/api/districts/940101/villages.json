@@ -3,72 +3,72 @@
         "id": "9401011001",
         "district_id": "940101",
         "name": "Wonorejo (Bumi Wonorejo)",
-        "postal_code": ""
+        "postal_code": "98813"
     },
     {
         "id": "9401011002",
         "district_id": "940101",
         "name": "Kali Bobo (Kalibobo)",
-        "postal_code": ""
+        "postal_code": "98818"
     },
     {
         "id": "9401011003",
         "district_id": "940101",
         "name": "Morgo",
-        "postal_code": ""
+        "postal_code": "98811"
     },
     {
         "id": "9401011004",
         "district_id": "940101",
         "name": "Girimulyo",
-        "postal_code": ""
+        "postal_code": "98814"
     },
     {
         "id": "9401011005",
         "district_id": "940101",
         "name": "Karang Tumaritis",
-        "postal_code": ""
+        "postal_code": "98812"
     },
     {
         "id": "9401011006",
         "district_id": "940101",
         "name": "Oyehe",
-        "postal_code": ""
+        "postal_code": "98816"
     },
     {
         "id": "9401011007",
         "district_id": "940101",
         "name": "Karang Mulia",
-        "postal_code": ""
+        "postal_code": "98815"
     },
     {
         "id": "9401011009",
         "district_id": "940101",
         "name": "Nabarua",
-        "postal_code": ""
+        "postal_code": "98817"
     },
     {
         "id": "9401011010",
         "district_id": "940101",
         "name": "Siriwini",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9401012011",
         "district_id": "940101",
         "name": "Kalisusu (Kali Susu)",
-        "postal_code": ""
+        "postal_code": "98821"
     },
     {
         "id": "9401012012",
         "district_id": "940101",
         "name": "Kali Harapan",
-        "postal_code": ""
+        "postal_code": "98822"
     },
     {
         "id": "9401012013",
         "district_id": "940101",
         "name": "Sanoba (Sanoba Pantai)",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

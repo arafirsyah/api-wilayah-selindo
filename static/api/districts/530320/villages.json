@@ -3,72 +3,72 @@
         "id": "5303201006",
         "district_id": "530320",
         "name": "Atmen (Kelurahan Atmen)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "5303202001",
         "district_id": "530320",
         "name": "Subun",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202002",
         "district_id": "530320",
         "name": "Usapinonot",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202003",
         "district_id": "530320",
         "name": "Lapeom",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202004",
         "district_id": "530320",
         "name": "Letneo",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202005",
         "district_id": "530320",
         "name": "Bannae",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202007",
         "district_id": "530320",
         "name": "Atmen",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202008",
         "district_id": "530320",
         "name": "Letneo Selatan",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202009",
         "district_id": "530320",
         "name": "Oabikase",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202010",
         "district_id": "530320",
         "name": "Nifunenas",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202011",
         "district_id": "530320",
         "name": "Subun Bestobe",
-        "postal_code": ""
+        "postal_code": "85670"
     },
     {
         "id": "5303202012",
         "district_id": "530320",
         "name": "Subun Tualele",
-        "postal_code": ""
+        "postal_code": "85670"
     }
 ]

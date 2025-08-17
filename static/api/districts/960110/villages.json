@@ -3,36 +3,36 @@
         "id": "9601102001",
         "district_id": "960110",
         "name": "Sayosa",
-        "postal_code": ""
+        "postal_code": "98436"
     },
     {
         "id": "9601102004",
         "district_id": "960110",
         "name": "Maladofok",
-        "postal_code": ""
+        "postal_code": "98436"
     },
     {
         "id": "9601102006",
         "district_id": "960110",
         "name": "Yorbes",
-        "postal_code": ""
+        "postal_code": "98436"
     },
     {
         "id": "9601102011",
         "district_id": "960110",
         "name": "Samusa",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601102012",
         "district_id": "960110",
         "name": "Klamintu",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601102014",
         "district_id": "960110",
         "name": "Klain",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

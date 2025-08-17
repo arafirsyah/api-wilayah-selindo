@@ -63,12 +63,12 @@
         "id": "1702082015",
         "district_id": "170208",
         "name": "Mojorejo",
-        "postal_code": "39155"
+        "postal_code": null
     },
     {
         "id": "1702082016",
         "district_id": "170208",
         "name": "Talang Lahat",
-        "postal_code": "39155"
+        "postal_code": null
     }
 ]

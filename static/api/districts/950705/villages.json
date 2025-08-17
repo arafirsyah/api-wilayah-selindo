@@ -3,48 +3,48 @@
         "id": "9507052001",
         "district_id": "950705",
         "name": "Dimba",
-        "postal_code": ""
+        "postal_code": "99575"
     },
     {
         "id": "9507052006",
         "district_id": "950705",
         "name": "Yugwa",
-        "postal_code": ""
+        "postal_code": "99575"
     },
     {
         "id": "9507052008",
         "district_id": "950705",
         "name": "Magegobak",
-        "postal_code": ""
+        "postal_code": "99575"
     },
     {
         "id": "9507052010",
         "district_id": "950705",
         "name": "Nongopnage",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507052011",
         "district_id": "950705",
         "name": "Wengenambur",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507052012",
         "district_id": "950705",
         "name": "Wawiragi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507052013",
         "district_id": "950705",
         "name": "Mewilangun",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9507052014",
         "district_id": "950705",
         "name": "Talibarenak",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

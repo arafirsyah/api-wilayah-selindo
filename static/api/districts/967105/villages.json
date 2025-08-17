@@ -3,24 +3,24 @@
         "id": "9671051002",
         "district_id": "967105",
         "name": "Malanu",
-        "postal_code": ""
+        "postal_code": "98416"
     },
     {
         "id": "9671051007",
         "district_id": "967105",
         "name": "Malasilen",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9671051010",
         "district_id": "967105",
         "name": "Matalamagi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9671051011",
         "district_id": "967105",
         "name": "Sawagumu",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

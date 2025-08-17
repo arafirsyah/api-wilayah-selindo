@@ -3,54 +3,54 @@
         "id": "9601202001",
         "district_id": "960120",
         "name": "Luwelala",
-        "postal_code": ""
+        "postal_code": "98444"
     },
     {
         "id": "9601202003",
         "district_id": "960120",
         "name": "Klatim",
-        "postal_code": ""
+        "postal_code": "98444"
     },
     {
         "id": "9601202004",
         "district_id": "960120",
         "name": "Klaos",
-        "postal_code": ""
+        "postal_code": "98444"
     },
     {
         "id": "9601202006",
         "district_id": "960120",
         "name": "Suluh",
-        "postal_code": ""
+        "postal_code": "98444"
     },
     {
         "id": "9601202009",
         "district_id": "960120",
         "name": "Bousui (Bosi)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601202010",
         "district_id": "960120",
         "name": "Kamuyar",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601202011",
         "district_id": "960120",
         "name": "Klaka",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601202012",
         "district_id": "960120",
         "name": "Safdesa",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601202015",
         "district_id": "960120",
         "name": "Klagen",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

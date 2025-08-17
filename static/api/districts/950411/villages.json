@@ -3,54 +3,54 @@
         "id": "9504112002",
         "district_id": "950411",
         "name": "Aruku",
-        "postal_code": ""
+        "postal_code": "99030"
     },
     {
         "id": "9504112003",
         "district_id": "950411",
         "name": "Kubugiwa",
-        "postal_code": ""
+        "postal_code": "99030"
     },
     {
         "id": "9504112005",
         "district_id": "950411",
         "name": "Kubu",
-        "postal_code": ""
+        "postal_code": "99030"
     },
     {
         "id": "9504112015",
         "district_id": "950411",
         "name": "Numbugawe",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504112016",
         "district_id": "950411",
         "name": "Tiyenggupur",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504112018",
         "district_id": "950411",
         "name": "Murik",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504112019",
         "district_id": "950411",
         "name": "Minagi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504112020",
         "district_id": "950411",
         "name": "Kalewi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9504112026",
         "district_id": "950411",
         "name": "Menggenagi",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

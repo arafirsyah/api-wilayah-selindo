@@ -3,30 +3,30 @@
         "id": "9601542001",
         "district_id": "960154",
         "name": "Klafluk",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601542002",
         "district_id": "960154",
         "name": "Mamsit",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601542003",
         "district_id": "960154",
         "name": "Sabake",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601542004",
         "district_id": "960154",
         "name": "Klayastani",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601542005",
         "district_id": "960154",
         "name": "Botain",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

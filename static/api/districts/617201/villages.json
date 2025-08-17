@@ -3,36 +3,36 @@
         "id": "6172011001",
         "district_id": "617201",
         "name": "Roban",
-        "postal_code": ""
+        "postal_code": "79112"
     },
     {
         "id": "6172011002",
         "district_id": "617201",
         "name": "Condong",
-        "postal_code": ""
+        "postal_code": "79111"
     },
     {
         "id": "6172011003",
         "district_id": "617201",
         "name": "Sekip Lama",
-        "postal_code": ""
+        "postal_code": "79113"
     },
     {
         "id": "6172011004",
         "district_id": "617201",
         "name": "Jawa",
-        "postal_code": ""
+        "postal_code": "79116"
     },
     {
         "id": "6172011005",
         "district_id": "617201",
         "name": "Bukit Batu",
-        "postal_code": ""
+        "postal_code": "79114"
     },
     {
         "id": "6172011006",
         "district_id": "617201",
         "name": "Sei\/Sungai Wie",
-        "postal_code": ""
+        "postal_code": "79115"
     }
 ]

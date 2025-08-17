@@ -3,24 +3,24 @@
         "id": "9302132001",
         "district_id": "930213",
         "name": "Firiwage",
-        "postal_code": ""
+        "postal_code": "99691"
     },
     {
         "id": "9302132002",
         "district_id": "930213",
         "name": "Karuwage",
-        "postal_code": ""
+        "postal_code": "99691"
     },
     {
         "id": "9302132005",
         "district_id": "930213",
         "name": "Waliburu",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9302132006",
         "district_id": "930213",
         "name": "Kabuwage",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

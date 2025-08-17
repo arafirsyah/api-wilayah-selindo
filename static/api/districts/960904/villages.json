@@ -3,30 +3,30 @@
         "id": "9609042001",
         "district_id": "960904",
         "name": "Kwoor",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609042002",
         "district_id": "960904",
         "name": "Hopmare",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609042011",
         "district_id": "960904",
         "name": "Orwen",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609042012",
         "district_id": "960904",
         "name": "Barar",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609042013",
         "district_id": "960904",
         "name": "Esmambo",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

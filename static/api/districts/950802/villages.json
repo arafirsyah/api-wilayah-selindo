@@ -3,60 +3,60 @@
         "id": "9508022001",
         "district_id": "950802",
         "name": "Mapenduma",
-        "postal_code": ""
+        "postal_code": "99909"
     },
     {
         "id": "9508022005",
         "district_id": "950802",
         "name": "Duma",
-        "postal_code": ""
+        "postal_code": "99909"
     },
     {
         "id": "9508022006",
         "district_id": "950802",
         "name": "Yoe",
-        "postal_code": ""
+        "postal_code": "99909"
     },
     {
         "id": "9508022007",
         "district_id": "950802",
         "name": "Palsam",
-        "postal_code": ""
+        "postal_code": "99909"
     },
     {
         "id": "9508022008",
         "district_id": "950802",
         "name": "Endumu",
-        "postal_code": ""
+        "postal_code": "99909"
     },
     {
         "id": "9508022009",
         "district_id": "950802",
         "name": "Litkui",
-        "postal_code": ""
+        "postal_code": "99909"
     },
     {
         "id": "9508022010",
         "district_id": "950802",
         "name": "Nowomlusu",
-        "postal_code": ""
+        "postal_code": "99909"
     },
     {
         "id": "9508022011",
         "district_id": "950802",
         "name": "Kelapa Dua",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9508022012",
         "district_id": "950802",
         "name": "Dumdum",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9508022013",
         "district_id": "950802",
         "name": "Lunggadumu",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

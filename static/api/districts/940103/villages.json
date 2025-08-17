@@ -3,24 +3,24 @@
         "id": "9401032001",
         "district_id": "940103",
         "name": "Yaur",
-        "postal_code": ""
+        "postal_code": "98852"
     },
     {
         "id": "9401032002",
         "district_id": "940103",
         "name": "Akudiomi (Akuidiomi)",
-        "postal_code": ""
+        "postal_code": "98852"
     },
     {
         "id": "9401032004",
         "district_id": "940103",
         "name": "Sima",
-        "postal_code": ""
+        "postal_code": "98852"
     },
     {
         "id": "9401032008",
         "district_id": "940103",
         "name": "Wami (Wamijaya)",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

@@ -3,36 +3,36 @@
         "id": "9601552001",
         "district_id": "960155",
         "name": "Sailala",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601552002",
         "district_id": "960155",
         "name": "Klawana",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601552003",
         "district_id": "960155",
         "name": "Kladuk",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601552004",
         "district_id": "960155",
         "name": "Klawon",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601552005",
         "district_id": "960155",
         "name": "Klakak",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601552006",
         "district_id": "960155",
         "name": "Klalwok",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

@@ -3,30 +3,30 @@
         "id": "6171011002",
         "district_id": "617101",
         "name": "Benuamelayu Laut (Benua Melayu Laut)",
-        "postal_code": ""
+        "postal_code": "78123"
     },
     {
         "id": "6171011003",
         "district_id": "617101",
         "name": "Benuamelayu Darat (Benua Melayu Darat)",
-        "postal_code": ""
+        "postal_code": "78122"
     },
     {
         "id": "6171011004",
         "district_id": "617101",
         "name": "Parittokaya (Parit Tokaya)",
-        "postal_code": ""
+        "postal_code": "78121"
     },
     {
         "id": "6171011005",
         "district_id": "617101",
         "name": "Kotabaru (Kota Baru)",
-        "postal_code": ""
+        "postal_code": "78121"
     },
     {
         "id": "6171011006",
         "district_id": "617101",
         "name": "Akcaya",
-        "postal_code": ""
+        "postal_code": "78121"
     }
 ]

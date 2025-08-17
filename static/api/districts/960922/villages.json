@@ -3,36 +3,36 @@
         "id": "9609222001",
         "district_id": "960922",
         "name": "Wausin",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609222002",
         "district_id": "960922",
         "name": "Asiti",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609222003",
         "district_id": "960922",
         "name": "Bisaud",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609222005",
         "district_id": "960922",
         "name": "Nisandauw",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609222006",
         "district_id": "960922",
         "name": "Afrawi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609222007",
         "district_id": "960922",
         "name": "Ajokwapi",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

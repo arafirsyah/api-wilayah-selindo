@@ -3,24 +3,24 @@
         "id": "3273191001",
         "district_id": "327319",
         "name": "Braga",
-        "postal_code": ""
+        "postal_code": "40111"
     },
     {
         "id": "3273191002",
         "district_id": "327319",
         "name": "Merdeka",
-        "postal_code": ""
+        "postal_code": "40113"
     },
     {
         "id": "3273191003",
         "district_id": "327319",
         "name": "Kebon Pisang",
-        "postal_code": ""
+        "postal_code": "40112"
     },
     {
         "id": "3273191004",
         "district_id": "327319",
         "name": "Babakan Ciamis",
-        "postal_code": ""
+        "postal_code": "40117"
     }
 ]

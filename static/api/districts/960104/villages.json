@@ -3,78 +3,78 @@
         "id": "9601042001",
         "district_id": "960104",
         "name": "Klabra",
-        "postal_code": ""
+        "postal_code": "98437"
     },
     {
         "id": "9601042002",
         "district_id": "960104",
         "name": "Wanurian",
-        "postal_code": ""
+        "postal_code": "98437"
     },
     {
         "id": "9601042009",
         "district_id": "960104",
         "name": "Klarion",
-        "postal_code": ""
+        "postal_code": "98437"
     },
     {
         "id": "9601042011",
         "district_id": "960104",
         "name": "Kaas",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042015",
         "district_id": "960104",
         "name": "Wensi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042016",
         "district_id": "960104",
         "name": "Mumpi",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042019",
         "district_id": "960104",
         "name": "Klamak",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042020",
         "district_id": "960104",
         "name": "Serselion",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042022",
         "district_id": "960104",
         "name": "Kmafo",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042027",
         "district_id": "960104",
         "name": "Midlal",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042028",
         "district_id": "960104",
         "name": "Sorain",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042033",
         "district_id": "960104",
         "name": "Armoin",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601042034",
         "district_id": "960104",
         "name": "Serselion Baru",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

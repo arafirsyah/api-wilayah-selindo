@@ -3,30 +3,30 @@
         "id": "9609062001",
         "district_id": "960906",
         "name": "Wau",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609062002",
         "district_id": "960906",
         "name": "Syukwo (Warmandi)",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609062003",
         "district_id": "960906",
         "name": "Waibem",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609062005",
         "district_id": "960906",
         "name": "Weyaf",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609062006",
         "district_id": "960906",
         "name": "Weprari",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

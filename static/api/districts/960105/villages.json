@@ -3,42 +3,42 @@
         "id": "9601051001",
         "district_id": "960105",
         "name": "Katinim",
-        "postal_code": ""
+        "postal_code": "98431"
     },
     {
         "id": "9601051006",
         "district_id": "960105",
         "name": "Majener",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601051007",
         "district_id": "960105",
         "name": "Majaran",
-        "postal_code": ""
+        "postal_code": "98431"
     },
     {
         "id": "9601051009",
         "district_id": "960105",
         "name": "Matawolot",
-        "postal_code": ""
+        "postal_code": "98431"
     },
     {
         "id": "9601052011",
         "district_id": "960105",
         "name": "Walal",
-        "postal_code": ""
+        "postal_code": "98431"
     },
     {
         "id": "9601052012",
         "district_id": "960105",
         "name": "Malaus",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9601052018",
         "district_id": "960105",
         "name": "Rawa Sugi",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

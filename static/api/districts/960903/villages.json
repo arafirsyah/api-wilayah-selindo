@@ -3,36 +3,36 @@
         "id": "9609032001",
         "district_id": "960903",
         "name": "Baun",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609032002",
         "district_id": "960903",
         "name": "Sumbekas",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609032003",
         "district_id": "960903",
         "name": "Metnayam",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609032007",
         "district_id": "960903",
         "name": "Metbelum",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609032012",
         "district_id": "960903",
         "name": "Salem",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609032013",
         "district_id": "960903",
         "name": "Metbesa",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

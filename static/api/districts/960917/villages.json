@@ -3,42 +3,42 @@
         "id": "9609172001",
         "district_id": "960917",
         "name": "Miri",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609172002",
         "district_id": "960917",
         "name": "Meis",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609172003",
         "district_id": "960917",
         "name": "Aifamas",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609172004",
         "district_id": "960917",
         "name": "Meinad",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609172005",
         "district_id": "960917",
         "name": "Atafrumek",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609172006",
         "district_id": "960917",
         "name": "Ifiam",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9609172007",
         "district_id": "960917",
         "name": "Wufmana",
-        "postal_code": ""
+        "postal_code": null
     }
 ]

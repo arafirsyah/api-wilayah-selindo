@@ -3,24 +3,24 @@
         "id": "9671011001",
         "district_id": "967101",
         "name": "Remu Utara",
-        "postal_code": ""
+        "postal_code": "98414"
     },
     {
         "id": "9671011002",
         "district_id": "967101",
         "name": "Klademak",
-        "postal_code": ""
+        "postal_code": "98414"
     },
     {
         "id": "9671011007",
         "district_id": "967101",
         "name": "Kofkerbu",
-        "postal_code": ""
+        "postal_code": null
     },
     {
         "id": "9671011008",
         "district_id": "967101",
         "name": "Remu",
-        "postal_code": ""
+        "postal_code": null
     }
 ]
